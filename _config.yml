@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Vipul Mann"
 title_separator          : "-"
 name                     : &name "Vipul Mann"
-description              : &description "Doctoral Student"
+description              : &description "Welcome to my personal website. I am a doctoral student with the department of Chemical Engineering at Columbia University. My area of research includes accelerated novel materials discovery, swarm and nature inspired algorithms, and natural language processing. Browse through the different tabs to know more about me!"
 url                      : https://afthona.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "afthona/afthona.github.io"
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Vipul Mann"
-  avatar           : "profile.jpf"
-  bio              : "Welcome to my personal website. I am a doctoral student with the department of Chemical Engineering at Columbia University. My area of research includes accelerated novel materials discovery, swarm and nature inspired algorithms, and natural language processing. Browse through the different tabs to know more about me!"
+  avatar           : "profile.jpg"
+  bio              : "Doctoral Student"
   location         : "New York, United States"
   employer         :
   pubmed           : 
