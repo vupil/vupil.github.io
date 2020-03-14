@@ -187,6 +187,15 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  patents:
+    output: true
+    permalink: /:collection/:path/
+  awards:
+    output: true 
+    permalink: /:collection/:path/
+  education:
+    output: true 
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -245,6 +254,33 @@ defaults:
       author_profile: true
       share: true
 
+  # _patents
+  - scope:
+      path: ""
+      type: patents
+    values:
+      layout: single
+      author_profile: true
+      share: true
+
+  # _honors
+  - scope:
+      path: ""
+      type: awards
+    values:
+      layout: single
+      author_profile: true
+      share: true
+
+  # _education
+  - scope:
+      path: ""
+      type: education
+    values:
+      layout: single
+      author_profile: true
+      share: true
+
 # Sass/SCSS
 sass:
   sass_dir: _sass
@@ -261,16 +297,17 @@ timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_ti
 # Plugins
 plugins:
   - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-target-blank
+  # - jekyll-sitemap
+  # - jekyll-gist
+  # - jekyll-feed
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
+  # - jekyll-sitemap
+  # - jekyll-gist
+  # - jekyll-feed
   - jemoji
 
 
