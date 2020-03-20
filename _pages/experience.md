@@ -63,7 +63,7 @@ Advisor: Prof. Raghunathan Rengaswamy | Nov 2018 - March 2019
 <li> Implemented a recurrent neural network (RNN) and evaluated its performance in modeling the game dynamics </li>
 <li> Built modules in Python for performing optimal balls-allocation between bowlers and batsmen, estimating wicket probability at a given state, and estimating match-win probabilities by factoring in both historical data and current </li>
 <li> Combined all the modules together to build an interactive match-simulation tool with quantification of impactful events </li>
-<li> This tool was used by ESPNcricinfo during the Indian Premiere League 2019 and ICC World Cup 2019 worldwide </li>
+<li> This tool was used by ESPN-cricinfo during the Indian Premiere League 2019 and ICC World Cup 2019 worldwide </li>
 </ul>
 </font>
 
