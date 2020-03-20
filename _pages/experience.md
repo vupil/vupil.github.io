@@ -50,7 +50,7 @@ author_profile: true
 Advisor: Prof. Kyle Bishop | Sep 2019 - Nov 2019  
 <ul>
 <li>Modeled enhanced enzyme diffusion using a Bayesian data analysis framework in Python; used enzyme trajectories data obtained from single molecule imaging techniques for tracking enzyme movements </li>
-<li> Evaluated possibility of anisotropic diffusion through a statistical hypothesis test using F-test on displacements
+<li> Evaluated possibility of anisotropic diffusion through a statistical hypothesis test using F-test on displacements </li>
 <li>Proposed Markov-Chain Monte Carlo (MCMC) simulations combined with k-means clustering for modeling diffusion for the different enzyme oligomerization forms; obtained probabilistic distributions capturing uncertainty in the estimates </li>
 <li> Demonstrated significant variations in diffusion coefficients across the possible oligomerization states of the enzyme </li>
 </ul>
