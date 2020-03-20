@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a doctoral student with the Chemical Engineering department at Columbia University. I am part of the Complex Resilient Intelligent Systems (CRIS) group of Prof. Venkat Venkatasubramanian. My core research areas include data-driven materials science and discovery, studying nature inspired algorithms like particle swarm optimization, and natural language processing for engineering systems. I received my bachelor's and master's degrees in Chemical Engineering from the Indian Institute of Technology Madras in 2017.
+I am a Ph.D student in the Complex Resilient Intelligent Systems (CRIS) group of Professor Venkat Venkatasubramanian at Columbia University, New York.
+
+My core research areas of interest include machine learning and artificial intelligence for retrosynthetic planning and novel materials/drug discover; studying emergent phenomena through nature inspired algorithms like particle swarm optimization and evolutionay programming; and studying complex systems.
+
+I graduated with a bachelor's and master's degrees in Chemical Engineering from the Indian Institute of Technology Madras in 2017. Post graduation, I worked in the industry for 2 years in data science roles and worked on problems rangiing from fault detection and diagnoisis, multidimensional optimization problems, and sports analytics problems.
 
 Outside of academics, I am excited about running, swimming, and reading books!
