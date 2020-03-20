@@ -10,6 +10,7 @@ author_profile: true
 
 |Time|Degree|School|
 |:-|:-|:-|
+|09/2019-Present | Ph.D. Candidate, Chemical Engineering | Columbia University
 |05/2017|Master of Technology (Dual Degree), Chemical Engineering | Indian Institute of Technology Madras
 |05/2016|Bachelor of Technology (Dual Degree), Chemical Engineering |Indian Institute of Technology Madras
 
@@ -45,7 +46,7 @@ author_profile: true
 
 ### Projects
 
-<font size="2">**Modeling Enhanced Enzyme Diffusion in the Presence of Substrates**   
+<font size="2"><b>Modeling Enhanced Enzyme Diffusion in the Presence of Substrates</b><br>
 Advisor: Prof. Kyle Bishop | Sep 2019 -- Nov 2019  
 <ul>
 <li>Modeled enhanced enzyme diffusion using a Bayesian data analysis framework in Python; used enzyme trajectories data obtained from single molecule imaging techniques for tracking enzyme movements </li>
@@ -55,7 +56,7 @@ Advisor: Prof. Kyle Bishop | Sep 2019 -- Nov 2019
 </ul>
 </font>
 
-<font size="2">**Machine Learning for Sports Analytics with ESPN-cricinfo**  
+<font size="2"><b>Machine Learning for Sports Analytics with ESPN-cricinfo</b><br>
 Advisor: Prof. Raghunathan Rengaswamy | Nov 2018 -- March 2019
 <ul>
 <li> Used ESPN's ball-by-ball historical dataset for cricket matches in the past 15 years to build a machine learning tool for predicting match scores, quantifying impactful match events, and generating 'smart statistics' for players </li>
@@ -66,7 +67,7 @@ Advisor: Prof. Raghunathan Rengaswamy | Nov 2018 -- March 2019
 </ul>
 </font>
 
-<font size="2">**Anomaly Detection and Prediction for Aluminum Smelting Operations**  
+<font size="2"><b>Anomaly Detection and Prediction for Aluminum Smelting Operations</b><br>
 Advisor: Prof. Raghunathan Rengaswamy | July 2018 -- Oct 2018
 <ul>
 <li> Built an L1 trend-extraction routine in Python with built-in hyperparameter estimation module for a piecewise linear trend extraction on any general time-series signal; core of the algorithm uses CVXOPT for optimization </li>
@@ -76,7 +77,7 @@ Advisor: Prof. Raghunathan Rengaswamy | July 2018 -- Oct 2018
 </ul>
 </font>
 
-<font size="2">**Optimal Filtering using PCA based Dynamic Models**  
+<font size="2"><b>Optimal Filtering using PCA based Dynamic Models</b><br>  
 Advisor: Prof. Arun Tangirala and Prof. Shankar Narasimhan | June 2016 -- May 2017
 <ul>
 <li> Studied and implemented a novel identification technique called dynamic iterative principal component analysis (DIPCA) in MATLAB that takes in process data and estimates model order, parameters, and measurement error variances </li>
@@ -85,7 +86,7 @@ Advisor: Prof. Arun Tangirala and Prof. Shankar Narasimhan | June 2016 -- May 20
 </ul>
 </font>
 
-<font size="2"> **Historical Data Mining and System Identification**  
+<font size="2"> <b>Historical Data Mining and System Identification</b><br>
 Advisor: Dr. Kaushik Ghosh, ASEA Brown Boveri (ABB) Research Centre | May 2015 -- Aug 2015
 <ul>
 <li> Implemented a novel segment identification algorithm in MATLAB to identify 'good regions' in historical databases </li>
@@ -94,7 +95,7 @@ Advisor: Dr. Kaushik Ghosh, ASEA Brown Boveri (ABB) Research Centre | May 2015 -
 </ul>
 </font>
 
-<font size="2"> **SARIMA modeling and Speech Data Analysis using Spectrogram**  
+<font size="2"> <b>SARIMA modeling and Speech Data Analysis using Spectrogram</b><br>
 Advisor: Prof. Arun Tangirala | July 2015 -- Dec 2015
 <ul>
 <li> Modeled monthly measles cases reported in New York City for the last 44 years using R as a Seasonal ARIMA model </li>
