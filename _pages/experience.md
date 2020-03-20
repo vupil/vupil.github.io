@@ -46,7 +46,7 @@ author_profile: true
 ### Projects
 
 **Modeling Enhanced Enzyme Diffusion in the Presence of Substrates**  
-<font size="2"> Advisor: Prof. Kyle Bishop | Sep 2019 -- Nov 2019
+<font size="2"> Advisor: Prof. Kyle Bishop | Sep 2019 -- Nov 2019  
 * Modeled enhanced enzyme diffusion using a Bayesian data analysis framework in Python; used enzyme trajectories data obtained from single molecule imaging techniques for tracking enzyme movements
 * Evaluated possibility of anisotropic diffusion through a statistical hypothesis test using F-test on displacements
 * Proposed Markov-Chain Monte Carlo (MCMC) simulations combined with k-means clustering for modeling diffusion for the different enzyme oligomerization forms; obtained probabilistic distributions capturing uncertainty in the estimates
@@ -81,7 +81,7 @@ author_profile: true
 <font size="2"> Advisor: Dr. Kaushik Ghosh, ASEA Brown Boveri (ABB) Research Centre | May 2015 -- Aug 2015
 * Implemented a novel segment identification algorithm in MATLAB to identify 'good regions' in historical databases
 * Comparatively analyzed an iterative-autoregressive exogenous (ARX) algorithm with the existing system identification algorithm at ABB; proposed changes to make the algorithm more robust towards high noise conditions
-*  Proposed unification of segment identification and iterative ARX algorithms for use in ABB's model identification toolbox
+* Proposed unification of segment identification and iterative ARX algorithms for use in ABB's model identification toolbox
 </font>
 
 **SARIMA modeling and Speech Data Analysis using Spectrogram**  
