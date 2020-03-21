@@ -1,13 +1,11 @@
 ---
-layout: post
-author: Vipul Mann
 title: 'Reflecting on My Learnings During the Last 2 Years of Work Experience'
 date: 2020-03-20
-<!-- permalink: /posts/2020/02/20Reflecting on My Learnings During the Last 2 Years of Work Experience/
+permalink: /posts/2020/02/Reflecting on My Learnings During the Last 2 Years of Work Experience/
 tags:
   - work experience
   - learnings
-  - corporate -->
+  - corporate
 ---
 
 As the academic year comes to a close, a whole new generation of workforce is getting ready to enter the hyper-competitive job market. The constituents of this workforce are largely people who have worked really hard over the last few years and have been successful in securing a job right before graduating from college. However, little do most of these know what’s in store for them until they spend a considerable amount of time, which is usually a couple of years, treading this treacherous path in a totally unfamiliar environment.
