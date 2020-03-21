@@ -1,7 +1,7 @@
 ---
 title: 'Reflecting on My Learnings During the Last 2 Years of Work Experience'
 date: 2020-03-20
-permalink: /posts/Reflecting on My Learnings During the Last 2 Years of Work Experience/
+permalink: /posts/2020/02/20Reflecting on My Learnings During the Last 2 Years of Work Experience/
 tags:
   - work experience
   - learnings
@@ -15,8 +15,8 @@ If these future employees aren’t subservient, they are more likely to have a t
 
 I had the misfortune of being around such mediocre dummies during my first job which I could tolerate for no longer than a year. The experience I had during this time is the primary motivation behind this post. However, I have had the luxury of working in another company as well which inspired me to compare the two experiences mentally and distill the learnings which I am penning down in this article. So, here are the things I learned in the last two years.
 
-1. You don’t always get what you deserve; it’s up to you to fight for it
-======
+You don’t always get what you deserve; it’s up to you to fight for it
+========================
 There is always a misconception among people that the first job is most critical to anyone’s career and not landing an offer from one of the top companies pushes you towards failure. This line of thinking is blatantly flawed and inaccurate. How can one event decide everything a person can achieve in the next 35 years of a professional career? We all know about butterfly-effect and understand that given the dynamic nature of life, simple events can have a great impact later on in life. However, life is not as dynamic and non-linear as it is believed to be so by several people. In fact, it is largely predictable as well as causal with only some element of uncertainty.
 
 The problem lies with the years of stereotypes that get passed down from batches to batches across colleges, that if someone gets placed in Company ABC, he’s a stud. People should understand that most of the companies that decide the fate of students every year come with their own set of biases, limited interview panels decided by a couple of hours’ slot allotted to them, and flawed managers who make wrong decisions through their ‘gut-feeling’ which can be influenced by a multitude of factors known only to them. So, why give so much importance to the outcome of such a deeply flawed system?
