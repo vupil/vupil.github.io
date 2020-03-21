@@ -1,4 +1,6 @@
 ---
+layout: post
+author: Vipul Mann
 title: 'Reflecting on My Learnings During the Last 2 Years of Work Experience'
 date: 2020-03-20
 permalink: /posts/2020/02/20Reflecting on My Learnings During the Last 2 Years of Work Experience/
