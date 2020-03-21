@@ -4,7 +4,7 @@ main:
     url: /experience/
 
   - title: "Blog Posts"
-    url: /blog/blog.html
+    url: /blog/
 
   # - title: "Teaching"
   #   url: /teaching/
