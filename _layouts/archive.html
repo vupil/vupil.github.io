@@ -4,6 +4,10 @@ layout: default
 
 <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="/feed.xml">
 
+{% if site.disqus.shortname %}
+  {% include disqus_comments.html %}
+{% endif %}
+
 {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
   {% include page__hero.html %}
 {% endif %}
