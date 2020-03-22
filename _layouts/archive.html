@@ -2,6 +2,10 @@
 layout: default
 ---
 
+{% if jekyll.environment == 'production' %}
+{% include analytics.html %}
+{% endif %}
+
 {% if site.disqus.shortname %}
   {% include disqus_comments.html %}
 {% endif %}
