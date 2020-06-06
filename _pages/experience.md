@@ -10,7 +10,7 @@ author_profile: true
 
 |Time|Degree|School|
 |:-|:-|:-|
-|09/2019 - Present | Ph.D. Candidate, Chemical Engineering | Columbia University
+|09/2019 - Present | Ph.D. Candidate, Chemical Engineering | Columbia University in the City of New York
 |05/2017|Master of Technology (Dual Degree), Chemical Engineering | Indian Institute of Technology Madras
 |05/2016|Bachelor of Technology (Dual Degree), Chemical Engineering |Indian Institute of Technology Madras
 
