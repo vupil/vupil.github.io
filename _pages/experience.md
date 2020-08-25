@@ -19,7 +19,7 @@ author_profile: true
 
 |Publications|
 |:-|
-|**Vipul Mann**, Abhishek Sivaram, Laya Das, Venkat Venkatasubramanian. Robust and Efficient Swarm Communication Topologies for Hostile Environments. _Swarm and Evolutionary Computation, **March 2020**_, **_Under Review_**|
+|**Vipul Mann**, Abhishek Sivaram, Laya Das, Venkat Venkatasubramanian. Robust and Efficient Swarm Communication Topologies for Hostile Environments. _arXiv:2008.09575, **August 2020**_, ([PDF](https://arxiv.org/abs/2008.09575))	|
 |**Vipul Mann**, Deepak Maurya, Arun Kumar Tangirala, and Shankar Narasimhan. Optimal Filtering and Residual Analysis in Errors-in-variables Model Identification. _Industrial and Engineering Chemistry Research, **January 2020**_ ([PDF](../files/iecr_paper1.pdf))|
 |**Vipul Mann**, Arun Kumar Tangirala, and Shankar Narasimhan. Linear Dynamic Model Identification and Data Reconciliation using Dynamic Iterative PCA (DIPCA). _AIChE 2017 Spring Meeting and 13th Global Congress on Process Safety, **March 2017**_ ([PDF](../files/aiche2017.pdf))|
 
