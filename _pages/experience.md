@@ -15,15 +15,15 @@ author_profile: true
 |05/2016|Bachelor of Technology (Dual Degree), Chemical Engineering |Indian Institute of Technology Madras
 
 
-### Publications and Presentations
+### Publications
 
-|_Journal publications_|
+|_Journal_|
 |:-|
 |**Vipul Mann**, Venkat Venkatasubramanian. Predicting Chemical Reaction Outcomes: A Grammar Ontology-based Transformer Framework. _ChemRxiv. Preprint._(2020), doi: [10.26434/chemrxiv.12985892](https://doi.org/10.26434/chemrxiv.12985892.v1) [(PDF)](../files/goPRO.pdf) |
 |**Vipul Mann**, Abhishek Sivaram, Laya Das, Venkat Venkatasubramanian. Robust and Efficient Swarm Communication Topologies for Hostile Environments. (2020), [arXiv:2008.09575](https://arxiv.org/abs/2008.09575)	 [(PDF)](../files/2008.09575.pdf) |
 |**Vipul Mann**, Deepak Maurya, Arun Kumar Tangirala, and Shankar Narasimhan. Optimal Filtering and Residual Analysis in Errors-in-variables Model Identification. _Industrial and Engineering Chemistry Research_. (2020), doi: [10.1021/acs.iecr.9b04561](https://pubs.acs.org/doi/10.1021/acs.iecr.9b04561) [(PDF)](../files/iecr_paper1.pdf) |
 
-|_Conferences/Presentations_|
+|_Conferences_|
 |:-|
 |**Vipul Mann**, Arun Kumar Tangirala, and Shankar Narasimhan. Linear Dynamic Model Identification and Data Reconciliation using Dynamic Iterative PCA (DIPCA). _AIChE 2017 Spring Meeting and 13th Global Congress on Process Safety_. (2017), [AIChE 2017 Spring Meeting](https://aiche.confex.com/aiche/s17/webprogram/Paper481511.html) [(PDF)](../files/P481511_1.pdf) |
 
