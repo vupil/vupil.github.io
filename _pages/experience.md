@@ -60,7 +60,7 @@ Advisor: Prof. Kyle Bishop | Sep 2019 - Nov 2019
 </ul>
 </font>
 
-<font size="2"><b>Machine Learning for Sports Analytics with ESPN-cricinfo [(news article)] (https://www.espncricinfo.com/story/_/id/26312451/launching-superstats,-new-language-cricket-analysis)</b><br>
+<font size="2"><b>Machine Learning for Sports Analytics with ESPN-cricinfo <a href='https://www.espncricinfo.com/story/_/id/26312451/launching-superstats,-new-language-cricket-analysis'>(news article)</a> </b><br>
 Advisor: Prof. Raghunathan Rengaswamy | Nov 2018 - March 2019
 <ul>
 <li> Used ESPN's ball-by-ball historical dataset for cricket matches in the past 15 years to build a machine learning tool for predicting match scores, quantifying impactful match events, and generating 'smart statistics' for players </li>
