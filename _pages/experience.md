@@ -3,6 +3,7 @@ layout: archive
 title: "CV"
 permalink: /experience/
 author_profile: true
+sitemap: true
 ---
 
 
