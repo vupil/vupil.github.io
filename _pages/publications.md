@@ -1,3 +1,13 @@
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+sitemap: true
+---
+
+
+
 # Journal Publications
 
 ## Predicting Chemical Reaction Outcomes: A Grammar Ontology-based Transformer Framework  
