@@ -3,6 +3,7 @@ layout: archive
 title: "Blog Posts"
 permalink: /blog/
 author_profile: true
+sitemap:true
 ---
 
 <!-- This loops through the paginated posts -->
