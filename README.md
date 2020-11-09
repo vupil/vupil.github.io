@@ -1,3 +1,4 @@
+# About me
 I am a Ph.D student in the Complex Resilient Intelligent Systems (CRIS) group of Professor Venkat Venkatasubramanian at Columbia University, New York.
 
 My core research areas of interest include machine learning and artificial intelligence for retrosynthetic planning and novel materials/drug discovery; studying emergent phenomena through nature inspired algorithms like particle swarm optimization and evolutionary programming; and studying complex emergent systems.
@@ -7,7 +8,7 @@ I graduated with bachelor’s and master’s degrees in Chemical Engineering fro
 Outside of academics, I am excited about running, swimming, and reading books!
 
 
-## Publications and Presentations
+# Publications and Presentations
 
 |_Journal Publications_|
 |:-|
