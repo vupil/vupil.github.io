@@ -19,3 +19,9 @@ Outside of academics, I am excited about running, swimming, and reading books!
 |_Conferences_|
 |:-|
 |**Vipul Mann**, Arun Kumar Tangirala, and Shankar Narasimhan. Linear Dynamic Model Identification and Data Reconciliation using Dynamic Iterative PCA (DIPCA). _AIChE 2017 Spring Meeting and 13th Global Congress on Process Safety_. (2017), [AIChE 2017 Spring Meeting](https://aiche.confex.com/aiche/s17/webprogram/Paper481511.html) [(PDF)](../files/P481511_1.pdf) |
+
+
+# Other links
+[Google Scholar profile](https://scholar.google.com/citations?user=BtgjFdAAAAAJ&hl=en)
+[Research Gate profile](https://www.researchgate.net/profile/Vipul_Mann2)
+[Personal Website](https://vupil.github.io/)
