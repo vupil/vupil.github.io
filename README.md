@@ -22,6 +22,6 @@ Outside of academics, I am excited about running, swimming, and reading books!
 
 
 # Other links
-[Google Scholar profile](https://scholar.google.com/citations?user=BtgjFdAAAAAJ&hl=en)
-[Research Gate profile](https://www.researchgate.net/profile/Vipul_Mann2)
+[Google Scholar profile](https://scholar.google.com/citations?user=BtgjFdAAAAAJ&hl=en)  
+[ResearchGate profile](https://www.researchgate.net/profile/Vipul_Mann2)  
 [Personal Website](https://vupil.github.io/)
