@@ -5,37 +5,35 @@ permalink: /publications/
 author_profile: true
 sitemap: true
 ---
+## Journal Publications
 
-
-
-# Journal Publications
-
-## Predicting Chemical Reaction Outcomes: A Grammar Ontology-based Transformer Framework  
+### Predicting Chemical Reaction Outcomes: A Grammar Ontology-based Transformer Framework  
 _Vipul Mann, Venkat Venkatasubramanian_  | September 2020 | [doi: 10.26434/chemrxiv.12985892](https://chemrxiv.org/articles/preprint/Predicting_Chemical_Reaction_Outcomes_A_Grammar_Ontology-based_Transformer_Framework/12985892)
 
-### Abstract
+#### Abstract
 Discovering and designing novel materials is a challenging problem as it often requires searching a combinatorially large space of potential candidates. Evaluation of all candidates experimentally is typically infeasible as it requires great amounts of effort, time, expertise, and money. The ability to predict reaction outcomes without performing extensive experiments is, therefore, important. Towards that goal, we report an approach that uses context-free grammar (CFG) based representations of molecules in a neural machine translation framework. We formulate the reaction-prediction task as a machine translation problem that involves discovering the transformations from the source sequence (comprising the reactants and agents) to the target sequence (comprising the major product) in the reaction. The grammar ontology-based representation of molecules hierarchically incorporates rich molecular structure information that, in principle, should be valuable for modeling chemical reactions. We achieve an accuracy of 80.1% on a standard reaction dataset using a model characterized by only a fraction of the number of training parameters in other sequence-to-sequence models based works in this area. Moreover, 99% of the predictions made on the same reaction dataset were found to be syntactically valid. We conclude that CFGs-based ontological representations could be an efficient way of incorporating structural information, ensuring chemically valid predictions, and overcoming overfitting in complex machine learning architectures employed in reaction prediction tasks.
 
 ---
-##  Robust and Efficient Swarm Communication Topologies for Hostile Environments  
+###  Robust and Efficient Swarm Communication Topologies for Hostile Environments  
 _Vipul Mann, Abhishek Sivaram, Laya Das, Venkat Venkatasubramanian_  | March 2020 | [arXiv:2008.09575](https://arxiv.org/abs/2008.09575)
 
-### Abstract
+#### Abstract
 Swarm Intelligence-based optimization techniques combine systematic exploration of the search space with information available from neighbors and rely strongly on communication among agents. These algorithms are typically employed to solve problems where the function landscape is not adequately known and there are multiple local optima that could result in premature convergence for other algorithms. Applications of such algorithms can be found in communication systems involving design of networks for efficient information dissemination to a target group, targeted drug-delivery where drug molecules search for the affected site before diffusing, and high-value target localization with a network of drones. In several of such applications, the agents face a hostile environment that can result in loss of agents during the search. Such a loss changes the communication topology of the agents and hence the information available to agents, ultimately influencing the performance of the algorithm. In this paper, we present a study of the impact of loss of agents on the performance of such algorithms as a function of the initial network configuration. We use particle swarm optimization to optimize an objective function with multiple sub-optimal regions in a hostile environment and study its performance for a range of network topologies with loss of agents. The results reveal interesting trade-offs between efficiency, robustness, and performance for different topologies that are subsequently leveraged to discover general properties of networks that maximize performance. Moreover, networks with small-world properties are seen to maximize performance under hostile conditions.
 
 ---
-##  Robust and Efficient Swarm Communication Topologies for Hostile Environments  
+####  Robust and Efficient Swarm Communication Topologies for Hostile Environments  
 _Vipul Mann, Deepak Maurya, Arun Kumar Tangirala, Shankar Narasimhan_  | January 2020 | [doi:10.1021/acs.iecr.9b04561](https://pubs.acs.org/doi/abs/10.1021/acs.iecr.9b04561) | [codebase (MATLAB implementation)](https://github.com/vupil/Optimal-Filtering-EIV-DIPCA)
 
-### Abstract
+#### Abstract
 Dynamic model identification from time series data is a critical component of process control, monitoring, and diagnosis. An important adjunct of model identification is the derivation of filtered estimates of the variables and consequent one-step-ahead prediction errors (residuals) which are very useful for model assessment and iterative model identification. In this work, we present an optimal filtering and residual generation method for the errors-in-variables (EIV) scenario, wherein both the input and output variable measurements are contaminated with errors. The main idea is to combine an EIV-identification strategy with the EIV-Kalman filter (EIV-KF) that is known to provide optimal filtered estimates and residuals of both inputs and outputs for a linear dynamical process in the EIV case. In this work, we combine the EIV-KF with the dynamic iterative principal component analysis (DIPCA) approach that has been recently developed for EIV model identification. This work assumes prominence in that the optimally generated residuals are critical to the tasks of model assessment, fault detection, and diagnosis. The use of residuals in model assessment and reidentification is illustrated in this article, while pointing out that the use of DIPCA alone leads to nonunique filtered estimates and hence nonunique residuals. We remark that the proposed method can be used with any other EIV identification technique.
 
 
-# Conference Publications
+## Conference Publications
 
-## Linear Dynamic Model Identification and Data Reconciliation using Dynamic Iterative PCA (DIPCA)
+### Linear Dynamic Model Identification and Data Reconciliation using Dynamic Iterative PCA (DIPCA)
 _Vipul Mann, Arun Kumar Tangirala, Shankar Narasimhan_ | March 2017 | [AIChE Spring Meeting 2017](https://www.aiche.org/conferences/aiche-spring-meeting-and-global-congress-on-process-safety/2017/proceeding/paper/172a-linear-dynamic-model-identification-and-data-reconciliation-using-dynamic-iterative-pca-dipca)  
 
+#### Abstract
 Identification of input-output models from data is of utmost relevance in chemical process industries and has applications in process monitoring, control and fault diagnosis. Input-output data used in such identification exercises often has measurement errors in both the variables. Model identification under such conditions translates to solving an errors-in-variables (EIV) problem which is difficult to solve using classical system identification techniques. A recently proposed method - Dynamic Iterative Principal Component Analysis (DIPCA) uses PCA framework to identify the process order, delay, model parameters, and
 error variances. DIPCA, however, has certain shortcomings under small sample conditions
 which limit its practical applications.
