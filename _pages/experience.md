@@ -26,6 +26,7 @@ sitemap: true
 
 |_Conferences_|
 |:-|
+|**Vipul Mann**, Venkat Venkatasubramanian. A Formal Grammar-Based Machine Learning Approach for Predicting Reaction Outcomes. _2020 Virtual AIChE Annual Meeting_. (2020), [Virutal AIChE Annual Meeting 2020](https://aiche.confex.com/aiche/2020/meetingapp.cgi/Paper/605838) |
 |**Vipul Mann**, Arun Kumar Tangirala, and Shankar Narasimhan. Linear Dynamic Model Identification and Data Reconciliation using Dynamic Iterative PCA (DIPCA). _AIChE 2017 Spring Meeting and 13th Global Congress on Process Safety_. (2017), [AIChE 2017 Spring Meeting](https://aiche.confex.com/aiche/s17/webprogram/Paper481511.html) [(PDF)](../files/P481511_1.pdf) |
 
 ### Teaching
