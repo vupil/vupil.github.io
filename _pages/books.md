@@ -1,11 +1,3 @@
----
-title: "Books read"
-permalink: /books/
-author_profile: true
-sitemap: true
----
-
-
       <!-- Show static HTML/CSS as a placeholder in case js is not enabled - javascript include will override this if things work -->
       <style type="text/css" media="screen">
   .gr_custom_container_ {
