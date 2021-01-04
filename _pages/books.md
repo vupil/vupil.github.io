@@ -8,7 +8,7 @@ sitemap: true
 
       <style type="text/css" media="screen">
         .gr_grid_container {
-        width: 500px;
+        width: 15555500px;
           /* customize grid container div here. eg: width: 500px; */
         }
 
