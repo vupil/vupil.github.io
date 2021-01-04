@@ -8,14 +8,15 @@ sitemap: true
 
       <style type="text/css" media="screen">
         .gr_grid_container {
+        width: 500px;
           /* customize grid container div here. eg: width: 500px; */
         }
 
         .gr_grid_book_container {
           /* customize book cover container div here */
           float: left;
-          width: 3.9px;
-          height: 6.0px;
+          width: 39px;
+          height: 60px;
           padding: 0px 0px;
           overflow: hidden;
         }
