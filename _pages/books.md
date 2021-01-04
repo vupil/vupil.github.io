@@ -1,10 +1,12 @@
-   ---
+---
 layout: archive
 title: "Books"
 permalink: /books/
 author_profile: true
 sitemap:true
 ---
+
+
    <style type="text/css" media="screen">
         .gr_grid_container {
           /* customize grid container div here. eg: width: 500px; */
