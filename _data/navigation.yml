@@ -5,12 +5,12 @@ main:
     
   - title: "Publications"
     url: /publications/
-
+    
+  - title: "Books"
+    url: /books/
+    
   - title: "Blog Posts"
     url: /blog/
-
-  # - title: "Teaching"
-  #   url: /teaching/
 
   # - title: "Portfolio"
   #   url: /portfolio/
