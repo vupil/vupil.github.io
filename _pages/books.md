@@ -1,10 +1,3 @@
----
-layout: archive
-title: "Books read"
-permalink: /books/
-author_profile: true
-sitemap: true
----
 
       <style type="text/css" media="screen">
         .gr_grid_container {
