@@ -5,21 +5,7 @@ permalink: /books/
 author_profile: true
 sitemap: true
 ---
-      <style type="text/css" media="screen">
-        .gr_grid_container {
-          /* customize grid container div here. eg: width: 500px; */
-          width: 500px;
-        }
-        .gr_grid_book_container {
-          /* customize book cover container div here */
-          float: right;
-          width: 39px;
-          height: 60px;
-          padding: 0px 0px;
-          overflow: hidden;
-        }
-      </style>
-      
+
   <div id="gr_grid_widget_1609955843">
   <div class="gr_grid_container">
     <div class="gr_grid_book_container"><a title="So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love" rel="nofollow" href="https://www.goodreads.com/book/show/13525945-so-good-they-can-t-ignore-you"><img alt="So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360564614l/13525945._SY75_.jpg" /></a></div>
@@ -44,20 +30,3 @@ sitemap: true
     <div class="gr_grid_book_container"><a title="It's the Way You Say It: Becoming Articulate, Well-Spoken, and Clear" rel="nofollow" href="https://www.goodreads.com/book/show/8885868-it-s-the-way-you-say-it"><img alt="It's the Way You Say It: Becoming Articulate, Well-Spoken, and Clear" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348307293l/8885868._SX50_.jpg" /></a></div>
   </div>
   </div>
-<script src="https://www.goodreads.com/review/grid_widget/48237749?cover_size=&hide_link=&hide_title=&num_books=20&order=&shelf=&sort=&widget_id=1609955697" type="text/javascript" charset="utf-8">
-
-</script>
-
-
-
-<div class="grid-container">
-  <div class="grid-item">1</div>
-  <div class="grid-item">2</div>
-  <div class="grid-item">3</div>
-  <div class="grid-item">4</div>
-  <div class="grid-item">5</div>
-  <div class="grid-item">6</div>
-  <div class="grid-item">7</div>
-  <div class="grid-item">8</div>
-  <div class="grid-item">9</div>
-</div>
