@@ -21,10 +21,6 @@ sitemap: true
         }
       </style>
       <div id="gr_grid_widget_1609955843">
-        <!-- Show static html as a placeholder in case js is not enabled - javascript include will override this if things work -->
-            <h2>
-      <a style="text-decoration: none;" rel="nofollow" href="https://www.goodreads.com/review/list/48237749-vipul-mann?shelf=read&utm_medium=api&utm_source=grid_widget">Vipul Mann's bookshelf: read</a>
-    </h2>
       
   <div class="gr_grid_container">
     <div class="gr_grid_book_container"><a title="So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love" rel="nofollow" href="https://www.goodreads.com/book/show/13525945-so-good-they-can-t-ignore-you"><img alt="So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360564614l/13525945._SY75_.jpg" /></a></div>
@@ -48,7 +44,6 @@ sitemap: true
     <div class="gr_grid_book_container"><a title="Reading with the Right Brain: Read Faster by Reading Ideas Instead of Just Words" rel="nofollow" href="https://www.goodreads.com/book/show/23350443-reading-with-the-right-brain"><img alt="Reading with the Right Brain: Read Faster by Reading Ideas Instead of Just Words" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436088098l/23350443._SY75_.jpg" /></a></div>
     <div class="gr_grid_book_container"><a title="It's the Way You Say It: Becoming Articulate, Well-Spoken, and Clear" rel="nofollow" href="https://www.goodreads.com/book/show/8885868-it-s-the-way-you-say-it"><img alt="It's the Way You Say It: Becoming Articulate, Well-Spoken, and Clear" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348307293l/8885868._SX50_.jpg" /></a></div>
   </div>
-      </div>
 <script src="https://www.goodreads.com/review/grid_widget/48237749?cover_size=&hide_link=&hide_title=&num_books=20&order=&shelf=&sort=&widget_id=1609955697" type="text/javascript" charset="utf-8">
 
 </script>
