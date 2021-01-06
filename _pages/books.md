@@ -10,7 +10,6 @@ sitemap: true
           /* customize grid container div here. eg: width: 500px; */
           width: 500px;
         }
-
         .gr_grid_book_container {
           /* customize book cover container div here */
           float: left;
@@ -43,6 +42,7 @@ sitemap: true
     <div class="gr_grid_book_container"><a title="Fight Club" rel="nofollow" href="https://www.goodreads.com/book/show/5759.Fight_Club"><img alt="Fight Club" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1357128997l/5759._SX50_.jpg" /></a></div>
     <div class="gr_grid_book_container"><a title="Reading with the Right Brain: Read Faster by Reading Ideas Instead of Just Words" rel="nofollow" href="https://www.goodreads.com/book/show/23350443-reading-with-the-right-brain"><img alt="Reading with the Right Brain: Read Faster by Reading Ideas Instead of Just Words" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436088098l/23350443._SY75_.jpg" /></a></div>
     <div class="gr_grid_book_container"><a title="It's the Way You Say It: Becoming Articulate, Well-Spoken, and Clear" rel="nofollow" href="https://www.goodreads.com/book/show/8885868-it-s-the-way-you-say-it"><img alt="It's the Way You Say It: Becoming Articulate, Well-Spoken, and Clear" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348307293l/8885868._SX50_.jpg" /></a></div>
+  </div>
   </div>
 <script src="https://www.goodreads.com/review/grid_widget/48237749?cover_size=&hide_link=&hide_title=&num_books=20&order=&shelf=&sort=&widget_id=1609955697" type="text/javascript" charset="utf-8">
 
