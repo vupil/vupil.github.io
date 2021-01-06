@@ -20,6 +20,10 @@ sitemap: true
         }
       </style>
       
+.grid-container {
+  display: grid;
+  grid-template-columns: 80px 200px auto 40px;
+}
   <div id="gr_grid_widget_1609955843">
   <div class="gr_grid_container">
     <div class="gr_grid_book_container"><a title="So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love" rel="nofollow" href="https://www.goodreads.com/book/show/13525945-so-good-they-can-t-ignore-you"><img alt="So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360564614l/13525945._SY75_.jpg" /></a></div>
