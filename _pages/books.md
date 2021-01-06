@@ -12,7 +12,7 @@ sitemap: true
         }
         .gr_grid_book_container {
           /* customize book cover container div here */
-          float: left;
+          float: right;
           width: 39px;
           height: 60px;
           padding: 0px 0px;
