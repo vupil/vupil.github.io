@@ -5,26 +5,6 @@ permalink: /books/
 author_profile: true
 sitemap: true
 ---
-
-      <style type="text/css" media="screen">
-        .gr_grid_container {
-          /* customize grid container div here. eg: width: 500px; */
-        }
-
-        .gr_grid_book_container {
-          /* customize book cover container div here */
-          float: left;
-          width: 39px;
-          height: 60px;
-          padding: 0px 0px;
-          overflow: hidden;
-        }
-      </style>
-      <div id="gr_grid_widget_1609953805">
-        <!-- Show static html as a placeholder in case js is not enabled - javascript include will override this if things work -->
-            <h2>
-      <a style="text-decoration: none;" rel="nofollow" href="https://www.goodreads.com/review/list/48237749-vipul-mann?shelf=read&utm_medium=api&utm_source=grid_widget">Vipul Mann's bookshelf: read</a>
-    </h2>
   <div class="gr_grid_container">
     <div class="gr_grid_book_container"><a title="So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love" rel="nofollow" href="https://www.goodreads.com/book/show/13525945-so-good-they-can-t-ignore-you"><img alt="So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360564614l/13525945._SY75_.jpg" /></a></div>
     <div class="gr_grid_book_container"><a title="Zero to One: Notes on Startups, or How to Build the Future" rel="nofollow" href="https://www.goodreads.com/book/show/18050143-zero-to-one"><img alt="Zero to One: Notes on Startups, or How to Build the Future" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1414347376l/18050143._SX50_.jpg" /></a></div>
@@ -49,6 +29,3 @@ sitemap: true
     <br style="clear: both"/><br/><a class="gr_grid_branding" style="font-size: .9em; color: #382110; text-decoration: none; float: right; clear: both" rel="nofollow" href="https://www.goodreads.com/user/show/48237749-vipul-mann">Vipul Mann's favorite books »</a>
   <noscript><br/>Share <a rel="nofollow" href="/">book reviews</a> and ratings with Vipul Mann, and even join a <a rel="nofollow" href="/group">book club</a> on Goodreads.</noscript>
   </div>
-
-      </div>
-      <script src="https://www.goodreads.com/review/grid_widget/48237749.Vipul%20Mann's%20bookshelf:%20read?cover_size=small&hide_link=&hide_title=&num_books=2100&order=a&shelf=read&sort=date_added&widget_id=1609953805" type="text/javascript" charset="utf-8"></script>
