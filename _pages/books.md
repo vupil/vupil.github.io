@@ -21,8 +21,8 @@ sitemap: true
       </style>
       
   <div id="gr_grid_widget_1609955843">
-  <div class="grid_container">
-    <div class="grid_book_container"><a title="So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love" rel="nofollow" href="https://www.goodreads.com/book/show/13525945-so-good-they-can-t-ignore-you"><img alt="So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360564614l/13525945._SY75_.jpg" /></a></div>
+  <div class="gr_grid_container">
+    <div class="gr_grid_book_container"><a title="So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love" rel="nofollow" href="https://www.goodreads.com/book/show/13525945-so-good-they-can-t-ignore-you"><img alt="So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360564614l/13525945._SY75_.jpg" /></a></div>
     <div class="gr_grid_book_container"><a title="Zero to One: Notes on Startups, or How to Build the Future" rel="nofollow" href="https://www.goodreads.com/book/show/18050143-zero-to-one"><img alt="Zero to One: Notes on Startups, or How to Build the Future" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1414347376l/18050143._SX50_.jpg" /></a></div>
     <div class="gr_grid_book_container"><a title="Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future" rel="nofollow" href="https://www.goodreads.com/book/show/25541028-elon-musk"><img alt="Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518291452l/25541028._SY75_.jpg" /></a></div>
     <div class="gr_grid_book_container"><a title="The Alchemist" rel="nofollow" href="https://www.goodreads.com/book/show/865.The_Alchemist"><img alt="The Alchemist" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1483412266l/865._SY75_.jpg" /></a></div>
@@ -47,3 +47,17 @@ sitemap: true
 <script src="https://www.goodreads.com/review/grid_widget/48237749?cover_size=&hide_link=&hide_title=&num_books=20&order=&shelf=&sort=&widget_id=1609955697" type="text/javascript" charset="utf-8">
 
 </script>
+
+
+
+<div class="grid-container">
+  <div class="grid-item">1</div>
+  <div class="grid-item">2</div>
+  <div class="grid-item">3</div>
+  <div class="grid-item">4</div>
+  <div class="grid-item">5</div>
+  <div class="grid-item">6</div>
+  <div class="grid-item">7</div>
+  <div class="grid-item">8</div>
+  <div class="grid-item">9</div>
+</div>
