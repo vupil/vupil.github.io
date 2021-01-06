@@ -10,6 +10,7 @@ sitemap: true
         .gr_grid_container {
           /* customize grid container div here. eg: width: 500px; */
         }
+
         .gr_grid_book_container {
           /* customize book cover container div here */
           float: left;
@@ -19,6 +20,11 @@ sitemap: true
           overflow: hidden;
         }
       </style>
+      <div id="gr_grid_widget_1609955843">
+        <!-- Show static html as a placeholder in case js is not enabled - javascript include will override this if things work -->
+            <h2>
+      <a style="text-decoration: none;" rel="nofollow" href="https://www.goodreads.com/review/list/48237749-vipul-mann?shelf=read&utm_medium=api&utm_source=grid_widget">Vipul Mann's bookshelf: read</a>
+    </h2>
       
   <div class="gr_grid_container">
     <div class="gr_grid_book_container"><a title="So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love" rel="nofollow" href="https://www.goodreads.com/book/show/13525945-so-good-they-can-t-ignore-you"><img alt="So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360564614l/13525945._SY75_.jpg" /></a></div>
