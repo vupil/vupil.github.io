@@ -6,7 +6,8 @@ author_profile: true
 ---
 
       <!-- Show static HTML/CSS as a placeholder in case js is not enabled - javascript include will override this if things work -->
-      <style type="text/css" media="screen">
+
+<style type="text/css" media="screen">
       
   .gr_custom_container_1609953788 {
     /* customize your Goodreads widget container here*/
@@ -17,6 +18,7 @@ author_profile: true
     color: #000000;
     width: 300px
   }
+  
   .gr_custom_header_1609953788 {
     /* customize your Goodreads header here*/
     border-bottom: 1px solid gray;
@@ -25,6 +27,7 @@ author_profile: true
     text-align: center;
     font-size: 120%
   }
+  
   .gr_custom_each_container_1609953788 {
     /* customize each individual book container here */
     width: 100%;
@@ -34,6 +37,7 @@ author_profile: true
     padding-bottom: 4px;
     border-bottom: 1px solid #aaa;
   }
+  
   .gr_custom_book_container_1609953788 {
     /* customize your book covers here */
     overflow: hidden;
@@ -42,19 +46,23 @@ author_profile: true
       margin-right: 4px;
       width: 39px;
   }
+  
   .gr_custom_author_1609953788 {
     /* customize your author names here */
     font-size: 10px;
   }
+  
   .gr_custom_tags_1609953788 {
     /* customize your tags here */
     font-size: 10px;
     color: gray;
   }
+  
   .gr_custom_rating_1609953788 {
     /* customize your rating stars here */
     float: right;
   }
+  
 </style>
 
       <div id="gr_custom_widget_1609953788">
