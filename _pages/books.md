@@ -1,4 +1,5 @@
 ---
+layout: archive
 title: "Books read"
 permalink: /books/
 author_profile: true
