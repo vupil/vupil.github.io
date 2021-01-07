@@ -30,7 +30,6 @@ sitemap: true
 </ul>
 </font>
 
-
 ###  Robust and Efficient Swarm Communication Topologies for Hostile Environments  
 #### _Vipul Mann, Abhishek Sivaram, Laya Das, Venkat Venkatasubramanian_  | March 2020 | [arXiv:2008.09575](https://arxiv.org/abs/2008.09575)
 
