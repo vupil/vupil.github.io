@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 sitemap: true
 ---
-### Publications and Presentations (overview)
+### Overview
 
 |_Journal_|
 |:-|
