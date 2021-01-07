@@ -7,7 +7,7 @@ sitemap: true
 ---
 ### Overview
 
-|_Journal_|
+|_Journal publications_|
 |:-|
 |**Vipul Mann**, Venkat Venkatasubramanian. Predicting Chemical Reaction Outcomes: A Grammar Ontology-based Transformer Framework. _ChemRxiv. Preprint._(2020), doi: [10.26434/chemrxiv.12985892](https://doi.org/10.26434/chemrxiv.12985892.v1) [(PDF)](../files/goPRO.pdf) |
 |**Vipul Mann**, Abhishek Sivaram, Laya Das, Venkat Venkatasubramanian. Robust and Efficient Swarm Communication Topologies for Hostile Environments. (2020), [arXiv:2008.09575](https://arxiv.org/abs/2008.09575)	 [(PDF)](../files/2008.09575.pdf) |
