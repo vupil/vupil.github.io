@@ -30,8 +30,12 @@ sitemap: true
 </ul>
 </font>
 
+<pre>
+
 ###  Robust and Efficient Swarm Communication Topologies for Hostile Environments  
 #### _Vipul Mann, Abhishek Sivaram, Laya Das, Venkat Venkatasubramanian_  | March 2020 | [arXiv:2008.09575](https://arxiv.org/abs/2008.09575)
+
+</pre>
 
 <font size="3"><b>Abstract</b><br>
 <ul>
@@ -39,9 +43,12 @@ sitemap: true
 </ul>
 </font>
 
+<pre>
 
 ### Optimal Filtering and Residual Analysis in Errors-in-Variables Model Identification
 #### _Vipul Mann, Deepak Maurya, Arun Kumar Tangirala, Shankar Narasimhan_  | January 2020 | [doi:10.1021/acs.iecr.9b04561](https://pubs.acs.org/doi/abs/10.1021/acs.iecr.9b04561) | [codebase (MATLAB implementation)](https://github.com/vupil/Optimal-Filtering-EIV-DIPCA)
+
+</pre>
 
 <font size="3"><b>Abstract</b><br>
 <ul>
