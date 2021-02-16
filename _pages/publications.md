@@ -23,7 +23,7 @@ sitemap: true
 ## Journal Publications
 
 ### Predicting Chemical Reaction Outcomes: A Grammar Ontology-based Transformer Framework  
-#### _Vipul Mann, Venkat Venkatasubramanian_  | January 2021 | [doi: 10.1002/aic.17190](https://doi.org/10.1002/aic.17190)
+#### _Vipul Mann, Venkat Venkatasubramanian_  | January 2021 | [doi: 10.1002/aic.17190](https://doi.org/10.1002/aic.17190), [article](../files/16992231.pdf)
 
 <font size="3"><b>Abstract</b><br>
 <ul> <li> Discovering and designing novel materials is a challenging problem as it often requires searching through a combinatorially large space of potential candidates, typically requiring great amounts of effort, time, expertise, and money. The ability to predict reaction outcomes without performing extensive experiments is, therefore, important. Toward that goal, we report an approach that uses context‐free grammar‐based representations of molecules in a neural machine translation framework. This involves discovering the transformations from the source sequence (comprising the reactants and agents) to the target sequence (comprising the major product) in the reaction. The grammar ontology‐based representation hierarchically incorporates rich molecular‐structure information, ensures syntactic validity of predictions, and overcomes over‐parameterization in complex machine learning architectures. We achieve an accuracy of 80.1% (86.3% top‐2 accuracy) and 99% syntactic validity of predictions on a standard reaction dataset. Moreover, our model is characterized by only a fraction of the number of training parameters used in other similar works in this area.</li>
