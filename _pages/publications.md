@@ -65,7 +65,7 @@ sitemap: true
 </ul>
 </font>
 
-### A Formal Grammar-Based Machine Learning Approach for Predicting Reaction Outcomes
+### Optimal Communication Topologies for Particle Swarm Optimization Under Hostile Environments
 #### _Vipul Mann, Abhishek Sivaram, Laya Das, Venkat Venkatasubramanian_ | November 2020 | [Virtual AIChE Annual Meeting 2020](https://www.aiche.org/academy/conferences/aiche-annual-meeting/2020/proceeding/paper/339j-optimal-communication-topologies-particle-swarm-optimization-under-hostile-environments)  
 
 <font size="3"><b>Abstract</b><br>
