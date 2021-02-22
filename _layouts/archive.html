@@ -5,7 +5,8 @@ layout: default
 {% if jekyll.environment == 'production' %}
 {% include analytics.html %}
 {% endif %}
-<link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="/feed.xml">
+<link rel="canonical" type="application/atom+xml" title="{{ site.title }}" href="/feed.xml">
+<!-- <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="/feed.xml"> -->
 
 {% if site.disqus.shortname %}
   {% include disqus_comments.html %}
