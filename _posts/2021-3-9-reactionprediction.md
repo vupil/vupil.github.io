@@ -1,4 +1,4 @@
-## Do we really need to perform reactions experiments in chemistry laboratories?
+## Can AI take over chemistry (and chemists)?
 
 We have all heard the following prophesies at least once during the last couple of years -- "Machines are going to replace humans in all the tasks that you could imagine?", "Artificial Intelligence is going to solve all the problems (and invent several others) that the human civilization currently suffers from", and my personal favorite "You throw anything at the *ML software* and it'll spit out the correct answer; it's like magic." Though all of these (scandalous) statements have some truth in them, they are not at all useful at addressing the question that a non-ML scientist has lurking at the back of his mind --  could she be replaced as conveniently by machines as they claim?
 
