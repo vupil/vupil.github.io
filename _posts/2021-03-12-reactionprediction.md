@@ -1,7 +1,7 @@
 ---
-title: 'Can AI take over chemistry (and chemists)?'
+title: 'Can AI take over chemistry (and chemists)'
 date: 2021-03-12
-permalink: /posts/2021/03/Can AI take over chemistry (and chemists)?/
+permalink: /posts/2021/03/Can AI take over chemistry (and chemists)/
 tags:
   - artificial intelligence
   - reaction prediction
