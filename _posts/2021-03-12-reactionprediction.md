@@ -18,6 +18,10 @@ tags:
 <h3>Organic chemical reactions</h3>
 <p style="text-align: justify;">Organic reactions are those that primarily involve organic compounds, consisting of molecules that are predominantly composed of carbon (C) and hydrogen (H) atoms, with the optional presence of certain other elements such as oxygen (O), nitrogen (N), chlorine (Cl), bromine (Br), and so on. A vast majority of the compounds on earth are hydrocarbons, with their immense abundance playing a significant role in global and local phenomena (climate change?). Such reactions often occur through a series of reactions that are highly dependent on the type of molecules under consideration and the reaction environment, often giving rise to extremely complex compounds in just a few steps. Moreover, the selectivity of the products changes significantly as the reaction conditions change. As a result of these factors, organic chemistry poses several challenges to anyone who attempts to use computational methods for modeling them. The difficulty increases several-fold if the underlying chemistry information is completely ignored. Here are two reactions that demonstrate how simple and complex organic reactions could become, depending on the participating compounds.</p>
 
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img class="alignnone size-full wp-image-148" src="/files/rknfig1.gif" alt="" width="500" height=""/><figcaption>Figure 1: A simple hydrogenation reaction for the formation of ethene from ethyne</figcaption></figure></div>
+
+
 <div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img class="alignnone size-full wp-image-148" src="https://github.com/vupil/vupil.github.io/blob/11152e17bef01ce63f2bdeb9f73d1f6f47307476/files/rknfig1.gif" alt="" width="500" height=""/><figcaption>Figure 1: A simple hydrogenation reaction for the formation of ethene from ethyne</figcaption></figure></div>
 
 
