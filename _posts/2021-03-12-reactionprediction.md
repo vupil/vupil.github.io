@@ -1,5 +1,5 @@
 ---
-title: 'Can AI take over chemistry (and chemists)'
+title: 'Can AI take over chemistry (and chemists)?'
 date: 2021-03-12
 permalink: /posts/2021/03/Can AI take over chemistry (and chemists)/
 tags:
@@ -18,8 +18,9 @@ tags:
 <h3>Organic chemical reactions</h3>
 <p style="text-align: justify;">Organic reactions are those that primarily involve organic compounds, consisting of molecules that are predominantly composed of carbon (C) and hydrogen (H) atoms, with the optional presence of certain other elements such as oxygen (O), nitrogen (N), chlorine (Cl), bromine (Br), and so on. A vast majority of the compounds on earth are hydrocarbons, with their immense abundance playing a significant role in global and local phenomena (climate change?). Such reactions often occur through a series of reactions that are highly dependent on the type of molecules under consideration and the reaction environment, often giving rise to extremely complex compounds in just a few steps. Moreover, the selectivity of the products changes significantly as the reaction conditions change. As a result of these factors, organic chemistry poses several challenges to anyone who attempts to use computational methods for modeling them. The difficulty increases several-fold if the underlying chemistry information is completely ignored. Here are two reactions that demonstrate how simple and complex organic reactions could become, depending on the participating compounds.</p>
 
+<p style="text-align: justify;">
 <div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://mannpravachan.files.wordpress.com/2021/03/rkn1.gif"><img src="https://mannpravachan.files.wordpress.com/2021/03/rkn1.gif?w=332" alt="" class="wp-image-166"/></a>
-<figcaption>Figure 1: A simple hydrogenation reaction for the formation of ethene from ethyne</figcaption></figure></div>
+<figcaption>Figure 1: A simple hydrogenation reaction for the formation of ethene from ethyne</figcaption></figure></div></p>
 
 <div class="wp-block-image"><figure class="aligncenter size-large is-resized"><a href="https://mannpravachan.files.wordpress.com/2021/03/rkn.jpeg"><img src="https://mannpravachan.files.wordpress.com/2021/03/rkn.jpeg?w=1024" alt="" class="wp-image-164" width="624" height="446"/></a><figcaption>Figure 2. This is how complex an organic chemistry reaction could get. Image from F. Nie, D. L. Kunciw, D. Wilcke, J. E. Stokes, W. R. J. D. Galloway, S. Bartlett, H. F. Sore, D. R. Spring,&nbsp;<em>Angew. Chem. Int. Ed.</em>&nbsp;<strong>2016</strong>,&nbsp;<em>55</em>, 11139.</figcaption></figure></div>
 
