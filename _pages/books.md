@@ -5,6 +5,18 @@ permalink: /books/
 author_profile: true
 sitemap: true
 ---
+## **2021**
+
+| S.No. | Title                                                                                                                            | Author                | My Rating | Average Rating |
+|-------|----------------------------------------------------------------------------------------------------------------------------------|-----------------------|-----------|----------------|
+| 1     | Permanent Record                                                                                            | Edward Snowden     | 4         | 4.30           |
+| 2     | The Effective Scientist: A Handy Guide to a Successful Academic Career                                                                                                      | Corey JA Bradshaw      | 4         | 3.58           |
+| 3     | Man's Search for Meaning                                                                                            | Viktor E. Frankl     | 5         | 4.35           |
+| 4     |How to Avoid a Climate Disaster: The Solutions We Have and the Breakthroughs We Need                                                                                                      | Bill Gates      | 5         | 4.22           |
+| 5     | The Adventures of Huckleberry Finn                                                                                            | Mark Twain     | NA _(racist connotations)_         | 3.82           |
+
+
+## **2020 and before**
 
 | S.No. | Title                                                                                                                            | Author                | My Rating | Average Rating |
 |-------|----------------------------------------------------------------------------------------------------------------------------------|-----------------------|-----------|----------------|
