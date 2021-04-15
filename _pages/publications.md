@@ -9,6 +9,8 @@ sitemap: true
 
 |_Journal Publications_|
 |:-|
+|**Vipul Mann**, Venkat Venkatasubramanian. Retrosynthesis Prediction using Grammar-based Neural Machine Translation: An Information-Theoretic Approach
+. _ChemRxiv_. (2021), doi: [10.26434/chemrxiv.14410442.v1](https://doi.org/10.26434/chemrxiv.14410442.v1) |
 |**Vipul Mann**, Venkat Venkatasubramanian. Predicting Chemical Reaction Outcomes: A Grammar Ontology-based Transformer Framework. _AIChE Journal_. (2021), doi: [10.1002/aic.17190](https://doi.org/10.1002/aic.17190), [article](https://aiche.onlinelibrary.wiley.com/doi/10.1002/aic.17190) |
 |**Vipul Mann**, Abhishek Sivaram, Laya Das, Venkat Venkatasubramanian. Robust and Efficient Swarm Communication Topologies for Hostile Environments. _Swarm and Evolutionary Computation_. (2021), doi: [10.1016/j.swevo.2021.100848](https://doi.org/10.1016/j.swevo.2021.100848) |
 |**Vipul Mann**, Deepak Maurya, Arun Kumar Tangirala, and Shankar Narasimhan. Optimal Filtering and Residual Analysis in Errors-in-variables Model Identification. _Industrial and Engineering Chemistry Research_. (2020), doi: [10.1021/acs.iecr.9b04561](https://pubs.acs.org/doi/10.1021/acs.iecr.9b04561), [codebase (MATLAB implementation)](https://github.com/vupil/Optimal-Filtering-EIV-DIPCA)
@@ -23,6 +25,14 @@ sitemap: true
 ***
 
 ## Journal Publications
+
+### Retrosynthesis Prediction using Grammar-based Neural Machine Translation: An Information-Theoretic Approach
+#### _Vipul Mann, Venkat Venkatasubramanian_  | April 2021 | [doi: 10.26434/chemrxiv.14410442.v1](https://doi.org/10.26434/chemrxiv.14410442.v1)
+
+<font size="3"><b>Abstract</b><br>
+<ul> <li> Retrosynthetic prediction is one of the main challenges in chemical synthesis that requires identifying reaction pathways and precursor molecules for synthesizing a target molecule. This requires a search over the space of plausible chemical reactions that often results in complex, multi-step, branched synthesis trees for even moderately complex organic reactions. Here, we propose an approach that performs single-step retrosynthesis prediction using SMILES grammar-based representations in a neural machine translation framework. Information-theoretic analyses of such grammar-representations reveal that they are both superior and well-suited for machine learning tasks due to their underlying redundancy and high information capacity compared to purely character-based representations. We report the top-1 prediction accuracy of 43.8% (top-5 measure of 61.4%) and syntactic validity of 95.6% (top-5 measure of 91.6%) on a standard reaction dataset. Comparing our model's performance with previous work that used purely character-based SMILES representations demonstrate improved accuracy and reduced grammatically invalid predictions.</li>
+</ul>
+</font>
 
 ### Predicting Chemical Reaction Outcomes: A Grammar Ontology-based Transformer Framework  
 #### _Vipul Mann, Venkat Venkatasubramanian_  | January 2021 | [doi: 10.1002/aic.17190](https://doi.org/10.1002/aic.17190), [article](../files/16992231.pdf)
