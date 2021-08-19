@@ -25,7 +25,7 @@ Figure 1: A simple hydrogenation reaction for the formation of ethene from ethyn
 <!-- <figure class="aligncenter size-large is-resized"><img class="alignnone size-full wp-image-148" src="/files/rknfig1.gif" alt="" width="50" height=""/><figcaption>Figure 1: A simple hydrogenation reaction for the formation of ethene from ethyne</figcaption></figure> -->
 
 
-<p style="text-align: justify;"><img class="alignnone size-full wp-image-123" src="/files/rknfig2.jpeg" width="300" height="" /></p>
+<p style="text-align: justify;"><img class="alignnone size-full wp-image-123" src="/files/rknfig2.jpeg" width="600" height="" /></p>
 Figure 2. This is how complex an organic chemistry reaction could get. Image from F. Nie, D. L. Kunciw, D. Wilcke, J. E. Stokes, W. R. J. D. Galloway, S. Bartlett, H. F. Sore, D. R. Spring,&nbsp;<em>Angew. Chem. Int. Ed.</em>&nbsp;<strong>2016</strong>,&nbsp;<em>55</em>, 11139
 
 <!-- <figure class="aligncenter size-large is-resized"><img class="alignnone size-full wp-image-148" src="/files/rknfig2.jpeg" width="75" height=""/><figcaption>Figure 2. This is how complex an organic chemistry reaction could get. Image from F. Nie, D. L. Kunciw, D. Wilcke, J. E. Stokes, W. R. J. D. Galloway, S. Bartlett, H. F. Sore, D. R. Spring,&nbsp;<em>Angew. Chem. Int. Ed.</em>&nbsp;<strong>2016</strong>,&nbsp;<em>55</em>, 11139.</figcaption></figure> -->
@@ -41,7 +41,7 @@ Figure 2. This is how complex an organic chemistry reaction could get. Image fro
 <p style="text-align: justify;">Our motivation to use a machine translation approach to the reaction prediction framework came into existence because of the stark similarities between the natural language that we use to communicate in our daily lives and the language of chemistry that the chemists use in their daily lives (in addition to natural language, of course!). Just as natural language has sentences and words as the atomic units in a sentence that convey a given meaning, the language of chemistry analogously has molecular representations (H<sub>2</sub>O, CO<sub>2</sub>, C<sub>2</sub>H<sub>5</sub>OH) with the individual characters as the atomic units that convey information on the constituent elements and their stoichiometry. Thus, using a machine translation framework made complete sense, and we hypothesized that this would give rise to a new paradigm in computational reaction prediction approaches.</p>
 
 
-<p style="text-align: justify;"><img class="alignnone size-full wp-image-123" src="/files/rknfig3.png" width="300" height="" /></p>
+<p style="text-align: justify;"><img class="alignnone size-full wp-image-123" src="/files/rknfig3.png" width="450" height="" /></p>
 Figure 3: Modeling a chemical reaction prediction task as a machine translation problem. Image from Mann, V. and Venkatasubramanian, V. (2021)
 
 <!-- <figure class="aligncenter size-large is-resized"><img src="/files/rknfig3.png" alt="" class="alignnone size-full wp-image-148" width="75" height=""/><figcaption>Figure 3: Modeling a chemical reaction prediction task as a machine translation problem. Image from Mann, V. and Venkatasubramanian, V. (2021)</figcaption></figure> -->
@@ -66,7 +66,7 @@ Figure 5: Prediction accuracy of the model and the average accuracy of human che
 <!-- <figure class="aligncenter size-large"><img src="/files/rknfig5.png" alt="" class="alignnone size-full wp-image-148" width="50" height=""/><figcaption>Figure 5: Prediction accuracy of the model and the average accuracy of human chemists versus reaction template popularity. Image from Mann, V. and Venkatasubramanian, V. (2021)</figcaption></figure>
  -->
  
-<p style="text-align: justify;"><img class="alignnone size-full wp-image-123" src="/files/rknfig6.png" width="300" height="" /></p>
+<p style="text-align: justify;"><img class="alignnone size-full wp-image-123" src="/files/rknfig6.png" width="600" height="" /></p>
 Figure 6: Some of the reactions in the human chemists' dataset that were predicted incorrectly by our model. Even the incorrect predictions share a structure very similar to the actual product of the reaction. The bin popularity along with their frequency of appearance in the database is indicated for each reaction. Image from Mann, V. and Venkatasubramanian, V. (2021)
  
 <!-- <figure class="aligncenter size-large"><img src="/files/rknfig6.png" alt="" class="wp-image-185" width="375" height=""/><figcaption>Figure 6: Some of the reactions in the human chemists' dataset that were predicted incorrectly by our model. Even the incorrect predictions share a structure very similar to the actual product of the reaction. The bin popularity along with their frequency of appearance in the database is indicated for each reaction. Image from Mann, V. and Venkatasubramanian, V. (2021)</figcaption></figure> -->
