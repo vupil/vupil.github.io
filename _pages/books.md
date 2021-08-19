@@ -14,6 +14,10 @@ sitemap: true
 | 3     | Man's Search for Meaning                                                                                            | Viktor E. Frankl     | 5         | 4.35           |
 | 4     |How to Avoid a Climate Disaster: The Solutions We Have and the Breakthroughs We Need                                                                                                      | Bill Gates      | 5         | 4.22           |
 | 5     | The Adventures of Huckleberry Finn                                                                                            | Mark Twain     | NA _(racist connotations)_         | 3.82           |
+| 6     | How Not to Die                                                                                            | Michael Greger     | 5        | 4.45           |
+| 7     | The Talent Code                                                                                            | Daniel Coyle     | 3        | 4.03           |
+| 8     | Catch-22                                                                                            | Joseph Heller     | 5         | 3.98           |
+
 
 
 ## **2020 and before**
