@@ -66,8 +66,10 @@ Figure 5: Prediction accuracy of the model and the average accuracy of human che
 <!-- <figure class="aligncenter size-large"><img src="/files/rknfig5.png" alt="" class="alignnone size-full wp-image-148" width="50" height=""/><figcaption>Figure 5: Prediction accuracy of the model and the average accuracy of human chemists versus reaction template popularity. Image from Mann, V. and Venkatasubramanian, V. (2021)</figcaption></figure>
  -->
  
+<center>
 <p style="text-align: justify;"><img class="aligncenter size-full wp-image-123" src="/files/rknfig6.png" width="600" height="" /></p>
 Figure 6: Some of the reactions in the human chemists' dataset that were predicted incorrectly by our model. Even the incorrect predictions share a structure very similar to the actual product of the reaction. The bin popularity along with their frequency of appearance in the database is indicated for each reaction. Image from Mann, V. and Venkatasubramanian, V. (2021)
+</center>
  
 <!-- <figure class="aligncenter size-large"><img src="/files/rknfig6.png" alt="" class="wp-image-185" width="375" height=""/><figcaption>Figure 6: Some of the reactions in the human chemists' dataset that were predicted incorrectly by our model. Even the incorrect predictions share a structure very similar to the actual product of the reaction. The bin popularity along with their frequency of appearance in the database is indicated for each reaction. Image from Mann, V. and Venkatasubramanian, V. (2021)</figcaption></figure> -->
 
