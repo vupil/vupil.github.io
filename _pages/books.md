@@ -10,9 +10,9 @@ sitemap: true
 | S.No. | Title                                                                                                                            | Author                | My Rating | Average Rating |
 |-------|----------------------------------------------------------------------------------------------------------------------------------|-----------------------|-----------|----------------|
 | 1     | Permanent Record                                                                                            | Edward Snowden     | 4         | 4.30           |
-| 2     | The Effective Scientist: A Handy Guide to a Successful Academic Career                                                                                                      | Corey JA Bradshaw      | 4         | 3.58           |
+| 2     | The Effective Scientist                                                                                                     | Corey JA Bradshaw      | 4         | 3.58           |
 | 3     | Man's Search for Meaning                                                                                            | Viktor E. Frankl     | 5         | 4.35           |
-| 4     |How to Avoid a Climate Disaster: The Solutions We Have and the Breakthroughs We Need                                                                                                      | Bill Gates      | 5         | 4.22           |
+| 4     |How to Avoid a Climate Disaster                                                                                                      | Bill Gates      | 5         | 4.22           |
 | 5     | The Adventures of Huckleberry Finn                                                                                            | Mark Twain     | NA _(racist connotations)_         | 3.82           |
 | 6     | How Not to Die                                                                                            | Michael Greger     | 5        | 4.45           |
 | 7     | The Talent Code                                                                                            | Daniel Coyle     | 3        | 4.03           |
