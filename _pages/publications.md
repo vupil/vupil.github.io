@@ -9,7 +9,7 @@ sitemap: true
 
 |_Journal Publications_|
 |:-|
-|**Vipul Mann**, Venkat Venkatasubramanian. Retrosynthesis Prediction using Grammar-based Neural Machine Translation: An Information-Theoretic Approach. _Computers & Chemical Engineering_. (2021), doi: [10.1016/j.compchemeng.2021.107533](https://doi.org/10.1016/j.compchemeng.2021.107533)| [../files/retrosynthesis.pdf] (PDF)
+|**Vipul Mann**, Venkat Venkatasubramanian. Retrosynthesis Prediction using Grammar-based Neural Machine Translation: An Information-Theoretic Approach. _Computers & Chemical Engineering_. (2021), doi: [10.1016/j.compchemeng.2021.107533](https://doi.org/10.1016/j.compchemeng.2021.107533), [../files/retrosynthesis.pdf] (PDF) |
 |**Vipul Mann**, Venkat Venkatasubramanian. Predicting Chemical Reaction Outcomes: A Grammar Ontology-based Transformer Framework. _AIChE Journal_. (2021), doi: [10.1002/aic.17190](https://doi.org/10.1002/aic.17190)|
 |**Vipul Mann**, Abhishek Sivaram, Laya Das, Venkat Venkatasubramanian. Robust and Efficient Swarm Communication Topologies for Hostile Environments. _Swarm and Evolutionary Computation_. (2021), doi: [10.1016/j.swevo.2021.100848](https://doi.org/10.1016/j.swevo.2021.100848) |
 |**Vipul Mann**, Deepak Maurya, Arun Kumar Tangirala, and Shankar Narasimhan. Optimal Filtering and Residual Analysis in Errors-in-variables Model Identification. _Industrial and Engineering Chemistry Research_. (2020), doi: [10.1021/acs.iecr.9b04561](https://pubs.acs.org/doi/10.1021/acs.iecr.9b04561), [codebase (MATLAB implementation)](https://github.com/vupil/Optimal-Filtering-EIV-DIPCA)
