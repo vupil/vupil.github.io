@@ -9,8 +9,8 @@ sitemap: true
 
 |_Journal Publications_|
 |:-|
-|**Vipul Mann**, Venkat Venkatasubramanian. Retrosynthesis Prediction using Grammar-based Neural Machine Translation: An Information-Theoretic Approach. _Computers & Chemical Engineering_. (2021), doi: [10.1016/j.compchemeng.2021.107533](https://doi.org/10.1016/j.compchemeng.2021.107533) [(PDF)](../files/retrosynthesis.pdf)|
-|**Vipul Mann**, Venkat Venkatasubramanian. Predicting Chemical Reaction Outcomes: A Grammar Ontology-based Transformer Framework. _AIChE Journal_. (2021), doi: [10.1002/aic.17190](https://doi.org/10.1002/aic.17190) [(PDF)](../files/goPRO.pdf)|
+|**Vipul Mann**, Venkat Venkatasubramanian. Retrosynthesis Prediction using Grammar-based Neural Machine Translation: An Information-Theoretic Approach. _Computers & Chemical Engineering_. (2021), doi: [10.1016/j.compchemeng.2021.107533](https://doi.org/10.1016/j.compchemeng.2021.107533) [(PDF)](../files/retrosynthesis.pdf), [Python implementation](https://github.com/vupil/grammarTransformerReactionPrediction)|
+|**Vipul Mann**, Venkat Venkatasubramanian. Predicting Chemical Reaction Outcomes: A Grammar Ontology-based Transformer Framework. _AIChE Journal_. (2021), doi: [10.1002/aic.17190](https://doi.org/10.1002/aic.17190) [(PDF)](../files/goPRO.pdf), [Python implementation](https://github.com/vupil/grammarTransformerReactionPrediction)|
 |**Vipul Mann**, Abhishek Sivaram, Laya Das, Venkat Venkatasubramanian. Robust and Efficient Swarm Communication Topologies for Hostile Environments. _Swarm and Evolutionary Computation_. (2021), doi: [10.1016/j.swevo.2021.100848](https://doi.org/10.1016/j.swevo.2021.100848) [(PDF)](../files/pso-smallworld.pdf)|
 |**Vipul Mann**, Deepak Maurya, Arun Kumar Tangirala, and Shankar Narasimhan. Optimal Filtering and Residual Analysis in Errors-in-variables Model Identification. _Industrial and Engineering Chemistry Research_. (2020), doi: [10.1021/acs.iecr.9b04561](https://pubs.acs.org/doi/10.1021/acs.iecr.9b04561) [(PDF)](../files/iecr_paper1.pdf), [codebase (MATLAB implementation)](https://github.com/vupil/Optimal-Filtering-EIV-DIPCA)
 
@@ -26,7 +26,7 @@ sitemap: true
 ## Journal Publications
 
 ### Retrosynthesis Prediction using Grammar-based Neural Machine Translation: An Information-Theoretic Approach
-#### _Vipul Mann, Venkat Venkatasubramanian_  | December 2021 | [doi: 10.1016/j.compchemeng.2021.107533](https://doi.org/10.1016/j.compchemeng.2021.107533)
+#### _Vipul Mann, Venkat Venkatasubramanian_  | December 2021 | [doi: 10.1016/j.compchemeng.2021.107533](https://doi.org/10.1016/j.compchemeng.2021.107533), [Python implementation](https://github.com/vupil/grammarTransformerReactionPrediction)
 
 <font size="3"><b>Abstract</b><br>
 <ul> <li> Retrosynthetic prediction is one of the main challenges in chemical synthesis because it requires a search over the space of plausible chemical reactions that often results in complex, multi-step, branched synthesis trees for even moderately complex organic reactions. Here, we propose an approach that performs single-step retrosynthesis prediction using SMILES grammar-based representations in a neural machine translation framework. Information-theoretic analyses of such grammar-representations reveal that they are superior to SMILES representations and are better-suited for machine learning tasks due to their underlying redundancy and high information capacity. We report the top-1 prediction accuracy of 43.8% (syntactic validity 95.6% ) and maximal fragment (MaxFrag) accuracy of 50.4% . Comparing our model’s performance with previous work that used character-based SMILES representations demonstrate significant reduction in grammatically invalid predictions and improved prediction accuracy. Fewer invalid predictions for both known and unknown reaction class scenarios demonstrate the model’s ability to learn the underlying SMILES grammar efficiently.</li>
@@ -34,7 +34,7 @@ sitemap: true
 </font>
 
 ### Predicting Chemical Reaction Outcomes: A Grammar Ontology-based Transformer Framework  
-#### _Vipul Mann, Venkat Venkatasubramanian_  | January 2021 | [doi: 10.1002/aic.17190](https://doi.org/10.1002/aic.17190)
+#### _Vipul Mann, Venkat Venkatasubramanian_  | January 2021 | [doi: 10.1002/aic.17190](https://doi.org/10.1002/aic.17190), [Python implementation](https://github.com/vupil/grammarTransformerReactionPrediction)
 
 <font size="3"><b>Abstract</b><br>
 <ul> <li> Discovering and designing novel materials is a challenging problem as it often requires searching through a combinatorially large space of potential candidates, typically requiring great amounts of effort, time, expertise, and money. The ability to predict reaction outcomes without performing extensive experiments is, therefore, important. Toward that goal, we report an approach that uses context‐free grammar‐based representations of molecules in a neural machine translation framework. This involves discovering the transformations from the source sequence (comprising the reactants and agents) to the target sequence (comprising the major product) in the reaction. The grammar ontology‐based representation hierarchically incorporates rich molecular‐structure information, ensures syntactic validity of predictions, and overcomes over‐parameterization in complex machine learning architectures. We achieve an accuracy of 80.1% (86.3% top‐2 accuracy) and 99% syntactic validity of predictions on a standard reaction dataset. Moreover, our model is characterized by only a fraction of the number of training parameters used in other similar works in this area.</li>
