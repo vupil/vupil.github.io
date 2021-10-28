@@ -9,21 +9,30 @@ sitemap: true
 
 |_Journal Publications_|
 |:-|
-|**Vipul Mann**, Venkat Venkatasubramanian. Retrosynthesis Prediction using Grammar-based Neural Machine Translation: An Information-Theoretic Approach. _Computers & Chemical Engineering_. (2021), doi: [10.1016/j.compchemeng.2021.107533](https://doi.org/10.1016/j.compchemeng.2021.107533) [(PDF)](../files/retrosynthesis.pdf), [Python implementation](https://github.com/vupil/grammarTransformerReactionPrediction)|
-|**Vipul Mann**, Venkat Venkatasubramanian. Predicting Chemical Reaction Outcomes: A Grammar Ontology-based Transformer Framework. _AIChE Journal_. (2021), doi: [10.1002/aic.17190](https://doi.org/10.1002/aic.17190) [(PDF)](../files/goPRO.pdf), [Python implementation](https://github.com/vupil/grammarTransformerReactionPrediction)|
-|**Vipul Mann**, Abhishek Sivaram, Laya Das, Venkat Venkatasubramanian. Robust and Efficient Swarm Communication Topologies for Hostile Environments. _Swarm and Evolutionary Computation_. (2021), doi: [10.1016/j.swevo.2021.100848](https://doi.org/10.1016/j.swevo.2021.100848) [(PDF)](../files/pso-smallworld.pdf)|
-|**Vipul Mann**, Deepak Maurya, Arun Kumar Tangirala, and Shankar Narasimhan. Optimal Filtering and Residual Analysis in Errors-in-variables Model Identification. _Industrial and Engineering Chemistry Research_. (2020), doi: [10.1021/acs.iecr.9b04561](https://pubs.acs.org/doi/10.1021/acs.iecr.9b04561) [(PDF)](../files/iecr_paper1.pdf), [codebase (MATLAB implementation)](https://github.com/vupil/Optimal-Filtering-EIV-DIPCA)
+| Venkat Venkatasubramanian, **Vipul Mann**. Artificial intelligence in reaction prediction and chemical synthesis. _Current Opinion in Chemical Engineering_. **(2022)**, doi: [10.1016/j.coche.2021.100749](https://doi.org/10.1016/j.coche.2021.100749)|
+|**Vipul Mann**, Venkat Venkatasubramanian. Retrosynthesis Prediction using Grammar-based Neural Machine Translation: An Information-Theoretic Approach. _Computers & Chemical Engineering_. **(2021)**, doi: [10.1016/j.compchemeng.2021.107533](https://doi.org/10.1016/j.compchemeng.2021.107533) [(PDF)](../files/retrosynthesis.pdf), [codebase (Python implementation)](https://github.com/vupil/grammarTransformerReactionPrediction)|
+|**Vipul Mann**, Venkat Venkatasubramanian. Predicting Chemical Reaction Outcomes: A Grammar Ontology-based Transformer Framework. _AIChE Journal_. **(2021)**, doi: [10.1002/aic.17190](https://doi.org/10.1002/aic.17190) [(PDF)](../files/goPRO.pdf), [codebase (Python implementation)](https://github.com/vupil/grammarTransformerReactionPrediction)|
+|**Vipul Mann**, Abhishek Sivaram, Laya Das, Venkat Venkatasubramanian. Robust and Efficient Swarm Communication Topologies for Hostile Environments. _Swarm and Evolutionary Computation_. **(2021)**, doi: [10.1016/j.swevo.2021.100848](https://doi.org/10.1016/j.swevo.2021.100848) [(PDF)](../files/pso-smallworld.pdf)|
+|**Vipul Mann**, Deepak Maurya, Arun Kumar Tangirala, and Shankar Narasimhan. Optimal Filtering and Residual Analysis in Errors-in-variables Model Identification. _Industrial and Engineering Chemistry Research_. **(2020)**, doi: [10.1021/acs.iecr.9b04561](https://pubs.acs.org/doi/10.1021/acs.iecr.9b04561) [(PDF)](../files/iecr_paper1.pdf), [codebase (MATLAB implementation)](https://github.com/vupil/Optimal-Filtering-EIV-DIPCA)
 
 |_Conferences_|
 |:-|
-|**Vipul Mann**, Venkat Venkatasubramanian. A Formal Grammar-Based Machine Learning Approach for Predicting Reaction Outcomes. _2020 Virtual AIChE Annual Meeting_. (2020), [Virtual AIChE Annual Meeting 2020](https://www.aiche.org/academy/conferences/aiche-annual-meeting/2020/proceeding/paper/477c-formal-grammar-based-machine-learning-approach-predicting-reaction-outcomes) |
-|**Vipul Mann**, Abhishek Sivaram, Laya Das, Venkat Venkatasubramanian. Optimal Communication Topologies for Particle Swarm Optimization under Hostile Environments. _2020 Virtual AIChE Annual Meeting_. (2020), [Virtual AIChE Annual Meeting 2020](https://www.aiche.org/academy/conferences/aiche-annual-meeting/2020/proceeding/paper/339j-optimal-communication-topologies-particle-swarm-optimization-under-hostile-environments) |
-|**Vipul Mann**, Arun Kumar Tangirala, and Shankar Narasimhan. Linear Dynamic Model Identification and Data Reconciliation using Dynamic Iterative PCA (DIPCA). _AIChE 2017 Spring Meeting and 13th Global Congress on Process Safety_. (2017), [AIChE 2017 Spring Meeting](https://aiche.confex.com/aiche/s17/webprogram/Paper481511.html) |
+|**Vipul Mann**, Venkat Venkatasubramanian. A Formal Grammar-Based Machine Learning Approach for Predicting Reaction Outcomes. _2020 Virtual AIChE Annual Meeting_. **(2020)**, [Virtual AIChE Annual Meeting 2020](https://www.aiche.org/academy/conferences/aiche-annual-meeting/2020/proceeding/paper/477c-formal-grammar-based-machine-learning-approach-predicting-reaction-outcomes) |
+|**Vipul Mann**, Abhishek Sivaram, Laya Das, Venkat Venkatasubramanian. Optimal Communication Topologies for Particle Swarm Optimization under Hostile Environments. _2020 Virtual AIChE Annual Meeting_. **(2020)**, [Virtual AIChE Annual Meeting 2020](https://www.aiche.org/academy/conferences/aiche-annual-meeting/2020/proceeding/paper/339j-optimal-communication-topologies-particle-swarm-optimization-under-hostile-environments) |
+|**Vipul Mann**, Arun Kumar Tangirala, and Shankar Narasimhan. Linear Dynamic Model Identification and Data Reconciliation using Dynamic Iterative PCA (DIPCA). _AIChE 2017 Spring Meeting and 13th Global Congress on Process Safety_. **(2017)**, [AIChE 2017 Spring Meeting](https://aiche.confex.com/aiche/s17/webprogram/Paper481511.html) |
 
 
 ***
 
 ## Journal Publications
+
+### Artificial intelligence in reaction prediction and chemical synthesis
+#### _Venkat Venkatasubramanian, Vipul Mann_  | June 2022 | [doi: 10.1016/j.coche.2021.100749](https://doi.org/10.1016/j.coche.2021.100749)
+
+<font size="3"><b>Abstract</b><br>
+<ul> <li> Recent years have seen a sudden spurt in the use of artificial intelligence (AI) methods for computational reaction modeling and prediction. Given the diversity of the techniques, we believe it would be helpful to assess them using a broad conceptual framework within which the different approaches reside. Towards that goal, we categorize the different methods into symbolic AI, purely data-driven numeric AI, and hybrid AI methods. Symbolic AI-based approaches require the translation of a priori chemistry knowledge into clearly encoded rules and instructions. Purely data-driven numeric AI methods utilize recent advances in machine learning, generally without explicit incorporation of a priori domain knowledge. In between these two extremes, we have hybrid AI, which integrates domain knowledge with data-driven techniques. We review recent progress across these broad areas to highlight their benefits as well as limitations and provide a future outlook of this rapidly evolving field.</li>
+</ul>
+</font>
 
 ### Retrosynthesis Prediction using Grammar-based Neural Machine Translation: An Information-Theoretic Approach
 #### _Vipul Mann, Venkat Venkatasubramanian_  | December 2021 | [doi: 10.1016/j.compchemeng.2021.107533](https://doi.org/10.1016/j.compchemeng.2021.107533), [Python implementation](https://github.com/vupil/grammarTransformerReactionPrediction)
