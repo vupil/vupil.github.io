@@ -25,6 +25,7 @@ sitemap: true
 
 ***
 
+<!-- 
 ## Journal Publications
 
 ### Artificial intelligence in reaction prediction and chemical synthesis
@@ -102,3 +103,6 @@ sitemap: true
 error variances. DIPCA, however, has certain shortcomings under small sample conditions which limit its practical applications. In this work, we address these shortcomings, namely ambiguity in order determination under small sample cases and arbitrary selection of stacking lag which leads to sub-optimal parameter estimates. We define a metric called ’d-selective eigenvalue ratio’, or d-SEVR that sharply identifies the true order even for small sample cases. We also demonstrate the existence of an optimal stacking lag corresponding to the lowest error in estimation of error-covariance matrix. Finally, we use the identified model to obtain reconciled estimates of variables using Kalman Filter.</li>
     </ul>
     </font>
+
+
+-->
