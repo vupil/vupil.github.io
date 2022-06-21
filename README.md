@@ -12,7 +12,7 @@ Outside of academics, I am excited about running, swimming, and reading books!
 
 |_Journal Publications_|
 |:-|
-|**Vipul Mann**, Karoline Brito, Rafiqul Gani, Venkat Venkatasubramanian. Hybrid, Interpretable Machine Learning for Thermodynamic Property Estimation using Grammar2vec for Molecular Representation. _ChemRxiv_. **(2022)**, doi: [10.26434/chemrxiv-2022-wwsw7](https://doi.org/10.26434/chemrxiv-2022-wwsw7)| 
+|**Vipul Mann**, Karoline Brito, Rafiqul Gani, Venkat Venkatasubramanian. Hybrid, Interpretable Machine Learning for Thermodynamic Property Estimation using Grammar2vec for Molecular Representation. _Fluid Phase Equilibria_. **(2022)**, doi: [10.1016/j.fluid.2022.113531](https://doi.org/10.1016/j.fluid.2022.113531)| 
 |Venkat Venkatasubramanian, **Vipul Mann**. Artificial intelligence in reaction prediction and chemical synthesis. _Current Opinion in Chemical Engineering_. **(2022)**, doi: [10.1016/j.coche.2021.100749](https://doi.org/10.1016/j.coche.2021.100749)
 |**Vipul Mann**, Venkat Venkatasubramanian. Retrosynthesis Prediction using Grammar-based Neural Machine Translation: An Information-Theoretic Approach. _Computers & Chemical Engineering_. **(2021)**, doi: [10.1016/j.compchemeng.2021.107533](https://doi.org/10.1016/j.compchemeng.2021.107533), [codebase (Python implementation)](https://github.com/vupil/grammarTransformerReactionPrediction)| 
 |**Vipul Mann**, Venkat Venkatasubramanian. Predicting Chemical Reaction Outcomes: A Grammar Ontology-based Transformer Framework. _AIChE Journal_. **(2021)**, doi: [10.1002/aic.17190](https://doi.org/10.1002/aic.17190), [codebase (Python implementation)](https://github.com/vupil/grammarTransformerReactionPrediction)|
