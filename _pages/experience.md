@@ -73,7 +73,7 @@ Advisor: Prof. Raghunathan Rengaswamy | Nov 2018 - March 2019 &emsp;  <img style
 </font>
 
 <font size="4"><b>Data Scientist: Anomaly Detection and Prediction for Aluminum Smelting Operations</b><img style='vertical-align:bottom; display:inline;' src='../files/ge.png' width="40"> &emsp;<br>
-Advisor: Prof. Raghunathan Rengaswamy | July 2018 - Oct 2018 &emsp;  
+Advisor: Prof. Raghunathan Rengaswamy | July 2018 - Oct 2018  
 <ul>
 <li> Built an L1 trend-extraction routine in Python with built-in hyperparameter estimation module for a piecewise linear trend extraction on any general time-series signal; core of the algorithm uses CVXOPT for optimization </li>
 <li> Implemented a fuzzy variant of C-means clustering on the estimated linear trends to identify sub-optimal, or anomalous operating regimes through clustering of the operating regimes based on a pre-defined optimality criterion </li>
@@ -91,8 +91,8 @@ Advisor: Prof. Arun Tangirala and Prof. Shankar Narasimhan | June 2016 - May 201
 </ul>
 </font> -->
 
-<font size="4"> <b>Research Internship: Historical Data Mining and System Identification</b><br>
-Advisor: Dr. Kaushik Ghosh, ASEA Brown Boveri (ABB) Research Centre | May 2015 - Aug 2015 &emsp;  <img style='vertical-align:bottom; display:inline;' src='../files/abb.png' width="50">
+<font size="4"> <b>Research Internship: Historical Data Mining and System Identification</b>&emsp;  <img style='vertical-align:bottom; display:inline;' src='../files/abb.png' width="50"><br>
+Advisor: Dr. Kaushik Ghosh, ASEA Brown Boveri (ABB) Research Centre | May 2015 - Aug 2015 
 <ul>
 <li> Implemented a novel segment identification algorithm in MATLAB to identify 'good regions' in historical databases </li>
 <li> Comparatively analyzed an iterative-autoregressive exogenous (ARX) algorithm with the existing system identification algorithm at ABB; proposed changes to make the algorithm more robust towards high noise conditions </li>
