@@ -61,8 +61,7 @@ Advisor: Dr. Matthew Fidler, Novartis | Jun 2020 - Aug 2020 &emsp;  <img style='
 </ul>
 </font>
 
-<font size="4"><b><a href='https://www.espncricinfo.com/story/_/id/26312451/launching-superstats,-new-language-cricket-analysis'>Data Scientist: Machine Learning for Sports Analytics with ESPN-cricinfo</a> &emsp; <a href='https://www.espncricinfo.com/story/_/id/26312451/launching-superstats,-new-language-cricket-analysis'> news article</a> </b> <br>
-
+<font size="4"><b>Data Scientist:<a href='https://www.espncricinfo.com/story/_/id/26312451/launching-superstats,-new-language-cricket-analysis'> Machine Learning for Sports Analytics with ESPN-cricinfo</a> &emsp; <a href='https://www.espncricinfo.com/story/_/id/26312451/launching-superstats,-new-language-cricket-analysis'> news article</a> </b> <br>
 Advisor: Prof. Raghunathan Rengaswamy | Nov 2018 - March 2019 &emsp;  <img style='vertical-align:bottom; display:inline;' src='../files/espn.png' width="95"> &emsp;  <img style='vertical-align:center; display:inline;' src='../files/espncricinfo.png' width="200"> 
 <ul>
 <li> Used ESPN's ball-by-ball historical dataset for cricket matches in the past 15 years to build a machine learning tool for predicting match scores, quantifying impactful match events, and generating 'smart statistics' for players </li>
@@ -74,7 +73,7 @@ Advisor: Prof. Raghunathan Rengaswamy | Nov 2018 - March 2019 &emsp;  <img style
 </font>
 
 <font size="4"><b>Data Scientist: Anomaly Detection and Prediction for Aluminum Smelting Operations</b><br>
-Advisor: Prof. Raghunathan Rengaswamy | July 2018 - Oct 2018 &emsp;  <img style='vertical-align:bottom; display:inline;' src='../files/ge.png' width="50"> &emsp;
+Advisor: Prof. Raghunathan Rengaswamy | July 2018 - Oct 2018 &emsp;  <img style='vertical-align:bottom; display:inline;' src='../files/ge.png' width="40"> &emsp;
 <ul>
 <li> Built an L1 trend-extraction routine in Python with built-in hyperparameter estimation module for a piecewise linear trend extraction on any general time-series signal; core of the algorithm uses CVXOPT for optimization </li>
 <li> Implemented a fuzzy variant of C-means clustering on the estimated linear trends to identify sub-optimal, or anomalous operating regimes through clustering of the operating regimes based on a pre-defined optimality criterion </li>
