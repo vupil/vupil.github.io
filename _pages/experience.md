@@ -53,7 +53,7 @@ Advisor: Prof. Kyle Bishop | Sep 2019 - Nov 2019
 </ul>
 </font> -->
 
-<font size="3"><b><a href='https://www.espncricinfo.com/story/_/id/26312451/launching-superstats,-new-language-cricket-analysis'> Machine Learning for Sports Analytics with ESPN-cricinfo</a> &emsp; <a href='https://www.espncricinfo.com/story/_/id/26312451/launching-superstats,-new-language-cricket-analysis'> news article</a> </b> <br>
+<font size="4"><b><a href='https://www.espncricinfo.com/story/_/id/26312451/launching-superstats,-new-language-cricket-analysis'> Machine Learning for Sports Analytics with ESPN-cricinfo</a> &emsp; <a href='https://www.espncricinfo.com/story/_/id/26312451/launching-superstats,-new-language-cricket-analysis'> news article</a> </b> <br>
 
 Advisor: Prof. Raghunathan Rengaswamy | Nov 2018 - March 2019 &emsp;  <img style='vertical-align:bottom; display:inline;' src='../files/espn.png' width="95"> &emsp;  <img style='vertical-align:center; display:inline;' src='../files/espncricinfo.png' width="200"> 
 <ul>
@@ -65,7 +65,7 @@ Advisor: Prof. Raghunathan Rengaswamy | Nov 2018 - March 2019 &emsp;  <img style
 </ul>
 </font>
 
-<font size="3"><b>Anomaly Detection and Prediction for Aluminum Smelting Operations</b><br>
+<font size="4"><b>Anomaly Detection and Prediction for Aluminum Smelting Operations</b><br>
 Advisor: Prof. Raghunathan Rengaswamy | July 2018 - Oct 2018 &emsp;  <img style='vertical-align:bottom; display:inline;' src='../files/ge.png' width="50"> &emsp;
 <ul>
 <li> Built an L1 trend-extraction routine in Python with built-in hyperparameter estimation module for a piecewise linear trend extraction on any general time-series signal; core of the algorithm uses CVXOPT for optimization </li>
@@ -75,16 +75,16 @@ Advisor: Prof. Raghunathan Rengaswamy | July 2018 - Oct 2018 &emsp;  <img style=
 </ul>
 </font>
 
-<font size="3"><b>Optimal Filtering using PCA based Dynamic Models</b><br>
+<!-- <font size="3"><b>Optimal Filtering using PCA based Dynamic Models</b><br>
 Advisor: Prof. Arun Tangirala and Prof. Shankar Narasimhan | June 2016 - May 2017
 <ul>
 <li> Studied and implemented a novel identification technique called dynamic iterative principal component analysis (DIPCA) in MATLAB that takes in process data and estimates model order, parameters, and measurement error variances </li>
 <li> Proposed a layered optimal data reconciliation and model validation approach based on an errors-in-variables Kalman-filter to handle dynamic input-output variables that the principal component analysis (PCA) framework is unable to handle </li>
 <li> Demonstrated efficacy of this approach on a physical 'two-tank liquid level' case study in obtaining noise-free variable estimates and performing a selective model validation similar to residual analysis in classical system identification </li>
 </ul>
-</font>
+</font> -->
 
-<font size="3"> <b>Historical Data Mining and System Identification</b><br>
+<font size="4"> <b>Historical Data Mining and System Identification</b><br>
 Advisor: Dr. Kaushik Ghosh, ASEA Brown Boveri (ABB) Research Centre | May 2015 - Aug 2015 &emsp;  <img style='vertical-align:bottom; display:inline;' src='../files/abb.png' width="50">
 <ul>
 <li> Implemented a novel segment identification algorithm in MATLAB to identify 'good regions' in historical databases </li>
