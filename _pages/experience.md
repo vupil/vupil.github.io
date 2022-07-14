@@ -29,7 +29,10 @@ sitemap: true
 
 |Time|Role|Organization|
 |:-|:-|:-|
+|2020 - Present|Reviewer|Journal of Computers and Chemical Engineering|
+|2020 - Present|Reviewer|AIChE Journal|
 |02/2020 - Present|Reviewer|Journal of Computers and Chemical Engineering|
+
 
 ## Technical Strengths
 
@@ -40,7 +43,7 @@ sitemap: true
 
 ## Projects
 
-<font size="3"><b>Modeling Enhanced Enzyme Diffusion in the Presence of Substrates</b><br>
+<!-- <font size="3"><b>Modeling Enhanced Enzyme Diffusion in the Presence of Substrates</b><br>
 Advisor: Prof. Kyle Bishop | Sep 2019 - Nov 2019  
 <ul>
 <li>Modeled enhanced enzyme diffusion using a Bayesian data analysis framework in Python; used enzyme trajectories data obtained from single molecule imaging techniques for tracking enzyme movements </li>
@@ -48,7 +51,7 @@ Advisor: Prof. Kyle Bishop | Sep 2019 - Nov 2019
 <li>Proposed Markov-Chain Monte Carlo (MCMC) simulations combined with k-means clustering for modeling diffusion for the different enzyme oligomerization forms; obtained probabilistic distributions capturing uncertainty in the estimates </li>
 <li> Demonstrated significant variations in diffusion coefficients across the possible oligomerization states of the enzyme </li>
 </ul>
-</font>
+</font> -->
 
 <font size="3"><b><a href='https://www.espncricinfo.com/story/_/id/26312451/launching-superstats,-new-language-cricket-analysis'> Machine Learning for Sports Analytics with ESPN-cricinfo</a> &emsp; <a href='https://www.espncricinfo.com/story/_/id/26312451/launching-superstats,-new-language-cricket-analysis'> news article</a> </b> <br>
 
@@ -90,10 +93,11 @@ Advisor: Dr. Kaushik Ghosh, ASEA Brown Boveri (ABB) Research Centre | May 2015 -
 </ul>
 </font>
 
-<font size="3"> <b>SARIMA modeling and Speech Data Analysis using Spectrogram</b><br>
+<!-- <font size="3"> <b>SARIMA modeling and Speech Data Analysis using Spectrogram</b><br>
 Advisor: Prof. Arun Tangirala | July 2015 - Dec 2015
 <ul>
 <li> Modeled monthly measles cases reported in New York City for the last 44 years using R as a Seasonal ARIMA model </li>
 <li> Implemented spectrogram approach in R to separate noise from an overlapping amplitude and frequency modulated signal </li>
 </ul>
 </font>
+ -->
