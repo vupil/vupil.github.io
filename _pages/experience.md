@@ -25,14 +25,14 @@ sitemap: true
 |Spring 2017|Teaching Assistant| Introduction to Statistical Hypothesis Testing (Graduate)| IIT Madras|
 |Fall 2016|Teaching Assistant|Applied Time Series Analysis (Graduate)|IIT Madras|
 
-## Professional Service
+<!-- ## Professional Service
 
 |Time|Role|Organization|
 |:-|:-|:-|
 |2020 - Present|Reviewer|Journal of Computers and Chemical Engineering|
 |2020 - Present|Reviewer|AIChE Journal|
 |02/2020 - Present|Reviewer|Journal of Computers and Chemical Engineering|
-
+ -->
 
 <!-- ## Technical Strengths
 
@@ -54,7 +54,7 @@ Advisor: Prof. Kyle Bishop | Sep 2019 - Nov 2019
 </font> -->
 
 <font size="4"> <b>Historical Data Mining and System Identification</b><br>
-Advisor: Dr. Matthew Fidler, Novartis | Jun 2020 - Aug 2020 &emsp;  <img style='vertical-align:bottom; display:inline;' src='../files/novartis.png' width="50">
+Advisor: Dr. Matthew Fidler, Novartis | Jun 2020 - Aug 2020 &emsp;  <img style='vertical-align:bottom; display:inline;' src='../files/novartis.png' width="65">
 <ul>
 <li> Developed bootstrapping and autocovariate search modules for nlmixr - an open-source R package developed at Novartis for performing PK/PD modeling in R</li>
 <li> Implemented stepwise covariate modeling (SCM) and LASSO-based covariate search algorithms for improving the predictive ability of models used for studying drug effects in human trials. </li>
