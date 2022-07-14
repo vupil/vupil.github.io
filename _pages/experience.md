@@ -7,7 +7,7 @@ sitemap: true
 ---
 
 
-## Education and Training
+## Education
 
 |Time|Degree|School|
 |:-|:-|:-|
@@ -41,7 +41,7 @@ sitemap: true
 |Language           |Python, R, MATLAB, SQL, HTML, and LaTeX|
 |Simulation         |SimuLink and Aspen HYSYS|
 
-## Projects
+## Professional Experience
 
 <!-- <font size="3"><b>Modeling Enhanced Enzyme Diffusion in the Presence of Substrates</b><br>
 Advisor: Prof. Kyle Bishop | Sep 2019 - Nov 2019  
@@ -52,6 +52,14 @@ Advisor: Prof. Kyle Bishop | Sep 2019 - Nov 2019
 <li> Demonstrated significant variations in diffusion coefficients across the possible oligomerization states of the enzyme </li>
 </ul>
 </font> -->
+
+<font size="4"> <b>Historical Data Mining and System Identification</b><br>
+Advisor: Dr. Matthew Fidler, Novartis | Jun 2020 - Aug 2020 &emsp;  <img style='vertical-align:bottom; display:inline;' src='../files/novartis.png' width="50">
+<ul>
+<li> Developed bootstrapping and autocovariate search modules for nlmixr - an open-source R package developed at Novartis for performing PK/PD modeling in R</li>
+<li> Implemented stepwise covariate modeling (SCM) and LASSO-based covariate search algorithms for improving the predictive ability of models used for studying drug effects in human trials. </li>
+</ul>
+</font>
 
 <font size="4"><b><a href='https://www.espncricinfo.com/story/_/id/26312451/launching-superstats,-new-language-cricket-analysis'> Machine Learning for Sports Analytics with ESPN-cricinfo</a> &emsp; <a href='https://www.espncricinfo.com/story/_/id/26312451/launching-superstats,-new-language-cricket-analysis'> news article</a> </b> <br>
 
