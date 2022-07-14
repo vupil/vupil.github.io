@@ -55,14 +55,6 @@ Advisor: Prof. Kyle Bishop | Sep 2019 - Nov 2019
 </ul>
 </font> -->
 
-<font size="4"> <b>Research Internship:</b> Pharmacokinetic-Pharmacodynamic Modeling in R&emsp; <img style='vertical-align:bottom; display:inline;' src='../files/novartis.png' width="120"><br>
-Advisor: Dr. Matthew Fidler, Novartis | Jun 2020 - Aug 2020 
-<ul>
-<li> Developed bootstrapping and autocovariate search modules for nlmixr - an open-source R package developed at Novartis for performing PK/PD modeling in R</li>
-<li> Implemented stepwise covariate modeling (SCM) and LASSO-based covariate search algorithms for improving the predictive ability of models used for studying drug effects in human trials. </li>
-</ul>
-</font>
-
 <font size="4"><b>Data Scientist:</b> <a href='https://www.espncricinfo.com/story/_/id/26312451/launching-superstats,-new-language-cricket-analysis'>Machine Learning for Sports Analytics with ESPN-cricinfo</a> &emsp; <a href='https://www.espncricinfo.com/story/_/id/26312451/launching-superstats,-new-language-cricket-analysis'> news article</a> <br>
 Advisor: Prof. Raghunathan Rengaswamy | Nov 2018 - March 2019 &emsp;  <img style='vertical-align:bottom; display:inline;' src='../files/espn.png' width="95"> &emsp;  <img style='vertical-align:center; display:inline;' src='../files/espncricinfo.png' width="200"> 
 <ul>
@@ -92,6 +84,14 @@ Advisor: Prof. Arun Tangirala and Prof. Shankar Narasimhan | June 2016 - May 201
 <li> Demonstrated efficacy of this approach on a physical 'two-tank liquid level' case study in obtaining noise-free variable estimates and performing a selective model validation similar to residual analysis in classical system identification </li>
 </ul>
 </font> -->
+
+<font size="4"> <b>Research Internship:</b> Pharmacokinetic-Pharmacodynamic Modeling in R&emsp; <img style='vertical-align:bottom; display:inline;' src='../files/novartis.png' width="120"><br>
+Advisor: Dr. Matthew Fidler, Novartis | Jun 2020 - Aug 2020 
+<ul>
+<li> Developed bootstrapping and autocovariate search modules for nlmixr - an open-source R package developed at Novartis for performing PK/PD modeling in R</li>
+<li> Implemented stepwise covariate modeling (SCM) and LASSO-based covariate search algorithms for improving the predictive ability of models used for studying drug effects in human trials. </li>
+</ul>
+</font>
 
 <font size="4"> <b>Research Internship:</b> Historical Data Mining and System Identification &emsp;  <img style='vertical-align:bottom; display:inline;' src='../files/abb.png' width="75"><br>
 Advisor: Dr. Kaushik Ghosh, ASEA Brown Boveri (ABB) Research Centre | May 2015 - Aug 2015 
