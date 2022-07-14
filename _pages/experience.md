@@ -15,15 +15,15 @@ sitemap: true
 |05/2017|Master of Technology (Dual Degree), Chemical Engineering | Indian Institute of Technology Madras
 |05/2016|Bachelor of Technology (Dual Degree), Chemical Engineering |Indian Institute of Technology Madras
 
-## Teaching Experience
+## Teaching Assistant Positions
 
 <font size="4">
 <ul>
 <li>Summer 2022: (Teaching Assistant) Artificial Intelligence in Biochemical and Chemical Engineering (Graduate), Denmark Technical University (DTU)</li>
-<li>Fall 2021: (Teaching Assistant) Artificial Intelligence in Chemical Engineering (Graduate), Columbia University in the City of New York</li>
-<li>Fall 2019: (Teaching Assistant) Math Methods in Chemical Engineering (Graduate), Columbia University in the City of New York</li>
-<li>Spring 2017: (Teaching Assistant) Introduction to Statistical Hypothesis Testing (Graduate), IIT Madras|</li>
-<li>Fall 2016: (Teaching Assistant) Applied Time Series Analysis (Graduate), IIT Madras</li>
+<li>Fall 2021: Artificial Intelligence in Chemical Engineering (Graduate), Columbia University in the City of New York</li>
+<li>Fall 2019: Math Methods in Chemical Engineering (Graduate), Columbia University in the City of New York</li>
+<li>Spring 2017: Introduction to Statistical Hypothesis Testing (Graduate), IIT Madras|</li>
+<li>Fall 2016: Applied Time Series Analysis (Graduate), IIT Madras</li>
 </ul>
 </font>
 
