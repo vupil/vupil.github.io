@@ -19,6 +19,8 @@ sitemap: true
 
 |Time|Role|Course|Affiliation|
 |:-|:-|:-|:-|
+|Summer 2022|Teaching Assistant|Artificial Intelligence in Biochemical and Chemical Engineering (Graduate)|Denmark Technical University (DTU)|
+|Fall 2021|Teaching Assistant|Artificial Intelligence in Chemical Engineering (Graduate)|Columbia University in the City of New York|
 |Fall 2019|Teaching Assistant|Math Methods in Chemical Engineering (Graduate)|Columbia University in the City of New York|
 |Spring 2017|Teaching Assistant| Introduction to Statistical Hypothesis Testing (Graduate)| IIT Madras|
 |Fall 2016|Teaching Assistant|Applied Time Series Analysis (Graduate)|IIT Madras|
