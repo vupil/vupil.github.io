@@ -85,9 +85,7 @@ Advisor: Prof. Arun Tangirala and Prof. Shankar Narasimhan | June 2016 - May 201
 </ul>
 </font> -->
 
-<hr style="height:1px;border:none;color:#333;background-color:#333;" />
-
-<hr style="border-bottom: 0px">
+<hr style="border-bottom: 1px">
 
 
 <font size="4"> <b>Research Internship:</b> Pharmacokinetic-Pharmacodynamic Modeling in R&emsp; <img style='vertical-align:bottom; display:inline;' src='../files/novartis.png' width="120"><br>
