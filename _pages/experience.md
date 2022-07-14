@@ -34,13 +34,13 @@ sitemap: true
 |02/2020 - Present|Reviewer|Journal of Computers and Chemical Engineering|
 
 
-## Technical Strengths
+<!-- ## Technical Strengths
 
 |Category|Skills|
 |:-|:-|
 |Language           |Python, R, MATLAB, SQL, HTML, and LaTeX|
 |Simulation         |SimuLink and Aspen HYSYS|
-
+ -->
 ## Professional Experience
 
 <!-- <font size="3"><b>Modeling Enhanced Enzyme Diffusion in the Presence of Substrates</b><br>
