@@ -93,7 +93,7 @@ Advisor: Prof. Arun Tangirala and Prof. Shankar Narasimhan | June 2016 - May 201
 </ul>
 </font> -->
 
-<font size="4"> <b>Research Internship:</b> Historical Data Mining and System Identification &emsp;  <img style='vertical-align:bottom; display:inline;' src='../files/abb.png' width="50"><br>
+<font size="4"> <b>Research Internship:</b> Historical Data Mining and System Identification &emsp;  <img style='vertical-align:bottom; display:inline;' src='../files/abb.png' width="75"><br>
 Advisor: Dr. Kaushik Ghosh, ASEA Brown Boveri (ABB) Research Centre | May 2015 - Aug 2015 
 <ul>
 <li> Implemented a novel segment identification algorithm in MATLAB to identify 'good regions' in historical databases </li>
