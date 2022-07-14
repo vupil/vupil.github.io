@@ -28,8 +28,8 @@ sitemap: true
 
 <font size="4">
 <ul>
-<li>|Summer 2022|Teaching Assistant|Artificial Intelligence in Biochemical and Chemical Engineering (Graduate)|Denmark Technical University (DTU)|</li>
-<li>|Fall 2021|Teaching Assistant|Artificial Intelligence in Chemical Engineering (Graduate)|Columbia University in the City of New York|</li>
+<li>Summer 2022: Teaching Assistant for Artificial Intelligence in Biochemical and Chemical Engineering (Graduate), Denmark Technical University (DTU)</li>
+<li>Fall 2021: Teaching Assistant for Artificial Intelligence in Chemical Engineering (Graduate), Columbia University in the City of New York</li>
 </ul>
 </font>
 
