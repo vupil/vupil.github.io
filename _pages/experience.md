@@ -53,7 +53,7 @@ Advisor: Prof. Kyle Bishop | Sep 2019 - Nov 2019
 </ul>
 </font> -->
 
-<font size="4"> <b>Research Internship: Pharmacokinetic-Pharmacodynamic Modeling in R</b>&emsp;  <img style='vertical-align:bottom; display:inline;' src='../files/novartis.png' width="85"><br>
+<font size="4"> <b>Research Internship: Pharmacokinetic-Pharmacodynamic Modeling in R</b>&emsp; <img style='vertical-align:bottom; display:inline;' src='../files/novartis.png' width="95"><br>
 Advisor: Dr. Matthew Fidler, Novartis | Jun 2020 - Aug 2020 
 <ul>
 <li> Developed bootstrapping and autocovariate search modules for nlmixr - an open-source R package developed at Novartis for performing PK/PD modeling in R</li>
