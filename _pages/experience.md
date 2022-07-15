@@ -20,11 +20,11 @@ sitemap: true
 
 <font size="4">
 <ul>
-<li>Summer 2022: Artificial Intelligence in Biochemical and Chemical Engineering, Denmark Technical University (DTU)</li>
-<li>Fall 2021: Artificial Intelligence in Chemical Engineering, Columbia University, City of New York</li>
-<li>Fall 2019: Math Methods in Chemical Engineering, Columbia University, New York</li>
-<li>Spring 2017: Introduction to Statistical Hypothesis Testing, IIT Madras</li>
-<li>Fall 2016: Applied Time Series Analysis, IIT Madras</li>
+ <li><b>Summer 2022:</b> Artificial Intelligence in Biochemical and Chemical Engineering, Denmark Technical University (DTU)</li>
+<li><b>Fall 2021:</b> Artificial Intelligence in Chemical Engineering, Columbia University, City of New York</li>
+<li><b>Fall 2019:</b> Math Methods in Chemical Engineering, Columbia University, New York</li>
+<li><b>Spring 2017:</b> Introduction to Statistical Hypothesis Testing, IIT Madras</li>
+<li><b>Fall 2016:</b> Applied Time Series Analysis, IIT Madras</li>
 </ul>
 </font>
 
