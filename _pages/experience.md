@@ -16,7 +16,7 @@ sitemap: true
 |05/2016|Bachelor of Technology (Dual Degree), Chemical Engineering |Indian Institute of Technology Madras
 
 ## Teaching Assistant Positions
-<hr style="height:10px;border:none;color:#333;background-color:#333;" />
+<hr style="height:5px;border:none;color:#333;background-color:#333;" />
 
 <font size="4">
 <ul>
@@ -45,7 +45,7 @@ sitemap: true
 |Simulation         |SimuLink and Aspen HYSYS|
  -->
 ## Professional Experience
-<hr style="height:10px;border:none;color:#333;background-color:#333;" />
+<hr style="height:5px;border:none;color:#333;background-color:#333;" />
 
 <!-- <font size="3"><b>Modeling Enhanced Enzyme Diffusion in the Presence of Substrates</b><br>
 Advisor: Prof. Kyle Bishop | Sep 2019 - Nov 2019  
