@@ -14,8 +14,8 @@ sitemap: true
 <font size="4">
 <ul>
  <li><b><i>09/2019 - present</i></b> &emsp; Ph.D. Candidate in Chemical Engineering, Columbia University, New York</li>
- <li><b><i>05/2017</i></b> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Master of Technology (Dual Degree) in Chemical Engineering, Indian Institute of Technology Madras</li>
- <li><b><i>05/2016</i></b> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Bachelor of Technology (Dual Degree) in Chemical Engineering, Indian Institute of Technology Madras</li>
+ <li><b><i>05/2017</i></b> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Master of Technology (Dual Degree) in Chemical Engineering, IIT Madras</li>
+ <li><b><i>05/2016</i></b> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Bachelor of Technology (Dual Degree) in Chemical Engineering, IIT Madras</li>
 </ul>
 </font>
 
