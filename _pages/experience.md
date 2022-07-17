@@ -11,7 +11,6 @@ sitemap: true
 <hr style="height:5px;border:none;color:#333;background-color:#333;" />
 
 
-<p algin='justify'>
 <font size="4">
 <ul>
  <li><b><i>09/2019 - present</i></b> &emsp; Ph.D. Candidate in Chemical Engineering, Columbia University, New York</li>
@@ -117,7 +116,6 @@ Advisor: Dr. Kaushik Ghosh, ASEA Brown Boveri (ABB) Research Centre | May 2015 -
 </ul>
 </font>
 
-</p>
 <!-- <font size="3"> <b>SARIMA modeling and Speech Data Analysis using Spectrogram</b><br>
 Advisor: Prof. Arun Tangirala | July 2015 - Dec 2015
 <ul>
