@@ -19,7 +19,7 @@ sitemap: true
 <b>2022:</b>&emsp; <b>Vipul Mann</b>, Karoline Brito, Rafiqul Gani, Venkat Venkatasubramanian. Hybrid, Interpretable Machine Learning for Thermodynamic Property Estimation using Grammar2vec for Molecular Representation. <i>Fluid Phase Equilibria</i>, doi: <a href='https://doi.org/10.1016/j.fluid.2022.113531'>10.1016/j.fluid.2022.113531</a><br>
  
    
-<b>2022:</b>&emsp; Venkat Venkatasubramanian, <b>Vipul Mann</b>. Artificial intelligence in reaction prediction and chemical synthesis. <i>Current Opinion in Chemical Engineering</i>, doi: <a href='https://doi.org/10.1016/j.coche.2021.100749'>10.1016/j.coche.2021.100749</a><br>
+<b>2022:</b>&emsp; Venkat Venkatasubramanian, <b>Vipul Mann</b>. Artificial intelligence in reaction prediction and chemical synthesis. <i>Current Opinion in Chemical Engineering</i>, doi: <a target="_blank" rel="noopener noreferrer" href='https://doi.org/10.1016/j.coche.2021.100749'>10.1016/j.coche.2021.100749</a><br>
    
 <b>2021:</b>&emsp; <b>Vipul Mann</b>, Venkat Venkatasubramanian. Retrosynthesis Prediction using Grammar-based Neural Machine Translation: An Information-Theoretic Approach. <i>Computers & Chemical Engineering</i>, doi: <a href='https://doi.org/10.1016/j.compchemeng.2021.107533'>10.1016/j.compchemeng.2021.107533</a>, <a href='https://github.com/vupil/grammarTransformerReactionPrediction'>codebase (Python implementation)</a><br>
    
