@@ -5,10 +5,6 @@ permalink: /publications/
 author_profile: true
 sitemap: true
 ---
-### Overview
-
-
-
 
 ## Journal Publications
 <hr style="height:5px;border:none;color:#333;background-color:#333;" />
