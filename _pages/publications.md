@@ -10,7 +10,7 @@ sitemap: true
 <hr style="height:5px;border:none;color:#333;background-color:#333;" />
 
 
-<font size="4">
+<font size="3">
    
 <b>2022:</b>&emsp; <b>Vipul Mann</b>, Karoline Brito, Rafiqul Gani, Venkat Venkatasubramanian. Hybrid, Interpretable Machine Learning for Thermodynamic Property Estimation using Grammar2vec for Molecular Representation. <i>Fluid Phase Equilibria</i>, doi: <a target="_blank" href='https://doi.org/10.1016/j.fluid.2022.113531'>10.1016/j.fluid.2022.113531</a><br>
  
