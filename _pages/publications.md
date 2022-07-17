@@ -21,25 +21,26 @@ sitemap: true
    
 <b>2022:</b>&emsp; Venkat Venkatasubramanian, <b>Vipul Mann</b>. Artificial intelligence in reaction prediction and chemical synthesis. <i>Current Opinion in Chemical Engineering</i>, doi: <a href='https://doi.org/10.1016/j.coche.2021.100749'>10.1016/j.coche.2021.100749</a><br>
    
-<b>2021:</b>&emsp; <b>Vipul Mann</b>, Venkat Venkatasubramanian. Retrosynthesis Prediction using Grammar-based Neural Machine Translation: An Information-Theoretic Approach. <i>Computers & Chemical Engineering</i>, doi: <a href='https://doi.org/10.1016/j.compchemeng.2021.107533'>10.1016/j.compchemeng.2021.107533</a> <a href='https://github.com/vupil/grammarTransformerReactionPrediction'>codebase (Python implementation)</a><br>
+<b>2021:</b>&emsp; <b>Vipul Mann</b>, Venkat Venkatasubramanian. Retrosynthesis Prediction using Grammar-based Neural Machine Translation: An Information-Theoretic Approach. <i>Computers & Chemical Engineering</i>, doi: <a href='https://doi.org/10.1016/j.compchemeng.2021.107533'>10.1016/j.compchemeng.2021.107533</a>, <a href='https://github.com/vupil/grammarTransformerReactionPrediction'>codebase (Python implementation)</a><br>
    
-<b>2021:</b>&emsp; <b>Vipul Mann</b>, Venkat Venkatasubramanian. Predicting Chemical Reaction Outcomes: A Grammar Ontology-based Transformer Framework. <i>AIChE Journal</i>, doi: <a href='https://doi.org/10.1002/aic.17190'>10.1002/aic.17190</a> <a href='https://github.com/vupil/grammarTransformerReactionPrediction'>codebase (Python implementation)</a><br>
+<b>2021:</b>&emsp; <b>Vipul Mann</b>, Venkat Venkatasubramanian. Predicting Chemical Reaction Outcomes: A Grammar Ontology-based Transformer Framework. <i>AIChE Journal</i>, doi: <a href='https://doi.org/10.1002/aic.17190'>10.1002/aic.17190</a>, <a href='https://github.com/vupil/grammarTransformerReactionPrediction'>codebase (Python implementation)</a><br>
    
 <b>2021:</b>&emsp; <b>Vipul Mann</b>, Abhishek Sivaram, Laya Das, Venkat Venkatasubramanian. Robust and Efficient Swarm Communication Topologies for Hostile Environments. <i>Swarm and Evolutionary Computation</i>, doi: <a href='https://doi.org/10.1016/j.swevo.2021.100848'>10.1016/j.swevo.2021.100848</a><br>
    
 <b>2020:</b>&emsp; <b>Vipul Mann</b>, Deepak Maurya, Arun Tangirala, Shankar Narasimhan. Optimal Filtering and Residual Analysis in Errors-in-variables Model Identification. <i>Industrial and Engineering Chemistry Research</i>, doi: <a href='[https://doi.org/10.1016/j.swevo.2021.100848](https://pubs.acs.org/doi/10.1021/acs.iecr.9b04561)'>10.1021/acs.iecr.9b04561</a> <a href='https://github.com/vupil/Optimal-Filtering-EIV-DIPCA'>codebase (MATLAB implementation)</a>
-</font>
 
+</font>
 
 ## Conferences
 <hr style="height:5px;border:none;color:#333;background-color:#333;" />
+
+<font size="4">
 
 <b>2021:</b>&emsp; <b>Vipul Mann</b>, Venkat Venkatasubramanian. Chemical Representations for Improving Retrosynthesis Prediction: Smiles-Grammar and Information Theory. <i><b>CAST Director's Student Presentation Award Finalists (Invited Talks)</b>, 2021 AIChE Annual Meeting, Boston, MA</i><br>
 
 <b>2020:</b>&emsp; <b>Vipul Mann</b>, Venkat Venkatasubramanian. A Formal Grammar-Based Machine Learning Approach for Predicting Reaction Outcomes. <i> 2020 Virtual AIChE Annual Meeting</i><br>
 
 <b>2020:</b>&emsp; <b>Vipul Mann</b>, Abhishek Sivaram, Laya Das, Venkat Venkatasubramanian. Optimal Communication Topologies for Particle Swarm Optimization under Hostile Environments. <i> 2020 Virtual AIChE Annual Meeting</i><br>
-
 
 <b>2017:</b>&emsp; <b>Vipul Mann</b>, Arun Tangirala, Shankar Narasimhan.  Linear Dynamic Model Identification and Data Reconciliation using Dynamic Iterative PCA (DIPCA). <i> 2017 AIChE Spring Meeting, San Antonio, TX</i><br>
    
