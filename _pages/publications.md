@@ -27,7 +27,7 @@ sitemap: true
    
 <b>2021:</b>&emsp; <b>Vipul Mann</b>, Abhishek Sivaram, Laya Das, Venkat Venkatasubramanian. Robust and Efficient Swarm Communication Topologies for Hostile Environments. <i>Swarm and Evolutionary Computation</i>, doi: <a href='https://doi.org/10.1016/j.swevo.2021.100848'>10.1016/j.swevo.2021.100848</a><br>
    
-<b>2020:</b>&emsp; <b>Vipul Mann</b>, Deepak Maurya, Arun Tangirala, Shankar Narasimhan. Optimal Filtering and Residual Analysis in Errors-in-variables Model Identification. <i>Industrial and Engineering Chemistry Research</i>, doi: <a href='[https://doi.org/10.1016/j.swevo.2021.100848](https://pubs.acs.org/doi/10.1021/acs.iecr.9b04561)'>10.1021/acs.iecr.9b04561</a> <a href='https://github.com/vupil/Optimal-Filtering-EIV-DIPCA'>codebase (MATLAB implementation)</a>
+<b>2020:</b>&emsp; <b>Vipul Mann</b>, Deepak Maurya, Arun Tangirala, Shankar Narasimhan. Optimal Filtering and Residual Analysis in Errors-in-variables Model Identification. <i>Industrial and Engineering Chemistry Research</i>, doi: <a href='https://pubs.acs.org/doi/10.1021/acs.iecr.9b04561'>10.1021/acs.iecr.9b04561</a> <a href='https://github.com/vupil/Optimal-Filtering-EIV-DIPCA'>codebase (MATLAB implementation)</a>
 
 </font>
 
