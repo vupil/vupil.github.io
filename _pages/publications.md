@@ -12,7 +12,7 @@ sitemap: true
 
 <font size="4">
    
-<b>2022:</b>&emsp; <b>Vipul Mann</b>, Venkat Venkatasubramanian. AI-driven Hypernetwork of Organic Chemistry: Network Statistics and Applications in Reaction Classification. <i>arXiv preprint</i>, doi: <a target="_blank" href='https://arxiv.org/abs/2208.01647'>arXiv:2208.01647</a> <a target='_blank' href=''>(pdf)</a><br>
+<b>2022:</b>&emsp; <b>Vipul Mann</b>, Venkat Venkatasubramanian. AI-driven Hypernetwork of Organic Chemistry: Network Statistics and Applications in Reaction Classification. <i>arXiv preprint</i>, doi: <a target="_blank" href='https://arxiv.org/abs/2208.01647'>arXiv:2208.01647</a> <a target='_blank' href='https://vupil.github.io/files/2208.01647-compressed.pdf'>(pdf)</a><br>
    
 <b>2022:</b>&emsp; <b>Vipul Mann</b>, Karoline Brito, Rafiqul Gani, Venkat Venkatasubramanian. Hybrid, Interpretable Machine Learning for Thermodynamic Property Estimation using Grammar2vec for Molecular Representation. <i>Fluid Phase Equilibria</i>, doi: <a target="_blank" href='https://doi.org/10.1016/j.fluid.2022.113531'>10.1016/j.fluid.2022.113531</a><br>
  
