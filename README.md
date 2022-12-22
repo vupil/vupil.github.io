@@ -21,11 +21,15 @@ Outside of academics, I am excited about running, swimming, and reading books!
 |2020: **Vipul Mann**, Deepak Maurya, Arun Kumar Tangirala, and Shankar Narasimhan. Optimal Filtering and Residual Analysis in Errors-in-variables Model Identification. _**Industrial and Engineering Chemistry Research**_, doi: [10.1021/acs.iecr.9b04561](https://pubs.acs.org/doi/10.1021/acs.iecr.9b04561) [(PDF)](../files/iecr_paper1.pdf), [codebase (MATLAB implementation)](https://github.com/vupil/Optimal-Filtering-EIV-DIPCA)
 
 |_Conferences_|
-|:-|
+|:-|   
+|2022: <b>Vipul Mann</b>, Shekhar Viswanath, Shankar Vaidyaraman, Jeyakumar Balakrishnan, Jon Dieringer, Venkat Venkatasubramanian. AI-Driven Drug Discovery and Manufacturing Using Automated Ontology-Based Information Extraction. <i><b>2022 AIChE Annual Meeting, Phoenix, AZ</i>|
+|2022:  <b>Vipul Mann</b>, Shekhar Viswanath, Shankar Vaidyaraman, Jeyakumar Balakrishnan, Jon Dieringer, Venkat Venkatasubramanian. AI-Driven Drug Discovery and Manufacturing Using Automated Ontology-Based Information Extraction. <i><b>2022 AIChE Annual Meeting, Phoenix, AZ</i>|
 |2021: **Vipul Mann**, Venkat Venkatasubramanian. Chemical Representations for Improving Retrosynthesis Prediction: Smiles-Grammar and Information Theory. _**CAST Director's Student Presentation Award Finalists (Invited Talks)**, 2021 AIChE Annual Meeting_|
 |2020: **Vipul Mann**, Venkat Venkatasubramanian. A Formal Grammar-Based Machine Learning Approach for Predicting Reaction Outcomes. _2020 Virtual AIChE Annual Meeting_, [Virtual AIChE Annual Meeting 2020](https://www.aiche.org/academy/conferences/aiche-annual-meeting/2020/proceeding/paper/477c-formal-grammar-based-machine-learning-approach-predicting-reaction-outcomes) |
 |2020: **Vipul Mann**, Abhishek Sivaram, Laya Das, Venkat Venkatasubramanian. Optimal Communication Topologies for Particle Swarm Optimization under Hostile Environments. _2020 Virtual AIChE Annual Meeting_, [Virtual AIChE Annual Meeting 2020](https://www.aiche.org/academy/conferences/aiche-annual-meeting/2020/proceeding/paper/339j-optimal-communication-topologies-particle-swarm-optimization-under-hostile-environments) |
 |2017: **Vipul Mann**, Arun Kumar Tangirala, and Shankar Narasimhan. Linear Dynamic Model Identification and Data Reconciliation using Dynamic Iterative PCA (DIPCA). _AIChE 2017 Spring Meeting and 13th Global Congress on Process Safety_, [AIChE 2017 Spring Meeting](https://aiche.confex.com/aiche/s17/webprogram/Paper481511.html) |
+
+
 
 
 # Other links
