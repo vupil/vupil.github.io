@@ -34,9 +34,9 @@ sitemap: true
 
 <font size="4">
    
-<b>2021:</b>&emsp; Vipul Mann, Shekhar Viswanath, Shankar Vaidyaraman, Jeyakumar Balakrishnan, Jon Dieringer, Venkat Venkatasubramanian. AI-Driven Drug Discovery and Manufacturing Using Automated Ontology-Based Information Extraction. <i><b>2022 AIChE Annual Meeting, Phoenix, AZ</i><br>
+<b>2022:</b>&emsp; Vipul Mann, Shekhar Viswanath, Shankar Vaidyaraman, Jeyakumar Balakrishnan, Jon Dieringer, Venkat Venkatasubramanian. AI-Driven Drug Discovery and Manufacturing Using Automated Ontology-Based Information Extraction. <i><b>2022 AIChE Annual Meeting, Phoenix, AZ</i><br>
    
-<b>2021:</b>&emsp; <b>Vipul Mann</b>, Karoline Brito, Rafiqul Gani, Venkat Venkatasubramanian. Hybrid, Interpretable Machine Learning for Thermodynamic Property Estimation using Grammar2vec for Molecular Representation. <i><b>2022 AIChE Annual Meeting, Phoenix, AZ</i><br>
+<b>2022:</b>&emsp; <b>Vipul Mann</b>, Karoline Brito, Rafiqul Gani, Venkat Venkatasubramanian. Hybrid, Interpretable Machine Learning for Thermodynamic Property Estimation using Grammar2vec for Molecular Representation. <i><b>2022 AIChE Annual Meeting, Phoenix, AZ</i><br>
    
 <b>2021:</b>&emsp; <b>Vipul Mann</b>, Venkat Venkatasubramanian. Chemical Representations for Improving Retrosynthesis Prediction: Smiles-Grammar and Information Theory. <i><b>CAST Director's Student Presentation Award Finalists (Invited Talks)</b>, 2021 AIChE Annual Meeting, Boston, MA</i><br>
 
