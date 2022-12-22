@@ -12,7 +12,7 @@ sitemap: true
 
 <font size="4">
    
-<b>2022:</b>&emsp; <b>Vipul Mann</b>, Venkat Venkatasubramanian. AI-driven hypergraph network of organic chemistry: network statistics and applications in reaction classification. <i>arXiv preprint</i>, doi: <a target="_blank" href='https://doi.org/10.1039/D2RE00309K'>10.1039/D2RE00309K</a> <a target='_blank' href='https://vupil.github.io/files/2208.01647-compressed.pdf'>(pdf)</a><br>
+<b>2022:</b>&emsp; <b>Vipul Mann</b>, Venkat Venkatasubramanian. AI-driven hypergraph network of organic chemistry: network statistics and applications in reaction classification. <i>Reaction Chemistry & Engineering</i>, doi: <a target="_blank" href='https://doi.org/10.1039/D2RE00309K'>10.1039/D2RE00309K</a> <a target='_blank' href='https://vupil.github.io/files/2208.01647-compressed.pdf'>(pdf)</a><br>
    
 <b>2022:</b>&emsp; <b>Vipul Mann</b>, Karoline Brito, Rafiqul Gani, Venkat Venkatasubramanian. Hybrid, Interpretable Machine Learning for Thermodynamic Property Estimation using Grammar2vec for Molecular Representation. <i>Fluid Phase Equilibria</i>, doi: <a target="_blank" href='https://doi.org/10.1016/j.fluid.2022.113531'>10.1016/j.fluid.2022.113531</a><br>
  
