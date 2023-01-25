@@ -12,6 +12,7 @@ Outside of academics, I am excited about running, swimming, and reading books!
 
 |_Journal Publications_|
 |:-|
+|2023: **Vipul Mann**, Rafiqul Gani, Venkat Venkatasubramanian. Group contribution-based property modeling for chemical product design: A perspective in the AI era. _**Fluid Phase Equilibria**_, doi: <a target="_blank" href='https://doi.org/10.1016/j.fluid.2023.113734'>10.1016/j.fluid.2023.113734</a>|
 |2023: **Vipul Mann**, Venkat Venkatasubramanian. AI-driven hypergraph network of organic chemistry: network statistics and applications in reaction classification. _**Reaction Chemistry & Engineering**_, doi: <a target="_blank" href='https://doi.org/10.1039/D2RE00309K'>10.1039/D2RE00309K</a> <a target='_blank' href='https://vupil.github.io/files/2208.01647-compressed.pdf'>(pdf)</a>|
 |2022: **Vipul Mann**, Karoline Brito, Rafiqul Gani, Venkat Venkatasubramanian. Hybrid, Interpretable Machine Learning for Thermodynamic Property Estimation using Grammar2vec for Molecular Representation. _**Fluid Phase Equilibria**_, doi: [10.1016/j.fluid.2022.113531](https://doi.org/10.1016/j.fluid.2022.113531)| 
 |2022: Venkat Venkatasubramanian, **Vipul Mann**. Artificial intelligence in reaction prediction and chemical synthesis. _**Current Opinion in Chemical Engineering**_, doi: [10.1016/j.coche.2021.100749](https://doi.org/10.1016/j.coche.2021.100749)|
