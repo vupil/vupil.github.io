@@ -11,6 +11,8 @@ sitemap: true
 
 
 <font size="4">
+
+<b>2023:</b>&emsp; <b>Vipul Mann</b>,  Rafiqul Gani, Venkat Venkatasubramanian. Group contribution-based property modeling for chemical product design: A perspective in the AI era. <i>Fluid Phase Equilibria</i>, doi: <a target="_blank" href='https://doi.org/10.1016/j.fluid.2023.113734'>10.1016/j.fluid.2023.113734</a><br>
    
 <b>2023:</b>&emsp; <b>Vipul Mann</b>, Venkat Venkatasubramanian. AI-driven hypergraph network of organic chemistry: network statistics and applications in reaction classification. <i>Reaction Chemistry & Engineering</i>, doi: <a target="_blank" href='https://doi.org/10.1039/D2RE00309K'>10.1039/D2RE00309K</a> <a target='_blank' href='https://vupil.github.io/files/2208.01647-compressed.pdf'>(pdf)</a><br>
    
