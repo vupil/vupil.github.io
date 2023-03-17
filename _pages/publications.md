@@ -10,7 +10,7 @@ sitemap: true
 <hr style="height:5px;border:none;color:#333;background-color:#333;" />
 
 
-<font size="6">
+<font size="5">
 
 8. <b>Vipul Mann</b>,  Rafiqul Gani, Venkat Venkatasubramanian. Group contribution-based property modeling for chemical product design: A perspective in the AI era. <i>Fluid Phase Equilibria</i>, doi: <a target="_blank" href='https://doi.org/10.1016/j.fluid.2023.113734'>10.1016/j.fluid.2023.113734</a>, <b>2023</b><br><br>
    
@@ -34,7 +34,7 @@ sitemap: true
 ## Conferences
 <hr style="height:5px;border:none;color:#333;background-color:#333;" />
 
-<font size="6">
+<font size="5">
    
 <b>2022:</b>&emsp; <b>Vipul Mann</b>, Shekhar Viswanath, Shankar Vaidyaraman, Jeyakumar Balakrishnan, Jon Dieringer, Venkat Venkatasubramanian. AI-Driven Drug Discovery and Manufacturing Using Automated Ontology-Based Information Extraction. <i>2022 AIChE Annual Meeting, Phoenix, AZ</i><br><br>
    
