@@ -23,16 +23,14 @@ sitemap: true
 </font>
 
 ## Internships
-<font size="3"> Pharmacokinetic-Pharmacodynamic Modeling in R&emsp; <img style='vertical-align:bottom; display:inline;' src='../files/novartis.png' width="120"><br>
-Advisor: Dr. Matthew Fidler, Novartis | Jun 2020 - Aug 2020 
+<font size="3"> Pharmacokinetic-Pharmacodynamic Modeling in R | Advisor: Dr. Matthew Fidler, Novartis | Jun 2020 - Aug 2020 
 <ul>
 <li> Developed bootstrapping and autocovariate search modules for nlmixr - an open-source R package developed at Novartis for performing PK/PD modeling in R</li>
 <li> Implemented stepwise covariate modeling (SCM) and LASSO-based covariate search algorithms for improving the predictive ability of models used for studying drug effects in human trials. </li>
 </ul>
 </font>
 
-<font size="3"> Historical Data Mining and System Identification &emsp;  <img style='vertical-align:bottom; display:inline;' src='../files/abb.png' width="75"><br>
-Advisor: Dr. Kaushik Ghosh, ASEA Brown Boveri (ABB) Research Centre | May 2015 - Aug 2015 
+<font size="3"> Historical Data Mining and System Identification | Advisor: Dr. Kaushik Ghosh, ASEA Brown Boveri (ABB) Research Centre | May 2015 - Aug 2015 
 <ul>
 <li> Implemented a novel segment identification algorithm in MATLAB to identify 'good regions' in historical databases </li>
 <li> Comparatively analyzed an iterative-autoregressive exogenous (ARX) algorithm with the existing system identification algorithm at ABB; proposed changes to make the algorithm more robust towards high noise conditions </li>
@@ -42,7 +40,25 @@ Advisor: Dr. Kaushik Ghosh, ASEA Brown Boveri (ABB) Research Centre | May 2015 -
 
 
 ## Professional Experience
-<font size="3">Data Scientist:<a href='https://www.espncricinfo.com/story/_/id/26312451/launching-superstats,-new-language-cricket-analysis'>Machine Learning for Sports Analytics with ESPN-cricinfo</a> &emsp; <a href='https://www.espncricinfo.com/story/_/id/26312451/launching-superstats,-new-language-cricket-analysis'> news article</a> <br>
+<font size="3">Data Scientist: <a href='https://www.espncricinfo.com/story/_/id/26312451/launching-superstats,-new-language-cricket-analysis'>Machine Learning for Sports Analytics with ESPN-cricinfo</a> | Advisor: Prof. Raghunathan Rengaswamy | Nov 2018 - March 2019 
+<ul>
+<li> Used ESPN's ball-by-ball historical dataset for cricket matches in the past 15 years to build a machine learning tool for predicting match scores, quantifying impactful match events, and generating 'smart statistics' for players </li>
+<li> Implemented a recurrent neural network (RNN) and evaluated its performance in modeling the game dynamics </li>
+<li> Built modules in Python for performing optimal balls-allocation between bowlers and batsmen, estimating wicket probability at a given state, and estimating match-win probabilities by factoring in both historical data and current </li>
+<li> Combined all the modules together to build an interactive match-simulation tool with quantification of impactful events </li>
+<li> This tool was used by ESPN-cricinfo during the Indian Premier League 2019 and ICC World Cup 2019 worldwide </li>
+</ul>
+</font>
+
+<font size="3">Data Scientist:Anomaly Detection and Prediction for Aluminum Smelting Operations | Advisor: Prof. Raghunathan Rengaswamy | July 2018 - Oct 2018  
+<ul>
+<li> Built an L1 trend-extraction routine in Python with built-in hyperparameter estimation module for a piecewise linear trend extraction on any general time-series signal; core of the algorithm uses CVXOPT for optimization </li>
+<li> Implemented a fuzzy variant of C-means clustering on the estimated linear trends to identify sub-optimal, or anomalous operating regimes through clustering of the operating regimes based on a pre-defined optimality criterion </li>
+<li> Performed subspace angle comparisons between principal vectors to assess cluster separations and derive process insights </li>
+<li> Integrated all the three modules as a Python package and shipped to the end user with Sphinx generated documentation </li>
+</ul>
+</font>
+<!-- <font size="3">Data Scientist:<a href='https://www.espncricinfo.com/story/_/id/26312451/launching-superstats,-new-language-cricket-analysis'>Machine Learning for Sports Analytics with ESPN-cricinfo</a> &emsp; <a href='https://www.espncricinfo.com/story/_/id/26312451/launching-superstats,-new-language-cricket-analysis'> news article</a> <br>
 Advisor: Prof. Raghunathan Rengaswamy | Nov 2018 - March 2019 &emsp;  <img style='vertical-align:bottom; display:inline;' src='../files/espn.png' width="95"> &emsp;  <img style='vertical-align:center; display:inline;' src='../files/espncricinfo.png' width="200"> 
 <ul>
 <li> Used ESPN's ball-by-ball historical dataset for cricket matches in the past 15 years to build a machine learning tool for predicting match scores, quantifying impactful match events, and generating 'smart statistics' for players </li>
@@ -61,7 +77,7 @@ Advisor: Prof. Raghunathan Rengaswamy | July 2018 - Oct 2018
 <li> Performed subspace angle comparisons between principal vectors to assess cluster separations and derive process insights </li>
 <li> Integrated all the three modules as a Python package and shipped to the end user with Sphinx generated documentation </li>
 </ul>
-</font>
+</font> -->
 
 <!-- ## Education
 <hr style="height:5px;border:none;color:#333;background-color:#333;" />
