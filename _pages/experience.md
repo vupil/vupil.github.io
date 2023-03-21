@@ -50,7 +50,7 @@ sitemap: true
 </ul>
 </font>
 
-<font size="3">Data Scientist:Anomaly Detection and Prediction for Aluminum Smelting Operations | Advisor: Prof. Raghunathan Rengaswamy | July 2018 - Oct 2018  
+<font size="3">Data Scientist: Anomaly Detection and Prediction for Aluminum Smelting Operations | Advisor: Prof. Raghunathan Rengaswamy | July 2018 - Oct 2018  
 <ul>
 <li> Built an L1 trend-extraction routine in Python with built-in hyperparameter estimation module for a piecewise linear trend extraction on any general time-series signal; core of the algorithm uses CVXOPT for optimization </li>
 <li> Implemented a fuzzy variant of C-means clustering on the estimated linear trends to identify sub-optimal, or anomalous operating regimes through clustering of the operating regimes based on a pre-defined optimality criterion </li>
