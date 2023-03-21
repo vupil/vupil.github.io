@@ -10,7 +10,7 @@ sitemap: true
 <img src='../files/overview.png' width="1400">
 
 
-### Teaching
+## Teaching
 <font size="3">
 <ul>
 <li>Spring 2023: Systemic Risk Management, School of Professional Studies, Columbia University</li>
@@ -22,8 +22,8 @@ sitemap: true
 </ul>
 </font>
 
-### Internships
-<font size="3"> <b>Research Internship:</b> Pharmacokinetic-Pharmacodynamic Modeling in R&emsp; <img style='vertical-align:bottom; display:inline;' src='../files/novartis.png' width="120"><br>
+## Internships
+<font size="3"> Pharmacokinetic-Pharmacodynamic Modeling in R&emsp; <img style='vertical-align:bottom; display:inline;' src='../files/novartis.png' width="120"><br>
 Advisor: Dr. Matthew Fidler, Novartis | Jun 2020 - Aug 2020 
 <ul>
 <li> Developed bootstrapping and autocovariate search modules for nlmixr - an open-source R package developed at Novartis for performing PK/PD modeling in R</li>
@@ -31,7 +31,7 @@ Advisor: Dr. Matthew Fidler, Novartis | Jun 2020 - Aug 2020
 </ul>
 </font>
 
-<font size="3"> <b>Research Internship:</b> Historical Data Mining and System Identification &emsp;  <img style='vertical-align:bottom; display:inline;' src='../files/abb.png' width="75"><br>
+<font size="3"> Historical Data Mining and System Identification &emsp;  <img style='vertical-align:bottom; display:inline;' src='../files/abb.png' width="75"><br>
 Advisor: Dr. Kaushik Ghosh, ASEA Brown Boveri (ABB) Research Centre | May 2015 - Aug 2015 
 <ul>
 <li> Implemented a novel segment identification algorithm in MATLAB to identify 'good regions' in historical databases </li>
@@ -41,8 +41,8 @@ Advisor: Dr. Kaushik Ghosh, ASEA Brown Boveri (ABB) Research Centre | May 2015 -
 </font>
 
 
-### Professional Experience
-<font size="3"><b>Data Scientist:</b> <a href='https://www.espncricinfo.com/story/_/id/26312451/launching-superstats,-new-language-cricket-analysis'>Machine Learning for Sports Analytics with ESPN-cricinfo</a> &emsp; <a href='https://www.espncricinfo.com/story/_/id/26312451/launching-superstats,-new-language-cricket-analysis'> news article</a> <br>
+## Professional Experience
+<font size="3">Data Scientist:<a href='https://www.espncricinfo.com/story/_/id/26312451/launching-superstats,-new-language-cricket-analysis'>Machine Learning for Sports Analytics with ESPN-cricinfo</a> &emsp; <a href='https://www.espncricinfo.com/story/_/id/26312451/launching-superstats,-new-language-cricket-analysis'> news article</a> <br>
 Advisor: Prof. Raghunathan Rengaswamy | Nov 2018 - March 2019 &emsp;  <img style='vertical-align:bottom; display:inline;' src='../files/espn.png' width="95"> &emsp;  <img style='vertical-align:center; display:inline;' src='../files/espncricinfo.png' width="200"> 
 <ul>
 <li> Used ESPN's ball-by-ball historical dataset for cricket matches in the past 15 years to build a machine learning tool for predicting match scores, quantifying impactful match events, and generating 'smart statistics' for players </li>
@@ -53,7 +53,7 @@ Advisor: Prof. Raghunathan Rengaswamy | Nov 2018 - March 2019 &emsp;  <img style
 </ul>
 </font>
 
-<font size="4"><b>Data Scientist:</b> Anomaly Detection and Prediction for Aluminum Smelting Operations<img style='vertical-align:top; display:inline;' src='../files/ge.png' width="40"> &emsp;<br>
+<font size="4">Data Scientist:Anomaly Detection and Prediction for Aluminum Smelting Operations<img style='vertical-align:top; display:inline;' src='../files/ge.png' width="40"> &emsp;<br>
 Advisor: Prof. Raghunathan Rengaswamy | July 2018 - Oct 2018  
 <ul>
 <li> Built an L1 trend-extraction routine in Python with built-in hyperparameter estimation module for a piecewise linear trend extraction on any general time-series signal; core of the algorithm uses CVXOPT for optimization </li>
