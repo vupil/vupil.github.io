@@ -53,7 +53,7 @@ Advisor: Prof. Raghunathan Rengaswamy | Nov 2018 - March 2019 &emsp;  <img style
 </ul>
 </font>
 
-<font size="4">Data Scientist:Anomaly Detection and Prediction for Aluminum Smelting Operations<img style='vertical-align:top; display:inline;' src='../files/ge.png' width="40"> &emsp;<br>
+<font size="3">Data Scientist:Anomaly Detection and Prediction for Aluminum Smelting Operations<img style='vertical-align:top; display:inline;' src='../files/ge.png' width="40"> &emsp;<br>
 Advisor: Prof. Raghunathan Rengaswamy | July 2018 - Oct 2018  
 <ul>
 <li> Built an L1 trend-extraction routine in Python with built-in hyperparameter estimation module for a piecewise linear trend extraction on any general time-series signal; core of the algorithm uses CVXOPT for optimization </li>
