@@ -23,14 +23,14 @@ sitemap: true
 </font>
 
 ## Internships
-<font size="3"> Pharmacometrics Modeling | Advisor: Dr. Matthew Fidler, Novartis | Jun - Aug 2020 
+<font size="3"> **Novartis:** Pharmacometrics Modeling | Advisor: Dr. Matthew Fidler | Jun - Aug 2020 
 <ul>
 <li> Developed bootstrapping and autocovariate search modules for nlmixr - an open-source R package developed at Novartis for performing PK/PD modeling in R</li>
 <li> Implemented stepwise covariate modeling (SCM) and LASSO-based covariate search algorithms for improving the predictive ability of models used for studying drug effects in human trials. </li>
 </ul>
 </font>
 
-<font size="3"> Historical Data Mining and System Identification | Advisor: Dr. Kaushik Ghosh, ABB Research Centre | May - Aug 2015 
+<font size="3"> **ABB:** Historical Data Mining and System Identification | Advisor: Dr. Kaushik Ghosh | May - Aug 2015 
 <ul>
 <li> Implemented a novel segment identification algorithm in MATLAB to identify 'good regions' in historical databases </li>
 <li> Comparatively analyzed an iterative-autoregressive exogenous (ARX) algorithm with the existing system identification algorithm at ABB; proposed changes to make the algorithm more robust towards high noise conditions </li>
@@ -40,7 +40,7 @@ sitemap: true
 
 
 ## Professional Experience
-<font size="3">Data Scientist: <a href='https://www.espncricinfo.com/story/_/id/26312451/launching-superstats,-new-language-cricket-analysis'>Machine Learning for Sports Analytics with ESPN-cricinfo</a> | Advisor: Prof. Raghunathan Rengaswamy | Nov 2018 - March 2019 
+<font size="3">**Data Scientist:** <a href='https://www.espncricinfo.com/story/_/id/26312451/launching-superstats,-new-language-cricket-analysis'>Machine Learning for Sports Analytics with ESPN-cricinfo</a> | Advisor: Prof. Raghunathan Rengaswamy | Nov 2018 - March 2019 
 <ul>
 <li> Used ESPN's ball-by-ball historical dataset for cricket matches in the past 15 years to build a machine learning tool for predicting match scores, quantifying impactful match events, and generating 'smart statistics' for players </li>
 <li> Implemented a recurrent neural network (RNN) and evaluated its performance in modeling the game dynamics </li>
@@ -50,7 +50,7 @@ sitemap: true
 </ul>
 </font>
 
-<font size="3">Data Scientist: Anomaly Detection and Prediction for Aluminum Smelting Operations | Advisor: Prof. Raghunathan Rengaswamy | July 2018 - Oct 2018  
+<font size="3">**Data Scientist:** Anomaly Detection and Prediction for Aluminum Smelting Operations | Advisor: Prof. Raghunathan Rengaswamy | July 2018 - Oct 2018  
 <ul>
 <li> Built an L1 trend-extraction routine in Python with built-in hyperparameter estimation module for a piecewise linear trend extraction on any general time-series signal; core of the algorithm uses CVXOPT for optimization </li>
 <li> Implemented a fuzzy variant of C-means clustering on the estimated linear trends to identify sub-optimal, or anomalous operating regimes through clustering of the operating regimes based on a pre-defined optimality criterion </li>
