@@ -6,6 +6,8 @@ author_profile: true
 sitemap: true
 ---
 
+<div style="text-align: justify">
+ 
 ## Overview
 <img src='../files/overview.png' width="1400">
  
@@ -58,6 +60,9 @@ sitemap: true
 <li> Integrated all the three modules as a Python package and shipped to the end user with Sphinx generated documentation </li>
 </ul>
 </font>
+ 
+</div>
+
 <!-- <font size="3">Data Scientist:<a href='https://www.espncricinfo.com/story/_/id/26312451/launching-superstats,-new-language-cricket-analysis'>Machine Learning for Sports Analytics with ESPN-cricinfo</a> &emsp; <a href='https://www.espncricinfo.com/story/_/id/26312451/launching-superstats,-new-language-cricket-analysis'> news article</a> <br>
 Advisor: Prof. Raghunathan Rengaswamy | Nov 2018 - March 2019 &emsp;  <img style='vertical-align:bottom; display:inline;' src='../files/espn.png' width="95"> &emsp;  <img style='vertical-align:center; display:inline;' src='../files/espncricinfo.png' width="200"> 
 <ul>
