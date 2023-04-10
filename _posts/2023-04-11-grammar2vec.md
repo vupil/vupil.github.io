@@ -24,7 +24,7 @@ Figure 2: (a) The parse-tree obtained for propene (SMILES representation: CC=C) 
 
 <p>The dense molecular representations are used as features for a given ML model with the property of interest to be predicted as the target variable. This allows for any suitable model depending on the dataset size, problem formulation, and target property of interest to be used with grammar2vec-based molecular representations. Moreover, we demonstrated that the models built using these features are chemistry-aware in the sense that correlated properties have correlated feature importances. The model performance was benchmarked on boiling point and critical temperature datasets, and we observed that the R-squared values (a measure of goodness of regression model) were 0.98 and 0.99 respectively. Detailed results are shown below in Figure 3. </p>
   
-<p style="text-align: center;"><img class="aligncenter size-full wp-image-123" src="/files/overall-framework.jpeg" width="550" height="" /></p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-123" src="/files/results.jpg" width="550" height="" /></p>
 Figure 3: The relative absolute percentage error (100*|ytrue-ypred|/ytrue) plots obtained using the grammar representation-based model for boiling point and critical temperature estimation on the entire dataset<br>
 
 <p>Thus, in summary, the developed models were hybrid due to a combination of chemistry and machine learning-based features, interpretable due to their correlation with underlying chemistry, and accurate in predicting the properties of interest. Further details could be found in the published article at: https://doi.org/10.1016/j.fluid.2022.113531</p>
