@@ -9,6 +9,7 @@ sitemap: true
 ## Journal Publications
 <hr style="height:5px;border:none;color:#333;background-color:#333;" />
 
+<div style="text-align: justify">
 
 <font size="4">
 
@@ -22,6 +23,8 @@ sitemap: true
 1. <b>Vipul Mann</b>, Deepak Maurya, Arun Tangirala, Shankar Narasimhan. Optimal Filtering and Residual Analysis in Errors-in-variables Model Identification. <a target="_blank" href='https://pubs.acs.org/doi/10.1021/acs.iecr.9b04561'><i>Industrial & Engineering Chemistry Research 59.5 (2020): 1953-1965</i></a>, <a target="_blank" href='https://github.com/vupil/Optimal-Filtering-EIV-DIPCA'>codebase (MATLAB implementation)</a><br><br>
 </font>
 
+ </div>
+ 
 ## Conferences
 <hr style="height:5px;border:none;color:#333;background-color:#333;" />
 
