@@ -14,7 +14,7 @@ tags:
 
 <p>We developed a framework called grammar2vec (shown in Figure 1), similar to word2vec for words -- that I'm sure most of us are familiar with thanks to the famous King - Man + Woman = Queen example.  Word2vec is an unsupervised representation learning approach that learns dense vectors for representing words that also capture their underlying semantics and meaning to a large extent. Grammar2vec is the molecular equivalent of word2vec and Grammar2vec generates a high dimensional numeric vector representation for molecules. These numeric molecular representations are similarly learnt in an unsupervised manner, while capturing their semantics to a large extent. A natural question that arises then is -- how to represent the molecule textually as the basis for generating representation using grammar2vec?</p>
   
-<p style="text-align: center;"><img class="aligncenter size-full wp-image-123" src="/files/overall-framework.jpg" width="550" height="" /></p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-123" src="/files/overall-framework.jpeg" width="550" height="" /></p>
 Figure 1: An overview of the developed grammar2vec-based algorithmic framework used for the property prediction problem 
 
 
