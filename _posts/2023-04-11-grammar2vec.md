@@ -1,6 +1,6 @@
 ---
 title: 'grammar2vec: Molecular property prediction'
-date: 2022-04-11
+date: 2023-04-11
 permalink: /posts/2022/04/Molecular property prediction using grammar2vec/
 tags:
   - artificial intelligence
