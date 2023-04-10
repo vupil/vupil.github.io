@@ -22,10 +22,11 @@ sitemap: true
 2. <b>Vipul Mann</b>, Abhishek Sivaram, Laya Das, Venkat Venkatasubramanian. Robust and Efficient Swarm Communication Topologies for Hostile Environments. <a target="_blank" href='https://doi.org/10.1016/j.swevo.2021.100848'><i>Swarm and Evolutionary Computation 62 (2021): 100848</i></a><br><br>
 1. <b>Vipul Mann</b>, Deepak Maurya, Arun Tangirala, Shankar Narasimhan. Optimal Filtering and Residual Analysis in Errors-in-variables Model Identification. <a target="_blank" href='https://pubs.acs.org/doi/10.1021/acs.iecr.9b04561'><i>Industrial & Engineering Chemistry Research 59.5 (2020): 1953-1965</i></a>, <a target="_blank" href='https://github.com/vupil/Optimal-Filtering-EIV-DIPCA'>codebase (MATLAB implementation)</a><br><br>
 </font>
-
+</div>
  
 ## Conferences
 <hr style="height:5px;border:none;color:#333;background-color:#333;" />
+<div style="text-align: justify">
 
 <font size="4">
    
@@ -36,8 +37,8 @@ sitemap: true
 2. <b>Vipul Mann</b>, Abhishek Sivaram, Laya Das, Venkat Venkatasubramanian. Optimal Communication Topologies for Particle Swarm Optimization under Hostile Environments. <i> 2020 Virtual AIChE Annual Meeting</i><br><br>
 1. <b>Vipul Mann</b>, Arun Tangirala, Shankar Narasimhan.  Linear Dynamic Model Identification and Data Reconciliation using Dynamic Iterative PCA (DIPCA). <i> 2017 AIChE Spring Meeting, San Antonio, TX</i><br><br>
 </font>
-
 </div>
+
 
 <!-- |_Conferences_|
 |:-|
