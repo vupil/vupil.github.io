@@ -8,7 +8,6 @@ tags:
   - computational chemisty
   - machine learning 
 ---
-<div style="text-align: justify">
 
 <p>Ever wondered how to inject chemistry knowledge into machine learning models to accurately predict properties of molecules? How would a molecule be represented before it is input to an ML model? How could the representation be made more chemistry-aware and ensure it is complete and accurate? Do natural language processing methods have anything to do with such representations?</p>
 
@@ -30,8 +29,6 @@ Figure 3: The relative absolute percentage error (100*|ytrue-ypred|/ytrue) plots
 <p> We observe that ~99% of all the predictions fall within a 15% error threshold and the maximum prediction errors are capped at 30% and 25% for the boiling point and critical temperature predictions. Moroever, the performance on the hydrocarbons dataset is significantly better with nearly 98-99% of all the molecules within an error-threshold of less than 1%. The gradually increasing trend in the relative errors (as opposed to a steep increase beyond a certain number of molecules), highlights a smooth functional mapping from the features to the property values learned by the ML-based regression model. As a consequence of this, the model has better generalizability. Therefore, we infer that our model is robust towards encountering new molecules or the presence of outliers in the dataset. The latter is a major issue because new molecules are being synthesized at a much faster pace and the experimentally measured properties dataset often have errors and outliers.
 
 <p>In summary, the Grammar2vec framework could be used for estimating several other molecular properties using relatively simple and interpretable machine learning models owing to the rich molecular descriptors learnt using grammar2vec. We envision that such representations that are rooted in chemistry would be of significant value not only for the thermodynamic property prediction task but also for other chemistry problems requiring data-driven modeling. Further details could be found in our <a href='https://doi.org/10.1016/j.fluid.2022.113531' target="_blank">published article</a>. </p>
-  
-  
-</div>
-  
+
+
 
