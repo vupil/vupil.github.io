@@ -41,7 +41,7 @@ sitemap: true
 
 
 ## Professional Experience
-<font size="3"><b>Data Scientist:</b> <a href='https://www.espncricinfo.com/story/_/id/26312451/launching-superstats,-new-language-cricket-analysis'>ML for Sports Analytics with ESPN-cricinfo</a> | Advisor: Prof. Raghunathan Rengaswamy | Nov 2018 - March 2019 
+<font size="3"><b>Data Scientist:</b> <a target="_blank" href='https://www.espncricinfo.com/story/_/id/26312451/launching-superstats,-new-language-cricket-analysis'>ML for Sports Analytics with ESPN-cricinfo</a> | Advisor: Prof. Raghunathan Rengaswamy | Nov 2018 - March 2019 
 <ul>
 <li> Used ESPN's ball-by-ball historical dataset for cricket matches in the past 15 years to build a machine learning tool for predicting match scores, quantifying impactful match events, and generating 'smart statistics' for players </li>
 <li> Implemented a recurrent neural network (RNN) and evaluated its performance in modeling the game dynamics </li>
