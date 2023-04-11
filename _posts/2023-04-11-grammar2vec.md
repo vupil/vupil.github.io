@@ -9,6 +9,9 @@ tags:
   - machine learning 
 ---
 
+<div style="text-align: justify">
+
+
 <p>Ever wondered how to inject chemistry knowledge into machine learning models to accurately predict properties of molecules? How would a molecule be represented before it is input to an ML model? How could the representation be made more chemistry-aware and ensure it is complete and accurate? Do natural language processing methods have anything to do with such representations?</p>
 
 <p>We developed a framework called grammar2vec (shown in Figure 1), similar to word2vec for words -- that I'm sure most of us are familiar with thanks to the famous King - Man + Woman = Queen example.  Word2vec is an unsupervised representation learning approach that learns dense vectors for representing words that also capture their underlying semantics and meaning to a large extent. Grammar2vec is the molecular equivalent of word2vec and Grammar2vec generates a high dimensional numeric vector representation for molecules. These numeric molecular representations are similarly learnt in an unsupervised manner, while capturing their semantics to a large extent. A natural question that arises then is -- how to represent the molecule textually as the basis for generating representation using grammar2vec, a framework similar to word2vec for natural language text?</p>
