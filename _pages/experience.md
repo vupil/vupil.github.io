@@ -28,6 +28,7 @@ sitemap: true
 <ul>
 <li> Developed bootstrapping and autocovariate search modules for nlmixr - an open-source R package developed at Novartis for performing PK/PD modeling in R</li>
 <li> Implemented stepwise covariate modeling (SCM) and LASSO-based covariate search algorithms for improving the predictive ability of models used for studying drug effects in human trials. </li>
+<li>Developed code now part of 3 published CRAN packages in R — nlmixr2est, nlmixr2plot, nlmixr2extra</li>
 </ul>
 </font>
 
