@@ -44,10 +44,9 @@ sitemap: true
 <font size="3"><b>Data Scientist:</b> <a target="_blank" href='https://www.espncricinfo.com/story/_/id/26312451/launching-superstats,-new-language-cricket-analysis'>ML for Sports Analytics with ESPN-cricinfo</a> | Advisor: Prof. Raghunathan Rengaswamy | Nov 2018 - March 2019 
 <ul>
 <li> Used ESPN's ball-by-ball historical dataset for cricket matches in the past 15 years to build a machine learning tool for predicting match scores, quantifying impactful match events, and generating 'smart statistics' for players </li>
-<li> Implemented a recurrent neural network (RNN) and evaluated its performance in modeling the game dynamics </li>
-<li> Built modules in Python for performing optimal balls-allocation between bowlers and batsmen, estimating wicket probability at a given state, and estimating match-win probabilities by factoring in both historical data and current </li>
+<li> Built modules in Python for performing optimal balls-allocation between bowlers and batsmen, estimating wicket probability at a given state, and estimating match-win probabilities by factoring in both historical and current data</li>
 <li> Combined all the modules together to build an interactive match-simulation tool with quantification of impactful events </li>
-<li> This tool was used by ESPN-cricinfo during the Indian Premier League 2019 and ICC World Cup 2019 worldwide </li>
+<li> This tool is being used by ESPN-cricinfo since the Indian Premier League 2019 and ICC World Cup 2019 worldwide</li>
 </ul>
 </font>
 
