@@ -40,6 +40,8 @@ Figure 3: Average shortest path lengths for various regimes as function of the n
   
 <p>The average all pairs shortest distance for the hypergraph could be interpreted as separation between nodes (or molecules) in terms of number of reaction, since each hyperedge corresponds to a unique reaction and hence, there exists a one-to-one mapping between reactions and hyperedges. We observe that the network of organic chemistry is much more compact than previously understood with nearly 3.25 degrees of separation between molecules, pointing towards an even stronger small-world nature than previously observed with five degrees of separation (based on directed-graph based studies). In addition, in regime 3, we observe a significant upward shift of average separation across all values of N, suggesting that in the recent years, the discovery of complex chemistry has led to the synthesis of molecules via complex routes that has led to a relative increase in their average separation. However, as is evident by the exponentially decreasing average path length as the network grows (higher values of N) across all time regimes, the network exhibits the phenomenon of densification. Network densification takes place primarily due to the creation of links between existing nodes in the network rather than by the addition (or discovery) of new nodes and is characterized by shrinking diameter. Such densification suggests that chemistry has been evolving mostly based on the rewiring of existing reactions (edges) rather than the discovery of completely new molecules (nodes addition), that has brought the molecules closer to each other over time.</p>
   
+<p><b>Assortativity analysis:</b>
   
+  </p>
 
   
