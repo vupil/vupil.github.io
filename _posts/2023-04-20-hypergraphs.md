@@ -1,7 +1,7 @@
 ---
 title: 'The Network of Organic Chemistry -- hypergraphs, evolution, statistics, and AI applications'
 date: 2023-04-11
-permalink: /posts/2022/04/Molecular property prediction using grammar2vec/
+permalink: /posts/2022/04/Hypergraph network of organic chemistry/
 tags:
   - artificial intelligence
   - graph theory
