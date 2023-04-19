@@ -59,3 +59,7 @@ Figure 4: Different mixing patterns (left) assortative (right) disassortative. A
   
 <p>To demonstrate the AI application such hypergraphs, we hypothesized based on the community detection analysis that similar reactions are grouped together and the hypergraph embeddings could be used as features to predict the reaction class purely based on their connectivity patterns. To generate these embeddings, we used a random hyperwalk approach to traverse the hypergrpah network similar to a random walk. These hyperwalks-based embeddings are used to train a classification model. The precision and recall metrics for the 10 reaction classes are shown below. The pseudocode and details are provided in the published article. </p>
   
+  <p style="text-align: center;"><img class="aligncenter size-full wp-image-123" src="/files/precision.png" width="300" height="" /> &nbsp; &nbsp; &nbsp; &nbsp; <img class="aligncenter size-full wp-image-123" src="/files/recall.png" width="300" height="" /></p>
+Figure 5: Performance metrics for the multi-class reaction classification on the test-set (left) precision (right) recall.<br><br>
+
+  
