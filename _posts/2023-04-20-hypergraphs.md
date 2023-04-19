@@ -1,5 +1,5 @@
 ---
-title: 'The Network of Organic Chemistry -- network statistics, insights, and AI applications'
+title: 'The Network of Organic Chemistry: network statistics, insights, and AI applications'
 date: 2023-04-11
 permalink: /posts/2022/04/Hypergraph network of organic chemistry/
 tags:
