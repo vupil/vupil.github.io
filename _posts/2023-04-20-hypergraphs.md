@@ -55,5 +55,7 @@ Figure 4: Different mixing patterns (left) assortative (right) disassortative. A
 
   
 
-
+<h3>Applications in reaction classification: hyperedge embeddings</h3>
+  
+<p>To demonstrate the AI application such hypergraphs, we hypothesized based on the community detection analysis that similar reactions are grouped together and the hypergraph embeddings could be used as features to predict the reaction class purely based on their connectivity patterns. To generate these embeddings, we used a random hyperwalk approach to traverse the hypergrpah network similar to a random walk. These hyperwalks-based embeddings are used to train a classification model. The precision and recall metrics for the 10 reaction classes are shown below. The pseudocode and details are provided in the published article. </p>
   
