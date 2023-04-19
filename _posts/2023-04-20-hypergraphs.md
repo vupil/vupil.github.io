@@ -19,7 +19,7 @@ tags:
 <p>Consider four example reactions (R1, R2, R3, R4) involving five different molecules (A, B, C, D, E). The hypergraph representation for this is shown the figure below. Notice that each hyperedge represents a unique reaction and the annotations indicate the 'role' of a molecule as 'reactant (R)' or 'product (P)'. We create hypergraph networks using a standard reactions datset containing reactions reported from 1976-2016 with 487,724 reactions in total. We divided the data ino three regimes -- before 1985, 1985-2005, and after 2005, to study the time evolution of various graph-theoretic network statistics.</p>
 
 
-<p style="text-align: center;"><img class="aligncenter size-full wp-image-123" src="/files/hypergraph-example.png" width="550" height="" /></p>
-Figure 1: Hypergraph-based representation where an entire reaction is represented using a single hyperedge and the annotations indicate the vertex ‘roles’ as product (P) or reactant (R)<br><br>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-123" src="/files/hypergraph-example.png" width="400" height="" />&nbsp; &nbsp; &nbsp; &nbsp; <img class="aligncenter size-full wp-image-123" src="/files/hypergraph-entire.jpg" width="400" height="" /></p>
+Figure 1: (left) Hypergraph-based representation where an entire reaction is represented using a single hyperedge and the annotations indicate the vertex ‘roles’ as product (P) or reactant (R) (right) Top-100 largest communities (cluster) in the network of organic chemistry showing clear regions of high and low densities along with an island community disconnected from the rest of the network.<br><br>
 
 
