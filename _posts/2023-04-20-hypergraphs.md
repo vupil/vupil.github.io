@@ -21,5 +21,10 @@ tags:
 
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-123" src="/files/hypergraph-example.png" width="400" height="" /> &nbsp; &nbsp; &nbsp; &nbsp; <img class="aligncenter size-full wp-image-123" src="/files/hypergraph-entire.png" width="400" height="" /></p>
 Figure 1: (left) Hypergraph-based representation where an entire reaction is represented using a single hyperedge and the annotations indicate the vertex ‘roles’ as product (P) or reactant (R) (right) Top-100 largest communities (cluster) in the network of organic chemistry showing clear regions of high and low densities along with an island community disconnected from the rest of the network.<br><br>
+  
+  
+<h3>Network statistics and chemistry inferences</h3>
+<p><b>Degree distribution:</b> The degree of a node in a graph is its number of incoming or outgoing edges. Degree distributions provide a general sense of the network structure and its connectivity pattern. Generating a degree distribution involves computing the degree (or number of edges) for each node and estimating the underlying probabilistic distribution that they follow. The incoming (product role) degree distribution for the hypergraph for the three time regimes is shown below.</p>
 
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-123" src="/files/degree-dist.png" width="300" height="" /></p>
 
