@@ -59,4 +59,4 @@ Figure 4: Different mixing patterns (left) assortative (right) disassortative. A
   <p style="text-align: center;"><img class="aligncenter size-full wp-image-123" src="/files/precision.png" width="400" height="" />  <img class="aligncenter size-full wp-image-123" src="/files/recall.png" width="300" height="" /></p>
 Figure 5: Performance metrics for the multi-class reaction classification on the test-set (left) precision (right) recall.<br><br>
 
-<p>Rigorous statistics and analysis for all the inferences presented could be found in our <a href='https://doi.org/10.1039/D2RE00309K' target="_blank">published article</a></p>.
+<p>Rigorous statistics and analysis for all the inferences presented could be found in our <a href='https://doi.org/10.1039/D2RE00309K' target="_blank">published article.</a></p>
