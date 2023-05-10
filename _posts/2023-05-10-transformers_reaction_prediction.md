@@ -38,19 +38,79 @@ Figure 3: The proposed tree transformer with SMILES grammar parse-trees as input
 <p><b>Results</b></p>
 <p>The results on the forward prediction and the retrosynthesis prediction are shown below. Note that we only demonstrate the tree transformer approach on the retrosynthesis model but it could be easily applied for the forward prediction model just by reversing the direction of translation and should result in improved performance.</p>
  
-  `Table 1: **Accuracy (%)**: consolidated results for the forward prediction model (USPTO-MIT dataset) and retrosynthesis model (USPTO-50K dataset)`
-| Model    | Top 1  | Top 2   | Top 3   |Top 5  | Top 10 |
-| ------------------ |--------|-------- | -------------- |-------------- | -------------- |
-| forward (grammar linearized) |    80.1        |  86.3  | 88.7      |          |          |
-| retrosynthesis (grammar tree, with class)|    51.0    |  64.3   |     70.0       |      74.6      |      79.1    |
-| retrosynthesis (grammar tree, no class)|     41.6   |  54.0    |    60.4       |      67.6     |     73.1     |
+<table>
+  <caption>Table 1: <strong>Accuracy (%)</strong>: consolidated results for the forward prediction model (USPTO-MIT dataset) and retrosynthesis model (USPTO-50K dataset)</caption>
+  <tr>
+    <th>Model</th>
+    <th>Top 1</th>
+    <th>Top 2</th>
+    <th>Top 3</th>
+    <th>Top 5</th>
+    <th>Top 10</th>
+  </tr>
+  <tr>
+    <td>forward (grammar linearized)</td>
+    <td>80.1</td>
+    <td>86.3</td>
+    <td>88.7</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>retrosynthesis (grammar tree, with class)</td>
+    <td>51.0</td>
+    <td>64.3</td>
+    <td>70.0</td>
+    <td>74.6</td>
+    <td>79.1</td>
+  </tr>
+  <tr>
+    <td>retrosynthesis (grammar tree, no class)</td>
+    <td>41.6</td>
+    <td>54.0</td>
+    <td>60.4</td>
+    <td>67.6</td>
+    <td>73.1</td>
+  </tr>
+</table>
+
   
-   `Table 2: **Incorrect syntax (%)**: consolidated results for the forward prediction model (USPTO-MIT dataset) and retrosynthesis model (USPTO-50K dataset)`
-| Model    | Top 1  | Top 2   | Top 3   |Top 5  | Top 10 |
-| ------------------ |---------|------- | -------------- |-------------- | -------------- |
-| forward (grammar linearized) |    1.0        |    |       |           |         |
-| retrosynthesis (grammar tree, with class)|     1.5   |  2.7   |     4.0      |      6.0      |      9.8     |
-| retrosynthesis (grammar tree, no class)|     1.3   |  2.0    |     2.6       |      3.8      |      6.0     |
+<table>
+  <caption>Table 2: <strong>Incorrect syntax (%)</strong>: consolidated results for the forward prediction model (USPTO-MIT dataset) and retrosynthesis model (USPTO-50K dataset)</caption>
+  <tr>
+    <th>Model</th>
+    <th>Top 1</th>
+    <th>Top 2</th>
+    <th>Top 3</th>
+    <th>Top 5</th>
+    <th>Top 10</th>
+  </tr>
+  <tr>
+    <td>forward (grammar linearized)</td>
+    <td>1.0</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>retrosynthesis (grammar tree, with class)</td>
+    <td>1.5</td>
+    <td>2.7</td>
+    <td>4.0</td>
+    <td>6.0</td>
+    <td>9.8</td>
+  </tr>
+  <tr>
+    <td>retrosynthesis (grammar tree, no class)</td>
+    <td>1.3</td>
+    <td>2.0</td>
+    <td>2.6</td>
+    <td>3.8</td>
+    <td>6.0</td>
+  </tr>
+</table>
+
 
   
 <p>Further results, detailed analyses, and additional chemistry-based statistics are presented in our published articles -- <a href='https://arxiv.org/abs/2305.03153' target="_blank">retrosynthesis tree transformer</a>, <a href='https://doi.org/10.1002/aic.17190' target="_blank">forward prediction</a>, <a href='https://doi.org/10.1016/j.compchemeng.2021.107533' target="_blank">information-theoretic analysis</a>, and <a href='https://doi.org/10.1016/j.coche.2021.100749' target="_blank">review article</a>.
