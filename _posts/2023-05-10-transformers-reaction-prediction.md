@@ -37,4 +37,6 @@ Figure 3: The proposed tree transformer with SMILES grammar parse-trees as input
 
 <p><b>Results</b></p>
 <p>The results on the forward prediction and the retrosynthesis prediction are shown below. Note that we only demonstrate the tree transformer approach on the retrosynthesis model but it could be easily applied for the forward prediction model just by reversing the direction of translation and should result in improved performance.</p>
+  
+<p>Further results, detailed analyses, and additional chemistry-based statistics are presented in our published articles: <a href='https://arxiv.org/abs/2305.03153' target="_blank">retrosynthesis tree transformer</a></p>, <a href='https://doi.org/10.1002/aic.17190' target="_blank">forward prediction</a></p>, <a href='https://doi.org/10.1016/j.compchemeng.2021.107533' target="_blank">information-theoretic analysis</a></p>, <a href='https://doi.org/10.1016/j.coche.2021.100749' target="_blank">review article</a></p>.
 
