@@ -21,13 +21,13 @@ tags:
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-123" src="/files/mt_framework.jpg" width="750" height="" /></p>
 Figure 1: SMILES grammar-based representations for reaction prediction and retrosynthesis using machine translation framework. <br><br>
 
-<p><b>Can we do better than the SMILES representation? </b></p>
+  <h3>Can we do better than the SMILES representation?</h3>
 <p>The most commonly used representation is the SMILES representation where molecules are represented using a linear text-based notation. For instance, for say cyclopropane, the SMILES representation is C1CC1. While the SMILES representation is vastly used but contains little explicitly encoded chemical structural information. On the other hand, the grammar parse tree shown in Figure 2 contains additional relevant information. For instance, it contains information such as the number of aromatic carbon atoms, the presence of a ring-structure, the alternating double bonds in the ring, the presence of an aliphatic oxygen atom, and finally the active hydrogen atom attached to the oxygen atom. Moreover, this information is represented in a hierarchical manner, with the broadest class of rules at the top and increasingly more specific ones toward the bottom of the parse-tree. We thus proposed a SMILES grammar-based representation based on these parse trees for molecules. We showed that these representations are better from a model performance as well as information theoretic standpoint, since the conditional entropy (or uncertainty) associated with it is the lowest, thus aiding data-driven approaches in modeling and discovering patterns efficiently.</p>
 
   <p style="text-align: center;"><img class="aligncenter size-full wp-image-123" src="/files/cyclopropane.jpeg" width="450" height="" /></p>
 Figure 2: The SMILES grammar parse-tree obtained for cyclopropane with the SMILES representation as C1CC1.<br><br>
 
-<p><b>Can we do better than the vanilla transformer architecture?</b></p>
+  <h3>Can we do better than the vanilla transformer architecture?</h3>
 <p>The second important question to answer is can the transformer model be adapted to better handle hierarchical chemistry-informed molecular representations? This would allow for the entire grammar (instead of linearized SMILES grammar tree) to be input to the transformer architecture and preserve the structural hierarchy that is inherently encoded. To this end, we modified the transformer architecture and proposed a novel tree transformer architecture for modeling retrosynthesis problems as shown in Figure 3 below.</p>
   
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-123" src="/files/tree-transformer.png" width="450" height="" /></p>
@@ -38,5 +38,5 @@ Figure 3: The proposed tree transformer with SMILES grammar parse-trees as input
 <p><b>Results</b></p>
 <p>The results on the forward prediction and the retrosynthesis prediction are shown below. Note that we only demonstrate the tree transformer approach on the retrosynthesis model but it could be easily applied for the forward prediction model just by reversing the direction of translation and should result in improved performance.</p>
   
-<p>Further results, detailed analyses, and additional chemistry-based statistics are presented in our published articles -- <a href='https://arxiv.org/abs/2305.03153' target="_blank">retrosynthesis tree transformer</a></p>, <a href='https://doi.org/10.1002/aic.17190' target="_blank">forward prediction</a></p>, <a href='https://doi.org/10.1016/j.compchemeng.2021.107533' target="_blank">information-theoretic analysis</a></p>, and <a href='https://doi.org/10.1016/j.coche.2021.100749' target="_blank">review article</a></p>.
+<p>Further results, detailed analyses, and additional chemistry-based statistics are presented in our published articles -- <a href='https://arxiv.org/abs/2305.03153' target="_blank">retrosynthesis tree transformer</a>, <a href='https://doi.org/10.1002/aic.17190' target="_blank">forward prediction</a>, <a href='https://doi.org/10.1016/j.compchemeng.2021.107533' target="_blank">information-theoretic analysis</a>, and <a href='https://doi.org/10.1016/j.coche.2021.100749' target="_blank">review article</a></p>.
 
