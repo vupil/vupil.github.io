@@ -33,8 +33,9 @@ Figure 2: The SMILES grammar parse-tree obtained for cyclopropane with the SMILE
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-123" src="/files/tree-transformer.png" width="450" height="" /></p>
 Figure 3: The proposed tree transformer with SMILES grammar parse-trees as input and target sequence as output.<br><br>
 
-<p>The tree transformer model comprised two major changes -- first, tree positional encoding that encodes positions in a tree capturing parent/child/sibling underlying hierarchy, and second, tree convolution operations that performs convolutions operations around nodes in the tree to capture contextual information. The tree convolution operations allow for structural information to be encoded in the latent space utilizing structural information to the fullest extent.</p>
+<p>The tree transformer model comprises two major changes -- first, tree positional encoding that encodes positions in a tree capturing parent/child/sibling relationships representing the underlying hierarchy, and second, tree convolution operations that performs convolutions operations around nodes in the tree to capture contextual information. The tree convolution operations allow for structural information to be encoded in the latent space utilizing structural information to the fullest extent.</p>
 
+<p><b>Results</b></p>
 <p>The results on the forward prediction and the retrosynthesis prediction are shown below. Note that we only demonstrate the tree transformer approach on the retrosynthesis model but it could be easily applied for the forward prediction model just by reversing the direction of translation and should result in improved performance.</p>
 
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-123" src="/files/gram-tree.jpg" width="300" height="" /> &nbsp; &nbsp; &nbsp; &nbsp; <img class="aligncenter size-full wp-image-123" src="/files/grammar2vec-dist.jpg" width="300" height="" /></p>
