@@ -45,7 +45,7 @@ Figure 3: The proposed tree transformer with SMILES grammar parse-trees as input
 | retrosynthesis (grammar tree, with class)|    51.0    |  64.3   |     70.0       |      74.6      |      79.1    |
 | retrosynthesis (grammar tree, no class)|     41.6   |  54.0    |    60.4       |      67.6     |     73.1     |
   
-    `Table 2: **Incorrect syntax (%)**: consolidated results for the forward prediction model (USPTO-MIT dataset) and retrosynthesis model (USPTO-50K dataset)`
+   `Table 2: **Incorrect syntax (%)**: consolidated results for the forward prediction model (USPTO-MIT dataset) and retrosynthesis model (USPTO-50K dataset)`
 | Model    | Top 1  | Top 2   | Top 3   |Top 5  | Top 10 |
 | ------------------ |---------|------- | -------------- |-------------- | -------------- |
 | forward (grammar linearized) |    1.0        |    |       |           |         |
