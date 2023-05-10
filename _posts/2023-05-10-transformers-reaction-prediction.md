@@ -38,6 +38,3 @@ Figure 3: The proposed tree transformer with SMILES grammar parse-trees as input
 <p><b>Results</b></p>
 <p>The results on the forward prediction and the retrosynthesis prediction are shown below. Note that we only demonstrate the tree transformer approach on the retrosynthesis model but it could be easily applied for the forward prediction model just by reversing the direction of translation and should result in improved performance.</p>
 
-<p style="text-align: center;"><img class="aligncenter size-full wp-image-123" src="/files/gram-tree.jpg" width="300" height="" /> &nbsp; &nbsp; &nbsp; &nbsp; <img class="aligncenter size-full wp-image-123" src="/files/grammar2vec-dist.jpg" width="300" height="" /></p>
-Figure 2: (left) The parse-tree obtained for propene (SMILES representation: CC=C) using SMILES grammar productions rules. The productions are extracted from the parse tree in a depth-first manner, resulting in the grammar representation for propene to be 1, 3, 2, 4, 6, 15, 17, 6, 15, 17, 13, 6, 15, 17 ; (right) A histogram of the 32-dimensional molecular descriptors for all molecules in our dataset<br><br>
-
