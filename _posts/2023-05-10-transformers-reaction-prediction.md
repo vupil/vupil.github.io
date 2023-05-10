@@ -21,10 +21,13 @@ tags:
 <p style="text-align: center;"><img class="aligncenter size-full wp-image-123" src="/files/mt_framework.jpg" width="750" height="" /></p>
 Figure 1: SMILES grammar-based representations for reaction prediction and retrosynthesis using machine translation framework. <br><br>
 
+*Can we do better than SMILES representation?*
 <p>The most commonly used representation is the SMILES representation where molecules are represented using a linear text-based notation. For instance, for say cyclopropane, the SMILES representation is C1CC1. While the SMILES representation is vastly used but contains little explicitly encoded chemical structural information. On the other hand, the grammar parse tree shown in Figure 2 contains additional relevant information. For instance, it contains information such as the number of aromatic carbon atoms, the presence of a ring-structure, the alternating double bonds in the ring, the presence of an aliphatic oxygen atom, and finally the active hydrogen atom attached to the oxygen atom. Moreover, this information is represented in a hierarchical manner, with the broadest class of rules at the top and increasingly more specific ones toward the bottom of the parse-tree. We thus proposed a SMILES grammar-based representation based on these parse trees for molecules. We showed that these representations are better from a model performance as well as information theoretic standpoint, since the conditional entropy (or uncertainty) associated with it is the lowest, thus aiding data-driven approaches in modeling and discovering patterns efficiently.</p>
 
   <p style="text-align: center;"><img class="aligncenter size-full wp-image-123" src="/files/cyclopropane.jpeg" width="450" height="" /></p>
-Figure 2: The SMILES grammar parse-tree obtained for cyclopropan with the SMILES representation as C1CC1.<br><br>
+Figure 2: The SMILES grammar parse-tree obtained for cyclopropane with the SMILES representation as C1CC1.<br><br>
+
+  *Can we do better than the vanilla transformer architecture?*
 
 <p>The second important question to answer is can the transformer model be adapted to better handle hierarchical chemistry-informed molecular representations? This would allow for the entire grammar (instead of linearized SMILES grammar tree) to be input to the transformer architecture and preserve the structural hierarchy that is inherently encoded. To this end, we modified the transformer architecture and proposed a novel tree transformer architecture for modeling retrosynthesis problems as shown in Figure xx</p>
 
