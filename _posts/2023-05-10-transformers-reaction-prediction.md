@@ -18,8 +18,8 @@ tags:
 
 <p>The machine translation framework-based problem modeling is shown in the Figure below. The forward translation (from reactants to products) is used to predict chemical reaction outcomes, and the inverse translation (from product to reactants) is used to solve the retrosynthesis problem. The first important question is how to represent the input and output molecules?</p>
 
-<p style="text-align: center;"><img class="aligncenter size-full wp-image-123" src="/files/overall-framework.jpeg" width="550" height="" /></p>
-Figure 1: An overview of the developed grammar2vec-based algorithmic framework used for the property prediction problem<br><br>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-123" src="/files/mt_framework.jpg" width="750" height="" /></p>
+Figure 1: SMILES grammar-based representations for reaction prediction and retrosynthesis using machine translation framework. <br><br>
 
 <p>The most commonly used representation is the SMILES representation where molecules are represented using a linear text-based notation. For instance, for benzene, the SMILES representation is xx. While the SMILES representation is vastly used, it has certain limitations that are crucial for reaction prediction. First, xx, ... We thus proposed a SMILES grammar-based representation. We show that this representation is better from an information-theoretic standpoint since the conditional entropy (or uncertainty) associated with it is the lowest, thus aiding data-driven approaches in modeling and discovering patterns efficiently.</p>
 
