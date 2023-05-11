@@ -2,7 +2,6 @@
 title: 'Chemistry-informed Transformers for Reaction Prediction and Retrosynthesis'
 date: 2023-05-10
 permalink: /posts/2022/04/SMILES grammar transformers for reactions/
-comments: true
 tags:
   - artificial intelligence
   - retrosynthesis
