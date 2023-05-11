@@ -1,7 +1,7 @@
 ---
 title: 'The Network of Organic Chemistry: network statistics, chemistry insights, and AI applications'
 date: 2023-04-20
-permalink: /posts/2022/04/Hypergraph network of organic chemistry/
+permalink: /posts/2022/04b/Hypergraph network of organic chemistry/
 tags:
   - artificial intelligence
   - graph theory
