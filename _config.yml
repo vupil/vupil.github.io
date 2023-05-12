@@ -302,6 +302,7 @@ plugins:
   - jekyll-target-blank
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-redirect-from
   # - jekyll-gist
   # - jekyll-feed
 # mimic GitHub Pages with --safe
@@ -311,6 +312,7 @@ whitelist:
   # - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-redirect-from
 
 
 # Archives
