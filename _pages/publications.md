@@ -12,6 +12,7 @@ sitemap: true
 <div style="text-align: justify">
 
 <font size="4">
+10. <b>Vipul Mann</b>, Rafiqul Gani, Venkat Venkatasubramanian. Intelligent Process Flowsheet Synthesis and Design using Extended SFILES Representation. <a target="_blank" href='https://www.sciencedirect.com/science/article/pii/B9780443152740500366'><i>Computer Aided Chemical Engineering (2023). Vol. 52. 221-226</i></a> <br><br> 
 9. Kevin Zhang, <b>Vipul Mann</b>, Venkat Venkatasubramanian. G-MATT: Single-step Retrosynthesis Prediction using Molecular Grammar Tree Transformer. <a target="_blank" href='https://arxiv.org/abs/2305.03153'><i>arXiv preprint arXiv:2305.03153</i></a> (under review)<br><br> 
 8. <b>Vipul Mann</b>,  Rafiqul Gani, Venkat Venkatasubramanian. Group contribution-based property modeling for chemical product design: A perspective in the AI era. <a target="_blank" href='https://doi.org/10.1016/j.fluid.2023.113734'><i>Fluid Phase Equilibria (2023): 113734</i></a><br><br>
 7. <b>Vipul Mann</b>, Venkat Venkatasubramanian. AI-driven hypergraph network of organic chemistry: network statistics and applications in reaction classification. <a target="_blank" href='https://doi.org/10.1039/D2RE00309K'><i>Reaction Chemistry & Engineering (2023)</i></a><br><br>
