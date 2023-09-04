@@ -8,7 +8,7 @@ sitemap: true
 
  
 ## Overview
-<img src='../files/overview.png' width="1400">
+<img src='../files/overview.png' width="1200">
  
 
 ## Teaching
