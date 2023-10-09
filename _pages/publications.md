@@ -13,7 +13,7 @@ sitemap: true
 
 <font size="4">
 12. <b>Vipul Mann</b>, Rafiqul Gani, Mauricio Sales-Cruz, Venkat Venkatasubramanian. eSFILES: Intelligent Process Flowsheet Synthesis using Process Knowledge, Symbolic AI, and Machine Learning. <i>Computers & Chemical Engineering (2023)</i> (under review) <br><br> 
-11. <b>Vipul Mann</b>, Shekhar Viswanath, Shankar Vaidyaraman, Jeya Balakrishnan, Venkat Venkatasubramanian. SUSIE: Pharmaceutical CMC Ontology-based Information Extraction for Drug Development using Machine Learning. <i>Computers & Chemical Engineering (2023)</i> (under revision) <br><br> 
+11. <b>Vipul Mann</b>, Shekhar Viswanath, Shankar Vaidyaraman, Jeya Balakrishnan, Venkat Venkatasubramanian. SUSIE: Pharmaceutical CMC Ontology-based Information Extraction for Drug Development using Machine Learning. <a target="_blank" href='https://doi.org/10.1016/j.compchemeng.2023.108446'><i>Computers & Chemical Engineering (2023)</i></a> <br><br> 
 10. <b>Vipul Mann</b>, Rafiqul Gani, Venkat Venkatasubramanian. Intelligent Process Flowsheet Synthesis and Design using Extended SFILES Representation. <a target="_blank" href='https://www.sciencedirect.com/science/article/pii/B9780443152740500366'><i>Computer Aided Chemical Engineering (2023). Vol. 52. 221-226</i></a> <br><br> 
 9. Kevin Zhang, <b>Vipul Mann</b>, Venkat Venkatasubramanian. G-MATT: Single-step Retrosynthesis Prediction using Molecular Grammar Tree Transformer. <i>AIChE journal (2023)</i> (in press)<br><br> 
 8. <b>Vipul Mann</b>,  Rafiqul Gani, Venkat Venkatasubramanian. Group contribution-based property modeling for chemical product design: A perspective in the AI era. <a target="_blank" href='https://doi.org/10.1016/j.fluid.2023.113734'><i>Fluid Phase Equilibria (2023): 113734</i></a><br><br>
