@@ -33,10 +33,13 @@ sitemap: true
 <div style="text-align: justify">
 
 <font size="4">
-   
+10. <b>Vipul Mann</b>, Rafiqul Gani, Venkat Venkatasubramanian. Combining Process Knowledge and Machine Learning for Efficient Process Flowsheet Synthesis. <i>2023 AIChE Annual Meeting, Orlando, FL</i><br><br>
+9. <b>Vipul Mann</b>, Shekhar Viswanath, Shankar Vaidyaraman, Venkat Venkatasubramanian. Accelerating Drug Discovery and Development Using an Ontology-Based Machine Learning Framework. <i> CAST Director's Student Presentation Award Finalists (Invited Talks), 2023 AIChE Annual Meeting, Orlando, FL</i><br><br>
+8. <b>Vipul Mann</b>, Kevin Zhang, Venkat Venkatasubramanian. Chemistry-Aware Retrosynthesis and Forward Reaction Prediction Using Smiles Grammar Tree Transformer. <i>2023 AIChE Annual Meeting, Orlando, FL</i><br><br>
+7. <b>Vipul Mann</b>, Venkat Venkatasubramanian. AI-Driven Hypergraph Network of Organic Chemistry: Applications in Reaction Classification. <i>2023 AIChE Annual Meeting, Orlando, FL</i><br><br>
 6. <b>Vipul Mann</b>, Shekhar Viswanath, Shankar Vaidyaraman, Jeyakumar Balakrishnan, Jon Dieringer, Venkat Venkatasubramanian. AI-Driven Drug Discovery and Manufacturing Using Automated Ontology-Based Information Extraction. <i>2022 AIChE Annual Meeting, Phoenix, AZ</i><br><br>
 5. <b>Vipul Mann</b>, Karoline Brito, Rafiqul Gani, Venkat Venkatasubramanian. Hybrid, Interpretable Machine Learning for Thermodynamic Property Estimation using Grammar2vec for Molecular Representation. <i>2022 AIChE Annual Meeting, Phoenix, AZ</i><br><br>
-4.  <b>Vipul Mann</b>, Venkat Venkatasubramanian. Chemical Representations for Improving Retrosynthesis Prediction: Smiles-Grammar and Information Theory. <i><b>CAST Director's Student Presentation Award Finalists (Invited Talks)</b>, 2021 AIChE Annual Meeting, Boston, MA</i><br><br>
+4.  <b>Vipul Mann</b>, Venkat Venkatasubramanian. Chemical Representations for Improving Retrosynthesis Prediction: Smiles-Grammar and Information Theory. <i>CAST Director's Student Presentation Award Finalists (Invited Talks), 2021 AIChE Annual Meeting, Boston, MA</i><br><br>
 3. <b>Vipul Mann</b>, Venkat Venkatasubramanian. A Formal Grammar-Based Machine Learning Approach for Predicting Reaction Outcomes. <i> 2020 Virtual AIChE Annual Meeting</i><br><br>
 2. <b>Vipul Mann</b>, Abhishek Sivaram, Laya Das, Venkat Venkatasubramanian. Optimal Communication Topologies for Particle Swarm Optimization under Hostile Environments. <i> 2020 Virtual AIChE Annual Meeting</i><br><br>
 1. <b>Vipul Mann</b>, Arun Tangirala, Shankar Narasimhan.  Linear Dynamic Model Identification and Data Reconciliation using Dynamic Iterative PCA (DIPCA). <i> 2017 AIChE Spring Meeting, San Antonio, TX</i><br><br>
