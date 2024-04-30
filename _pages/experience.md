@@ -15,6 +15,7 @@ sitemap: true
 <font size="3">
 <ul>
 <li>Spring 2023: Systemic Risk Management, School of Professional Studies, Columbia University</li>
+<li>Fall 2022: AI in Chemical Engineering, Columbia University</li>
 <li>Summer 2022: AI in Biochemical and Chemical Engineering, Denmark Technical University (DTU)</li>
 <li>Fall 2021: AI in Chemical Engineering, Columbia University</li>
 <li>Fall 2019: Math Methods in Chemical Engineering, Columbia University</li>
@@ -24,6 +25,14 @@ sitemap: true
 </font>
 
 ## Internships
+<font size="3"> <b>Eli Lilly and Company:</b> Talent Development Academy Intern | Advisor: Dr. Shekhar K. Viswanath | Jun - Aug 2023 
+<ul>
+<li> Synthetic Molecule Design and Development (SMDD) </li>
+<li> Pharmaceutical information extraction combining domain knowledge and natural language processing</li>
+<li> Structure to property prediction for peptides using interpretable machine learning models</li>
+</ul>
+</font>
+
 <font size="3"> <b>Novartis:</b> Pharmacometrics Modeling | Advisor: Dr. Matthew Fidler | Jun - Aug 2020 
 <ul>
 <li> Developed bootstrapping and autocovariate search modules for nlmixr - an open-source R package developed at Novartis for performing PK/PD modeling in R</li>
