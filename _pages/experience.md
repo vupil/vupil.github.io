@@ -6,10 +6,10 @@ author_profile: true
 sitemap: true
 ---
 
- 
+<!-- 
 ## Overview
 <img src='../files/overview.png' width="1200">
-
+-->
 
 ## Professional Experience
 <font size="3">Senior Manager, Biomarker Data Scientist at Bristol Myers Squibb, Princeton, NJ, USA | <i>Dec 2023 - present </i>
@@ -23,7 +23,7 @@ sitemap: true
 <li> <a target="_blank" href='https://www.espncricinfo.com/story/_/id/26312451/launching-superstats,-new-language-cricket-analysis'>ML for Sports Analytics with ESPN-cricinfo</a>: Used ESPN's ball-by-ball historical dataset for cricket matches in the past 15 years to build a machine learning tool for predicting match scores, quantifying impactful match events, and generating 'smart statistics' for players </li>
 <li> Built modules in Python for performing optimal balls-allocation between bowlers and batsmen, estimating wicket probability at a given state, and estimating match-win probabilities by factoring in both historical and current data</li>
 <li> Combined all the modules together to build an interactive match-simulation tool with quantification of impactful events. This tool is being used by ESPN-cricinfo since the Indian Premier League 2019 and ICC World Cup 2019 worldwide </li>
-<li> <b>Anomaly Detection and Prediction</b>: Built an L1 trend-extraction routine in Python with built-in hyperparameter estimation module for a piecewise linear trend extraction on any general time-series signal; core of the algorithm uses CVXOPT for optimization </li>
+<li> <u>Anomaly Detection and Prediction</u>: Built an L1 trend-extraction routine in Python with built-in hyperparameter estimation module for a piecewise linear trend extraction on any general time-series signal; core of the algorithm uses CVXOPT for optimization </li>
 <li> Implemented a fuzzy variant of C-means clustering on the estimated linear trends to identify sub-optimal, or anomalous operating regimes through clustering of the operating regimes based on a pre-defined optimality criterion </li>
 <li> Performed subspace angle comparisons between principal vectors to assess cluster separations and derive process insights </li>
 <li> Integrated all the three modules as a Python package and shipped to the end user with Sphinx generated documentation </li>
