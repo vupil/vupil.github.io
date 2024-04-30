@@ -18,7 +18,7 @@ sitemap: true
 </ul>
 </font>
 
-<font size="3">Data Scientist at GyanData Pvt. Ltd., Chennai, India | Nov 2018 - March 2019 
+<font size="3">Data Scientist at GyanData Pvt. Ltd., Chennai, India | Jul 2018 - Jun 2019 
 <ul>
 <li> <a target="_blank" href='https://www.espncricinfo.com/story/_/id/26312451/launching-superstats,-new-language-cricket-analysis'>ML for Sports Analytics with ESPN-cricinfo</a>: Used ESPN's ball-by-ball historical dataset for cricket matches in the past 15 years to build a machine learning tool for predicting match scores, quantifying impactful match events, and generating 'smart statistics' for players </li>
 <li> Built modules in Python for performing optimal balls-allocation between bowlers and batsmen, estimating wicket probability at a given state, and estimating match-win probabilities by factoring in both historical and current data</li>
@@ -27,6 +27,13 @@ sitemap: true
 <li> Implemented a fuzzy variant of C-means clustering on the estimated linear trends to identify sub-optimal, or anomalous operating regimes through clustering of the operating regimes based on a pre-defined optimality criterion </li>
 <li> Performed subspace angle comparisons between principal vectors to assess cluster separations and derive process insights </li>
 <li> Integrated all the three modules as a Python package and shipped to the end user with Sphinx generated documentation </li>
+</ul>
+</font>
+
+<font size="3">Manager, Technology at CleanMax Solar, Mumbai, India | <i>Jul 2017 - Jun 2018 </i>
+<ul>
+<li> Headed an IoT-based remote monitoring system used for managing 400+ rooftop solar plants with combined capacity of 100+ MW; implemented outlier detection algorithms and performed root-cause analysis of failures to maximize generation </li>
+<li>Developed predictive machine learning models for identifying sub-optimal inverter performance using operational plant data and demonstrated reduced downtime at pilot sites through statistical hypothesis testing</li>
 </ul>
 </font>
 
