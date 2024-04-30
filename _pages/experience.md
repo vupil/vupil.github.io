@@ -30,7 +30,7 @@ sitemap: true
 </ul>
 </font>
 
-<font size="3">Manager, Technology at CleanMax Solar, Mumbai, India | <i>Jul 2017 - Jun 2018 </i>
+<font size="3">Manager, Technology at CleanMax Solar, Mumbai, India | Jul 2017 - Jun 2018
 <ul>
 <li> Headed an IoT-based remote monitoring system used for managing 400+ rooftop solar plants with combined capacity of 100+ MW; implemented outlier detection algorithms and performed root-cause analysis of failures to maximize generation </li>
 <li>Developed predictive machine learning models for identifying sub-optimal inverter performance using operational plant data and demonstrated reduced downtime at pilot sites through statistical hypothesis testing</li>
