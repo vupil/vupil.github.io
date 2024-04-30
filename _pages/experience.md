@@ -81,7 +81,7 @@ sitemap: true
 <ul>
 <li>Spring 2023: Systemic Risk Management, School of Professional Studies, Columbia University</li>
 <li>Fall 2022: AI in Chemical Engineering, Columbia University</li>
-<li>Summer 2022: AI in Biochemical and Chemical Engineering, Denmark Technical University (DTU)</li>
+<li>Summer 2022: AI in Biochemical and Chemical Engineering, Technical University of Denmark (DTU)</li>
 <li>Fall 2021: AI in Chemical Engineering, Columbia University</li>
 <li>Fall 2019: Math Methods in Chemical Engineering, Columbia University</li>
 <li>Spring 2017: Introduction to Statistical Hypothesis Testing, IIT Madras</li>
