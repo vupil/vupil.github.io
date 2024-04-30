@@ -51,7 +51,7 @@ sitemap: true
 
 
 ## Internships
-<font size="3"> <b>Eli Lilly and Company:</b> Talent Development Academy Intern | Advisor: Dr. Shekhar K. Viswanath | May - Aug 2023 
+<font size="3"> Talent Development Academy Intern, Eli Lilly and Company | May - Aug 2023 
 <ul>
 <li> Synthetic Molecule Design and Development (SMDD) </li>
 <li> Pharmaceutical information extraction combining domain knowledge and natural language processing</li>
@@ -59,7 +59,7 @@ sitemap: true
 </ul>
 </font>
 
-<font size="3"> <b>Novartis:</b> Pharmacometrics Modeling | Advisor: Dr. Matthew Fidler | Jun - Aug 2020 
+<font size="3"> Pharmacometrics Intern, Novartis | Jun - Aug 2020 
 <ul>
 <li> Developed bootstrapping and autocovariate search modules for nlmixr - an open-source R package developed at Novartis for performing PK/PD modeling in R</li>
 <li> Implemented stepwise covariate modeling (SCM) and LASSO-based covariate search algorithms for improving the predictive ability of models used for studying drug effects in human trials </li>
@@ -67,7 +67,7 @@ sitemap: true
 </ul>
 </font>
 
-<font size="3"> <b>ABB:</b> Historical Data Mining and System Identification | Advisor: Dr. Kaushik Ghosh | May - Aug 2015 
+<font size="3"> Summer Research Intern, ASEA Brown Boveri (ABB) | May - Aug 2015 
 <ul>
 <li> Implemented a novel segment identification algorithm in MATLAB to identify 'good regions' in historical databases </li>
 <li> Comparatively analyzed an iterative-autoregressive exogenous (ARX) algorithm with the existing system identification algorithm at ABB; proposed changes to make the algorithm more robust towards high noise conditions </li>
