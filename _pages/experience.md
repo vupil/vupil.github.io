@@ -25,7 +25,7 @@ sitemap: true
 </font>
 
 ## Internships
-<font size="3"> <b>Eli Lilly and Company:</b> Talent Development Academy Intern | Advisor: Dr. Shekhar K. Viswanath | Jun - Aug 2023 
+<font size="3"> <b>Eli Lilly and Company:</b> Talent Development Academy Intern | Advisor: Dr. Shekhar K. Viswanath | May - Aug 2023 
 <ul>
 <li> Synthetic Molecule Design and Development (SMDD) </li>
 <li> Pharmaceutical information extraction combining domain knowledge and natural language processing</li>
