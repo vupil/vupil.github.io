@@ -12,7 +12,7 @@ sitemap: true
 -->
 
 ## Professional Experience
-<font size="3">Senior Manager, Biomarker Data Scientist at Bristol Myers Squibb, Princeton, NJ, USA | <i>Dec 2023 - present </i>
+<font size="3">Senior Manager, Biomarker Data Scientist at Bristol Myers Squibb, Princeton, NJ, USA | Dec 2023 - <i> present </i>
 <ul>
 <li> Global Biometrics & Data Sciences | Cell Therapy and Oncology data science </li>
 </ul>
