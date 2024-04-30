@@ -6,6 +6,13 @@ author_profile: true
 sitemap: true
 ---
 
+## PhD Thesis
+<div style="text-align: justify">
+<font size="4">
+</b>Mann, V. (2024). <a target="_blank" href='https://doi.org/10.7916/kgkh-yj15'>Domain-informed Language Models for Process Systems Engineering (Doctoral dissertation, Columbia University)</a>
+</div>
+
+
 ## Journal Publications
 <hr style="height:5px;border:none;color:#333;background-color:#333;" />
 
